@@ -1,0 +1,88 @@
+---
+layout: page
+title: Contact
+header_image: "/assets/img/bg/contact.jpg"
+---
+
+<!-- contact-area -->
+<section class="contact-area pb-70 pt-100">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-4 col-md-4 text-center text-md-left mb-30">
+                <div class="contact-person">
+                    <h4>Visit our office</h4>
+                    <p>Feel free to drop by for a coffee or tea. We are open to explain our offerings and discuss how they fit your needs in a face-to-face chat.</p>
+                    <a href="{{site.location}}" target="blank">
+                      <div><i class="fas fa-map-marker-alt"></i>{{site.address}}</div>
+                      <div><i class="far fa-calendar-alt"></i>{{ site.opening_hours }}</div>
+                    </a>
+                </div>
+            </div>
+            <div class="col-xl-4 col-md-4 text-center text-md-left mb-30">
+                <div class="contact-person">
+                    <h4>Give us a call</h4>
+                    <p>Happy to jump on the phone and explain our offerings and discuss how they match your demands in a call.</p>
+                    <a href="tel:{{site.phone}}"><i class="fas fa-phone"></i>{{ site.phone }}</a>
+                </div>
+            </div>
+            <div class="col-xl-4 col-md-4 text-center text-md-left mb-30">
+                <div class="contact-person">
+                    <h4>Drop a line</h4>
+                    <p>Limited time to talk? Drop us a line and we get back to you via email. Just let us know your availabilities and we can schedule an online presentation.</p>
+                    <a href="mailto:{{site.email}}"><i class="far fa-envelope"></i>{{ site.email }}</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- contact-maps -->
+<div class="maps-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="maps">
+                    <a href="{{site.location}}" target="blank">
+                      <img src="/assets/img/contact/map.png" class="img-fluid" alt="office location">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- contact-form -->
+<!-- <section class="contact-form pb-100 pt-100">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <div class="contact-form-title">
+                    <h2>Let’s talk</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi tempora veritatis nemo aut ea iusto eos est expedita,quas ab adipisci.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-8 offset-md-2">
+                <form id="contact-form" action="mail.php" class="contact-form" method="POST">
+                    <div class="row">
+                        <div class="col-xl-6 col-lg-6 mb-20">
+                            <input name="name" type="text" placeholder="Name">
+                        </div>
+                        <div class="col-xl-6 col-lg-6 mb-20">
+                            <input name="email" type="email" placeholder="Email">
+                        </div>
+                        <div class="col-xl-12 mb-20">
+                            <input name="subject" type="text" placeholder="Subject">
+                        </div>
+                        <div class="col-xl-12 mb-20">
+                            <textarea name="message" id="text-message" cols="30" rows="10" placeholder="Message*"></textarea>
+                        </div>
+                        <div class="col-xl-12 text-center">
+                            <button class="btn" type="submit">Send Mail</button>
+                        </div>
+                    </div>
+                </form>
+                <p class="ajax-response"></p>
+            </div>
+        </div>
+    </div>
+</section> -->

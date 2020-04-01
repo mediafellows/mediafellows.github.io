@@ -1,0 +1,105 @@
+{% include footer/clients.html %}
+<footer class="footer-section">
+    <div class="container">
+        <div class="footer-cta pt-80 pb-20">
+            <div class="row">
+                <div class="col-xl-4 col-md-4 mb-30">
+                    <div class="single-cta">
+                        <i class="fas fa-map-marker-alt"></i>
+                        <div class="cta-text">
+                            <h4>Visit us</h4>
+                            <span><a class="footer-link" href="{{site.location}}" target="blank">{{site.address}}</a></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-md-4 mb-30">
+                    <div class="single-cta">
+                        <i class="fas fa-phone"></i>
+                        <div class="cta-text">
+                            <h4>Call us</h4>
+                            <span><a class="footer-link" href="tel:{{site.phone}}">{{site.phone}}</a></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-md-4 mb-30">
+                    <div class="single-cta">
+                        <i class="far fa-envelope-open"></i>
+                        <div class="cta-text">
+                            <h4>Write us</h4>
+                            <span><a class="footer-link" href="mailto:{{site.email}}">{{site.email}}</a></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-content pt-50 pb-30">
+            <div class="footer-pattern">
+                <img src="{{site.baseurl}}/assets/img/footer/footer_map.png" alt="">
+            </div>
+            <div class="row">
+                <div class="col-xl-4 col-lg-4 mb-50">
+                    <div class="footer-widget">
+                        <div class="footer-logo">
+                            <a href="{{site.url}}"><img src="{{site.logo_dark_bg}}" class="img-fluid" alt="{{site.title}}"></a>
+                        </div>
+                        <div class="footer-text">
+                            <p>{{ site.company }} develops and operates the MediaStore, the leading multi-tenant SaaS platform to manage, market, and distribute audiovisual content.</p>
+                        </div>
+                        <!-- <div class="footer-social-icon">
+                            <span>Follow us</span>
+                            <a href="{{site.facebook_url}}"><i class="fab fa-facebook-f facebook-bg"></i></a>
+                            <a href="{{site.twitter_url}}"><i class="fab fa-twitter twitter-bg"></i></a>
+                            <a href="{{site.pinterest_url}}"><i class="fab fa-pinterest-p google-bg"></i></a>
+                        </div> -->
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-6 mb-30">
+                    <div class="footer-widget">
+                        <div class="footer-widget-heading">
+                            <h3>Sitemap</h3>
+                        </div>
+                        <ul>
+                            <li><a href="#">Home</a></li>
+                            {% for link in site.data.navigation %}
+                              <li><a href="{{link.url}}">{{link.text}}</a></li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-6 mb-50">
+                    <div class="footer-widget">
+                        <div class="footer-widget-heading">
+                            <h3>Subscribe</h3>
+                        </div>
+                        <div class="footer-text mb-25">
+                            <p>Don’t miss to subscribe to our new feeds, kindly enter your email address in the form below.</p>
+                        </div>
+                        {% include footer/subscribe.html %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="copyright-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-6 col-lg-6 text-center text-lg-left">
+                    <div class="copyright-text">
+                        <p>Copyright &copy; 2020, All Right Reserved <a href="#">{{site.company}}</a></p>
+                    </div>
+                </div>
+                <div class="col-xl-6 col-lg-6 d-none d-lg-block text-right">
+                    <div class="footer-menu">
+                        <ul>
+                            <li><a href="/pages/imprint.html">Imprint</a></li>
+                            <li><a href="/pages/disclaimer.html">Disclaimer</a></li>
+                            <!-- <li><a href="/pages/terms.html">Terms</a></li>
+                            <li><a href="/pages/privacy.html">Privacy</a></li> -->
+                            <li><a href="/pages/contact.html">Contact</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>

@@ -1,0 +1,36 @@
+---
+layout: page
+title: Imprint
+header_image: "/assets/img/bg/contract.jpg"
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-1"></div>
+    <div class="col-md-10">
+      <div class="text-center pt-100 pb-100">
+          <h1>{{ page.title }}</h1>
+          <div class="pt-50">
+            <p>Responsible for this web site is {{ site.company }} GmbH, represented by its senior management.</p>
+          </div>
+          <dl>
+            <dt>Address</dt>
+            <dd><a href="{{site.location}}" target="blank">{{ site.company }} GmbH, {{ site.address }}</a></dd>
+            <dt>Email</dt>
+            <dd><a href="mailto:{{site.email}}">{{ site.email }}</a></dd>
+            <dt>Phone</dt>
+            <dd><a href="tel:{{ site.phone }}">{{ site.phone }}</a></dd>
+            <dt>Fax</dt>
+            <dd><a href="tel:{{ site.fax }}">{{ site.fax }}</a></dd>
+            <dt>Registration Court</dt>
+            <dd>{{ site.registration_court }}</dd>
+            <dt>Registration Number</dt>
+            <dd>{{ site.registration_number }}</dd>
+            <dt>Managing Director(s)</dt>
+            <dd>{{ site.managing_directors }}</dd>
+          </dl>
+      </div>
+    </div>
+    <div class="col-md-1"></div>
+  </div>
+</div>

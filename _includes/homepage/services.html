@@ -1,0 +1,33 @@
+<section class="service-area pt-100 pb-50">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12 text-center pb-40 ">
+                <div class="section-title service-title">
+                    <h2>Our Services</h2>
+                    <p>No matter if you are looking for an out-of-the box SaaS or a fully-integrated solution, 
+                       our service offerings ranging from operations to system integration will fit your needs.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            {% for service in site.services %}
+            <div class="col-xl-4 col-lg-4 col-md-6 mb-50 ">
+                <div class="services-box">
+                    <div class="services-img">
+                        <img src="{{service.image}}" class="img-fluid" alt="{{service.title}}">
+                    </div>
+                    <div class="services-content">
+                        <div class="card-title">
+                            <h5><a href="{{service.url}}">{{service.title}}</a></h5>
+                        </div>
+                        <div class="card-text">
+                            <p>{{service.description}}</p>
+                        </div>
+                        <a href="{{service.url}}#content" class="btn">Read More</a>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>

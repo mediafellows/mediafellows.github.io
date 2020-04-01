@@ -1,0 +1,68 @@
+---
+layout: page
+permalink: "/pages/projects"
+title: projects
+header_image: "/assets/img/bg/projects.jpg"
+---
+<!-- projects-area -->
+<section class="portfolio-area portfolio-page grey-bg pt-100 pb-70">
+  <div class="container">
+    <div class="row">
+        <div class="col-xl-12">
+            <div class="col-xl-12 text-center pb-40 ">
+                <div class="section-title service-title">
+                    <h2>Recent Projects</h2>
+                    <p>Have a look at the websites we successfully operate on the MediaStore platform. Don't hesitate getting in touch with us if you would like to know more details about a particular project.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-12 text-center ">
+            <div class="portfolio-menu">
+                <button class="active" data-filter="*">all</button>
+                {% for category in site.data.project-categories %}
+                  <button class="portfolio-item" data-filter=".{{category.ident}}">{{category.name}}</button>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    {% for project in site.data.portfolios %}
+      <a name="{{ project.identifier }}"></a>
+      <div class="row portfolio-active">
+        <div class="col-xl-12 col-lg-12 col-md-12 grid-item mt-80 {{project.categories}}">
+          <h4>{{project.title}}</h4>
+          <p><a href="{{project.website}}" target="blank">{{ project.website }}</a></p>
+          <div class="row">
+            <div class="col-xl-4 col-lg-4 col-md-12 mb-50">
+              <a href="{{project.image}}" class="view">
+                <img src="{{project.thumb}}" class="img-fluid" alt="{{project.title}}">
+              </i></a>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-12 mb-50">
+              <h5>Which requirements?</h4>
+              {% if project.what %}
+                <ul>
+                {% for item in project.what %}
+                  <li>{{ item }}</li>
+                {% endfor %}
+                </ul>
+              {% endif %}
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-12 mb-50">
+              <h5>Why MediaStore?</h4>
+              {% if project.why %}
+                <ul>
+                {% for item in project.why %}
+                  <li>{{ item }}</li>
+                {% endfor %}
+                </ul>
+              {% endif %}
+            </div>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+</section>
+
+<!-- {% include projects/download_area.html %} -->

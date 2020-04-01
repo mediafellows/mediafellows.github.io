@@ -1,0 +1,42 @@
+---
+layout: page
+permalink: "/pages/services"
+title: services
+header_image: "/assets/img/bg/services.jpg"
+---
+
+<!-- services-area -->
+<section class="service-area pt-100 pb-50">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12 text-center pb-40 ">
+                <div class="section-title service-title">
+                    <h2>Our Services</h2>
+                    <p>No matter if you are looking for an out-of-the box SaaS or a fully-integrated solution, our service offerings ranging from operations to system integration will fit your needs.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+          {% for service in site.services %}
+            <div class="col-xl-4 col-lg-4 col-md-6 mb-30">
+                <div class="blog-wrapper home-blog-wrapper white-bg">
+                    <div class="blog-thumb">
+                        <a href="{{ service.url }}#content">
+                          <img class="img-fluid" src="{{ service.image }}" alt="{{ service.title }}"/>
+                        </a>
+                    </div>
+                    <div class="blog-content home-blog">
+                        <h2 class="blog-title">
+                            <a href="{{service.url}}#content">{{service.title}}</a>
+                        </h2>
+                    <p>{{ service.description }}</p>
+                    </div>
+                    <div class="link-box home-blog-link">
+                        <a href="{{service.url}}#content">Read More</a>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
