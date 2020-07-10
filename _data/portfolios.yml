@@ -56,22 +56,39 @@
     - iOS app for off-line viewing and selling
     - Campaign management and marketing data support
       
-- title: MGM LionsDen
-  identifier: lionsden
-  description: Online catalogue, content marketing, video screening and asset distribution
-  categories: catalogue video distribution
-  website: https://www.mgmlionsden.com/
-  thumb: /assets/img/portfolio/mgm_thumb.png
-  image: /assets/img/portfolio/mgm.png
+# - title: MGM LionsDen
+#   identifier: lionsden
+#   description: Online catalogue, content marketing, video screening and asset distribution
+#   categories: catalogue video distribution
+#   website: https://www.mgmlionsden.com/
+#   thumb: /assets/img/portfolio/mgm_thumb.png
+#   image: /assets/img/portfolio/mgm.png
+#   what:
+#     - Provide a single destination for content sales & marketing as well as post-sales fulfilment
+#     - Ingest a large initial stock of videos, images and ancillary assets from various source
+#     - Implement a fully custom visual branding
+#   why:
+#     - Hassle-free day-to-day management of content catalog and assets
+#     - Sleek client-facing site with effortless self-service asset download
+#     - Easily configurable instant screening links for exclusive watermarked pre-release screenings
+#     - Exclusive asset access links with bulk download for active licensees
+#     - Analytics tracking on key client activities such as page views and screening durations
+
+- title: ORF Contentsales
+  identifier: orf
+  description: Online catalogue, content marketing, video screening
+  categories: catalogue video marketing
+  website: https://contentsales.orf.at
+  thumb: /assets/img/portfolio/orf_thumb.png
+  image: /assets/img/portfolio/orf.png
   what:
-    - Provide a single destination for content sales & marketing as well as post-sales fulfilment
+    - Provide a single destination for content sales & marketing
     - Ingest a large initial stock of videos, images and ancillary assets from various source
-    - Implement a fully custom visual branding
+    - Connect to on-prem system such as ORF's CRM
   why:
     - Hassle-free day-to-day management of content catalog and assets
-    - Sleek client-facing site with effortless self-service asset download
-    - Easily configurable instant screening links for exclusive watermarked pre-release screenings
-    - Exclusive asset access links with bulk download for active licensees
+    - Sleek client-facing site in responsive design
+    - Easily configurable instant screening links with direct report into ORF's CRM system
     - Analytics tracking on key client activities such as page views and screening durations
 
 - title: eOne International Distribution
