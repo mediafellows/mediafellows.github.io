@@ -6,6 +6,8 @@
   url: /pages/features
 - text: projects
   url: /pages/projects
+- text: news
+  url: /pages/news
 - text: about us
   url: /pages/about
 - text: contact
