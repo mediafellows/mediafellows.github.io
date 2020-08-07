@@ -74,11 +74,11 @@
 #     - Exclusive asset access links with bulk download for active licensees
 #     - Analytics tracking on key client activities such as page views and screening durations
 
-- title: ORF Contentsales
+- title: ORF-Enterprise Content Sales International
   identifier: orf
   description: Online catalogue, content marketing, video screening
   categories: catalogue video marketing
-  website: https://contentsales.orf.at
+  website: https://contentsales.ORF.at
   thumb: /assets/img/portfolio/orf_thumb.png
   image: /assets/img/portfolio/orf.png
   what:
