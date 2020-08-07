@@ -1,5 +1,5 @@
 ---
-layout: feature
+layout: features
 identifier: websites
 title: Turnkey Client Websites
 description: "A modern, responsive client-facing catalogue, streaming and post-sales platform can effortlessly be customized to match your corporate identity."

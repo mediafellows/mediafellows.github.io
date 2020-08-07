@@ -1,5 +1,5 @@
 ---
-layout: feature
+layout: features
 title: Complex Workflows
 identifier: workflows
 description: Under the hood, our workflow engine achieves complex multi-step tasks and can easily be leveraged to suit your business requirements.

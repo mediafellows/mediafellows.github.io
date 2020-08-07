@@ -1,5 +1,5 @@
 ---
-layout: feature
+layout: features
 title: Secure Screener Links
 identifier: security
 description: Share screeners individually or to multiple users via secure, time or view restricted branded email links to engage closer with your clients.

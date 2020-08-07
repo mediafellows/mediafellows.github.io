@@ -1,5 +1,5 @@
 ---
-layout: feature
+layout: features
 title: Auto-scaling Infrastructure
 identifier: infrastructure
 description: Our platform is fully cloud-based and scales to your needs, requiring no more than a web browser and and internet connection to interact with.

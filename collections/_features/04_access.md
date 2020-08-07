@@ -1,5 +1,5 @@
 ---
-layout: feature
+layout: features
 title: Granular Access Control
 identifier: access
 description: Users, depending on their permissions, can view selected titles and marketing assets, instantly preview, and download. 

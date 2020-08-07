@@ -1,5 +1,5 @@
 ---
-layout: feature
+layout: features
 title: Comprehensive API Interfacing
 identifier: api
 description: Use our fully API-based infrastructure to easily interface with external systems and accommodate complex two-way interactions.

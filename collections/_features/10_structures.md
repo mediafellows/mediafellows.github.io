@@ -1,5 +1,5 @@
 ---
-layout: feature
+layout: features
 title: Customizable Data Structures
 identifier: structures
 description: Granular contextual metadata of titles, their marketing and auxiliary assets for instant recovery and sharing. 

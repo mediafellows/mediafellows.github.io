@@ -1,5 +1,5 @@
 ---
-layout: service
+layout: services
 title: System & Data Integration
 description: Love your existing on-premise or cloud solutions? Our platform is fully API-driven and will integrate smoothly into your existing infrastructure and data flows.
 image: /assets/img/services/system_integration.jpg

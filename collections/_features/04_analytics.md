@@ -1,5 +1,5 @@
 ---
-layout: feature
+layout: features
 title: Detailed Analytics
 identifier: analytics
 description: Real-time, actionable analytics tracking to provide comprehensive insights into retentions of any marketing activity.

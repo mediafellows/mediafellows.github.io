@@ -1,5 +1,5 @@
 ---
-layout: feature
+layout: features
 title: Post-sales Asset Fulfillment
 identifier: fulfillment
 description: Manage any type of asset and provide title- or deal-based download access to selected clients via package downloads and high speed file transfer.

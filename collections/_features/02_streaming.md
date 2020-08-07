@@ -1,5 +1,5 @@
 ---
-layout: feature
+layout: features
 title: Adaptive Video Streaming
 identifier: streaming
 description: Our adaptive video streaming is AES-encrypted and offers advanced protection features including dynamic DRM, visible watermarking, and two-factor authentication.

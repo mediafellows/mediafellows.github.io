@@ -1,5 +1,5 @@
 ---
-layout: service
+layout: services
 title: Content & Asset Managment
 description: Need support in your content and asset management tasks? We are here to free you from your daily routines by offering a fully managed service 24/7.
 image: /assets/img/services/managed_service.jpg

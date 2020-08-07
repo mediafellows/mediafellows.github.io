@@ -1,5 +1,5 @@
 ---
-layout: feature
+layout: features
 title: Multi-layer Metadata
 identifier: metadata
 description: Maintain multiple sets of metadata per title and asset in order to manage multi-language and pitch data and even vendor-specific schemas.

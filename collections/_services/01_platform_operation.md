@@ -1,5 +1,5 @@
 ---
-layout: service
+layout: services
 title: Website Setup & Operation
 description: Whether you opt for a white-label or a custom-designed client site - we will get your new marketing site up and running within days rather than months.
 image: /assets/img/services/platform_operation.jpg

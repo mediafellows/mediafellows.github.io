@@ -1,5 +1,5 @@
 ---
-layout: feature
+layout: features
 title: Portable Offline Screening
 identifier: offline
 description: Mobile app sync of titles and videos for portable offline screening with second screen connectivity via HDMI or AirPlay.
