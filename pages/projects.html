@@ -31,33 +31,35 @@ header_image: "/assets/img/bg/projects.jpg"
       <a name="{{ project.identifier }}"></a>
       <div class="row portfolio-active">
         <div class="col-xl-12 col-lg-12 col-md-12 grid-item mt-80 {{project.categories}}">
-          <h4>{{project.title}}</h4>
-          <p><a href="{{project.website}}" target="blank">{{ project.website }}</a></p>
-          <div class="row">
-            <div class="col-xl-4 col-lg-4 col-md-12 mb-50">
-              <a href="{{project.image}}" class="view">
-                <img src="{{project.thumb}}" class="img-fluid" alt="{{project.title}}">
-              </i></a>
-            </div>
-            <div class="col-xl-4 col-lg-4 col-md-12 mb-50">
-              <h5>Which requirements?</h4>
-              {% if project.what %}
-                <ul>
-                {% for item in project.what %}
-                  <li>{{ item }}</li>
-                {% endfor %}
-                </ul>
-              {% endif %}
-            </div>
-            <div class="col-xl-4 col-lg-4 col-md-12 mb-50">
-              <h5>Why MediaStore?</h4>
-              {% if project.why %}
-                <ul>
-                {% for item in project.why %}
-                  <li>{{ item }}</li>
-                {% endfor %}
-                </ul>
-              {% endif %}
+          <div class="project-box">
+            <h4>{{project.title}}</h4>
+            <p><a href="{{project.website}}" target="blank">{{ project.website }}</a></p>
+            <div class="row">
+              <div class="col-xl-4 col-lg-4 col-md-12 mb-50">
+                <a href="{{project.image}}" class="view">
+                  <img src="{{project.thumb}}" class="img-fluid" alt="{{project.title}}">
+                </i></a>
+              </div>
+              <div class="col-xl-4 col-lg-4 col-md-12 mb-50">
+                <h5>Which requirements?</h4>
+                {% if project.what %}
+                  <ul>
+                  {% for item in project.what %}
+                    <li>{{ item }}</li>
+                  {% endfor %}
+                  </ul>
+                {% endif %}
+              </div>
+              <div class="col-xl-4 col-lg-4 col-md-12 mb-50">
+                <h5>Why MediaStore?</h4>
+                {% if project.why %}
+                  <ul>
+                  {% for item in project.why %}
+                    <li>{{ item }}</li>
+                  {% endfor %}
+                  </ul>
+                {% endif %}
+              </div>
             </div>
           </div>
         </div>

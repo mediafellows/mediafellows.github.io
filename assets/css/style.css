@@ -13,7 +13,7 @@
 5. Solution
 6. Service
 7. Counter
-8. Portfolio
+8. Project/Portfolio
 9. Testimonial
 10. Team
 11. Footer
@@ -1085,7 +1085,7 @@ dt {
 	font-weight: 500;
 }
 
-/* 8. Portfolio */
+/* 8. Project/Portfolio */
 .portfolio-area.portfolio-page .grid-item {
   border-bottom: 1px solid black;  
 }
@@ -1226,6 +1226,25 @@ dt {
 	width: 60%;
 	margin: 0 auto 60px;
 }
+
+.project-box {
+	/* border: 1px solid #e6e6e6; */
+	transition: .3s;
+	box-shadow: 0 5px 30px rgba(0, 0, 0, 0.1);
+	padding: 20px;
+	margin-bottom: 80px;
+}
+.project-box:hover {
+}
+
+.project-box h3 {
+  padding: 10px 0 20px 0;
+}
+
+.project-box a {
+  color: #ff343c;
+}
+
 /* 9. Testimonial */
 .client-text {
 	font-size: 16px;
