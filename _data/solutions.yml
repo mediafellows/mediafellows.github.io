@@ -1,0 +1,60 @@
+- title: MediaStore for Archivale & Online Catalogue
+  identifier: for_archival
+  categories: archival
+  thumb: /assets/img/solutions/archival_thumb.jpg
+  image: /assets/img/solutions/archival.jpg
+  question: Is figuring out how to store, manage and access your assets still a challenge?
+  solutions:
+   - Centralize your data with MediaStore to make remote and low-touch interactions run smoother than ever
+   - "No need to run dedicated systems on your end: all you’ll require to access MediaStore’s easy-to-use interface is a web browser"
+   - Encrypted video streaming and asset storage keeps your content safe, while our granular access model and optional security measures (2FA, burn-in or forensic watermarks, SSO) put you in control
+   - "Fast migration: mediafellows can consolidate your data from several migration points thanks to our data migration workflows and flexible metadata schemas"
+   - "Several solutions, one platform: we support multi-device usage and multiple asset types, with video screening, multi-language support, TV casting, phone/tablet app and browser interfaces"
+  example_text: Take a look at our projects showcasing our archive & online catalogue features
+  example_link: projects#lahm
+
+- title: MediaStore for Marketing & Sales
+  identifier: for_marketing
+  categories: marketing
+  thumb: /assets/img/solutions/marketing_thumb.jpg
+  image: /assets/img/solutions/marketing.jpg
+  question: Could your screening platform showcase your content more impressively – or do you rely on decentralized, generic sales tools?
+  solutions:
+    - "Set up your sales website with our compelling and responsive interfaces to refocus on what matters: letting your content shine"
+    - Direct online marketing via the MediaStore’s client-facing catalog site, video conferencing and email marketing tools let you showcase selected titles to a targeted audience
+    - The MediaStore’s detailed analytics help you capture every opportunity with measurable outcomes, integrated straight into your current tools and processes 
+    - Leverage our turnkey white-label sales website design or go for a fully custom look and feel to align with your corporate identity, even without a go-to designer on your end
+    - Enhance your client experience with new features like fully flexible wish lists, recommendations, screening rooms and more
+  example_text: Take a look at our projects showcasing our direct online marketing & sales features 
+  example_link: projects#lgtv
+
+- title: MediaStore for Licensing & Purchasing
+  identifier: for_licensing
+  categories: licensing
+  thumb: /assets/img/solutions/licensing_thumb.jpg
+  image: /assets/img/solutions/licensing.jpg
+  question: Online sales are increasing - is your website missing this opportunity?
+  solutions:
+    - Swiftly set up a shoppable marketplace with MediaStore
+    - Licensing and purchasing solutions that work for your content - with or without royalty fees, auto-contractual, with guarantees that fees are collected, and many more customizable features
+    - Fully integrated payment solution so your customers never have to leave your website, keeping you in control of the user journey throughout the checkout process
+    - White label templates plus thorough customization that achieves a cohesive corporate identity with a swift time-to-market and no additional designers or developers needed
+    - Constant updates and expansions with roadmaps specific to your needs ensures your UI stays ahead of the curve, always
+  example_text: Take a look at our projects showcasing our licensing & purchasing features
+  example_link: projects#lahm
+
+- title: MediaStore for Asset Distribution
+  identifier: for_distribution
+  categories: distribution
+  thumb: /assets/img/solutions/distribution_thumb.jpg
+  image: /assets/img/solutions/distribution.jpg
+  question: Getting the right assets to the right people - can it ever be simple and secure?
+  solutions:
+    - "We take care of all file and metadata deliveries: once you partner with mediafellows, you never need to think about your fulfilment workflows again"
+    - MediaStore’s impressive UI with multi-device experience makes low-touch and remote interactions run smoother than ever
+    - Let your clients show you which assets they need with fully flexible wish lists, recommendations reviews, baskets and more
+    - Self-service downloads, Aspera server auto-distribution and the ability to deliver directly to the client’s FTP server – we’ll make sure your assets will reach their destination without needless overhead
+    - The powerful MediaStore API provides comprehensive integration opportunities with your existing databases, storage servers, tools and processes
+  example_text: Take a look at our projects showcasing our asset distribution features 
+  example_link: projects#nbcupassport  
+  

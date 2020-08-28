@@ -1,0 +1,90 @@
+---
+layout: page
+permalink: "/pages/solutions"
+title: solutions
+header_image: "/assets/img/bg/solutions.jpg"
+---
+<!-- solutions-area -->
+<section class="portfolio-area portfolio-page grey-bg pt-100 pb-70">
+  <div class="container">
+    <div class="row">
+        <div class="col-xl-12">
+            <div class="col-xl-12 text-center pb-40 ">
+                <div class="section-title service-title">
+                    <h2>MediaStore Solutions</h2>
+                    <p>MediaStore's flexibility ensures that it can excel at your business needs, no matter if you are looking for a content and asset management hub, a powerful suite of marketing tools and/or a fulfilment platform.</p>
+                    <p>Our different solutions put emphasis on exactly what you need in order to consolidate and improve your data, workflows and online presence.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-12 text-center ">
+            <div class="portfolio-menu">
+                <button class="active" data-filter="*">all</button>
+                {% for category in site.data.solution-categories %}
+                  <button class="portfolio-item" data-filter=".{{category.ident}}">{{category.name}}</button>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    
+    {% for solution in site.data.solutions %}
+      {% capture index %}{% cycle 'odd', 'even' %}{% endcapture %}
+        <a name="{{ solution.identifier }}"></a>
+        <div class="row portfolio-active">
+          <div class="col-xl-12 col-lg-12 col-md-12 grid-item mt-80 {{solution.categories}}">
+            <div class="solution-box">
+              <h3>{{solution.title}}</h3>
+              <div class="row">
+              {% if index == 'odd' %}
+                <div class="col-xl-4 col-lg-4 col-md-12 mb-20">
+                  <a href="{{solution.image}}" class="view">
+                    <img src="{{solution.thumb}}" class="img-fluid" alt="{{solution.title}}">
+                  </i></a>
+                </div>
+                <div class="col-xl-8 col-lg-8 col-md-12 mb-20">
+                  {% if solution.question %}
+                  <p><strong>{{ solution.question }}</strong></p>
+                  {% endif %}
+                  {% if solution.solutions %}
+                    <ul>
+                    {% for item in solution.solutions %}
+                      <li>{{ item }}</li>
+                    {% endfor %}
+                    </ul>
+                  {% endif %}
+                </div>
+              {% else %}
+                <div class="col-xl-8 col-lg-8 col-md-12 mb-20">
+                  {% if solution.question %}
+                  <p><strong>{{ solution.question }}</strong></p>
+                  {% endif %}
+                  {% if solution.solutions %}
+                    <ul>
+                    {% for item in solution.solutions %}
+                      <li>{{ item }}</li>
+                    {% endfor %}
+                    </ul>
+                  {% endif %}
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-12 mb-20">
+                  <a href="{{solution.image}}" class="view">
+                    <img src="{{solution.thumb}}" class="img-fluid" alt="{{solution.title}}">
+                  </i></a>
+                </div>
+              {% endif %}
+              </div>
+              <div>
+                {% if solution.example_text %}
+                <p>
+                  {{ solution.example_text }}
+                  <a href="{{solution.example_link}}">here</a>.
+                </p>
+                {% endif %}
+              </div>
+            </div>
+          </div>
+        </div>
+    {% endfor %}
+</section>
