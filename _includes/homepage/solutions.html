@@ -1,0 +1,34 @@
+<section class="service-area pt-100 pb-50">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12 text-center pb-40 ">
+                <div class="section-title service-title">
+                    <h2>Our Solutions</h2>
+                    <p>Our different solutions put emphasis on exactly what you need in order to consolidate and improve your data, workflows and online presence.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            {% for solution in site.data.solutions %}
+            <div class="col-xl-3 col-lg-3 col-md-6 mb-50 ">
+                <div class="services-box">
+                    <div class="services-img">
+                        <img src="{{solution.thumb}}" class="img-fluid" alt="{{solution.title}}">
+                    </div>
+                    <div class="services-content">
+                        <div class="card-title">
+                            <h5><a href="pages/solutions#{{solution.identifier}}">{{solution.title}}</a></h5>
+                        </div>
+                        <div class="card-text">
+                            {% if solution.question %}
+                            <p><strong>{{ solution.question }}</strong></p>
+                            {% endif %}
+                        </div>
+                        <a href="pages/solutions#{{solution.identifier}}" class="btn">Find out more</a>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>

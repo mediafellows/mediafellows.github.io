@@ -1,4 +1,4 @@
-- title: MediaStore for Archivale & Online Catalogue
+- title: Catalogue & Archivale
   identifier: for_archival
   categories: archival
   thumb: /assets/img/solutions/archival_thumb.jpg
@@ -13,12 +13,12 @@
   example_text: Take a look at our projects showcasing our archive & online catalogue features
   example_link: projects#lahm
 
-- title: MediaStore for Marketing & Sales
+- title: Marketing & Sales
   identifier: for_marketing
   categories: marketing
   thumb: /assets/img/solutions/marketing_thumb.jpg
   image: /assets/img/solutions/marketing.jpg
-  question: Could your screening platform showcase your content more impressively – or do you rely on decentralized, generic sales tools?
+  question: Could your screening platform showcase your content more impressively – or do you rely on generic sales tools?
   solutions:
     - "Set up your sales website with our compelling and responsive interfaces to refocus on what matters: letting your content shine"
     - Direct online marketing via the MediaStore’s client-facing catalog site, video conferencing and email marketing tools let you showcase selected titles to a targeted audience
@@ -28,7 +28,7 @@
   example_text: Take a look at our projects showcasing our direct online marketing & sales features 
   example_link: projects#lgtv
 
-- title: MediaStore for Licensing & Purchasing
+- title: Licensing & Purchasing
   identifier: for_licensing
   categories: licensing
   thumb: /assets/img/solutions/licensing_thumb.jpg
@@ -43,7 +43,7 @@
   example_text: Take a look at our projects showcasing our licensing & purchasing features
   example_link: projects#lahm
 
-- title: MediaStore for Asset Distribution
+- title: Asset Distribution
   identifier: for_distribution
   categories: distribution
   thumb: /assets/img/solutions/distribution_thumb.jpg

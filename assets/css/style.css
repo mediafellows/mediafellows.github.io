@@ -840,11 +840,15 @@ dt {
 	transition: .3s;
 	box-shadow: 0 5px 30px rgba(0, 0, 0, 0.1);
 	padding: 20px;
+  margin-bottom: 80px;
 }
 .solution-box:hover {
 }
 .solution-box a {
   color: #ff343c;
+}
+.solution-box h3 {
+  padding: 10px 0 20px 0;
 }
 
 /* 6. Service */
