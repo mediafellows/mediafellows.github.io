@@ -16,20 +16,20 @@ header_image: "/assets/img/bg/news.jpg"
                 </div>
             </div>
         </div>
-        {% for post in site.news limit:"5" %}
-        <div class="blog-wrapper home-blog-wrapper white-bg">
+        {% for post in site.news reversed limit:"5" %}
+        <div class="blog-wrapper home-blog-wrapper white-bg mb-50">
           <div class="row">
-              <div class="col-xl-4 col-lg-4 col-md-12 mb-30">
+              <div class="col-xl-4 col-lg-4 col-md-12">
                     <div class="blog-thumb">
                         <a href="{{post.url}}">
-                            <img src="{{post.image}}" alt="{{post.title}}"/>
+                            <img src="{{post.image}}" class="border" alt="{{post.title}}"/>
                         </a>
                         {% if post.image_credits %}
                         <p>{{ post.image_credits }}</p>
                         {% endif %}
                     </div>
               </div>
-              <div class="col-xl-8 col-lg-8 col-md-12 mb-30">
+              <div class="col-xl-8 col-lg-8 col-md-12">
                     <div class="meta-info">
                         <ul>
                             <li class="posts-time">{{post.date | date_to_long_string}}</li>
