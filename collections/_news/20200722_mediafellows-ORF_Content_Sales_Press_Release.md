@@ -30,7 +30,7 @@ description: mediafellows and Austria based distributor ORF-Enterprise are proud
               </ul>
           </div>
           <p>{{ page.description }}</p>
-          <p> mediafellows CEO <strong>Torsten Graf-Oettel</strong>: “Having worked with ORF-Enterprise as a solution provider for the last 10 years, we fully understood the need for a visual update of their catalog and video streaming website. However, increased ease of use for employees of ORF-Enterprise, as well as a seamless integration with other on-premise systems, was also in the foreground when developing this new solution.” </p>
+          <p> mediafellows CEO <strong>Torsten Graf-Oettel</strong>: <i>“Having worked with ORF-Enterprise as a solution provider for the last 10 years, we fully understood the need for a visual update of their catalog and video streaming website. However, increased ease of use for employees of ORF-Enterprise, as well as a seamless integration with other on-premise systems, was also in the foreground when developing this new solution.”</i> </p>
         </div>
     </div>
 </div>
@@ -38,7 +38,7 @@ description: mediafellows and Austria based distributor ORF-Enterprise are proud
     <div class="col-xl-12 col-lg-12">
         <div class="service-details mb-40">
           <p>
-ORF-Enterprise Managing Director <strong>Beatrice Cox-Riesenfelder</strong>: “ORF-Enterprise has been cooperating with mediafellows since day one. The teams on both sides have put a lot of effort into the development of a state-of-the-art platform which brings an improved screening experience to our customers – in midst of a challenging year. We have been listening closely to buyer’s demands while working on the relaunch. New features like wish lists, custom recommendations as well as an improved video player are the results of the user-centric approach.”
+ORF-Enterprise Managing Director <strong>Beatrice Cox-Riesenfelder</strong>: <i>“ORF-Enterprise has been cooperating with mediafellows since day one. The teams on both sides have put a lot of effort into the development of a state-of-the-art platform which brings an improved screening experience to our customers – in midst of a challenging year. We have been listening closely to buyer’s demands while working on the relaunch. New features like wish lists, custom recommendations as well as an improved video player are the results of the user-centric approach.”</i>
           </p>
           <p>
 Based on MediaStore's white-label template mediafellows developed a semi-custom website matching the distributor’s corporate design guidelines while offering a fully responsive layout. Also, mediafellows migrated all content and assets from the previous system seamlessly into the new platform which allowed ORF-Enterprise's content team to revise the consistency and accuracy of metadata and files early on before the relaunch.
