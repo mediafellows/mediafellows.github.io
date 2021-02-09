@@ -3,7 +3,7 @@ layout: features
 identifier: websites
 title: Turnkey Client Websites
 description: "A modern, responsive client-facing catalogue, streaming and post-sales platform can effortlessly be customized to match your corporate identity."
-icon: /assets/img/icons/desktop-solid.svg
+icon: /assets/img/icons/tv-solid.svg
 image: /assets/img/features/websites.jpg
 header_image: /assets/img/bg/features.jpg
 
