@@ -800,18 +800,19 @@ dt {
 	background-attachment: local;
 	transition: all .5s;
 }
-.features-wrap.analytics:hover      { background-image:  linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url(../img/features/analytics.jpg) }
+.features-wrap.websites:hover       { background-image:  linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url(../img/features/websites.jpg) }
 .features-wrap.streaming:hover      { background-image:  linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url(../img/features/streaming.jpg) }
+.features-wrap.conferences:hover    { background-image:  linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url(../img/features/conferences.jpg) }
 .features-wrap.offline:hover        { background-image:  linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url(../img/features/offline.jpg) }
 .features-wrap.access:hover         { background-image:  linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url(../img/features/access.jpg) }
-.features-wrap.structures:hover     { background-image:  linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url(../img/features/structures.jpg) }
-.features-wrap.security:hover       { background-image:  linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url(../img/features/security.jpg) }
-.features-wrap.websites:hover       { background-image:  linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url(../img/features/websites.jpg) }
+.features-wrap.analytics:hover      { background-image:  linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url(../img/features/analytics.jpg) }
 .features-wrap.fulfillment:hover    { background-image:  linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url(../img/features/fulfillment.jpg) }
 .features-wrap.metadata:hover       { background-image:  linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url(../img/features/metadata.jpg) }
 .features-wrap.workflows:hover      { background-image:  linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url(../img/features/workflows.jpg) }
+.features-wrap.structures:hover     { background-image:  linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url(../img/features/structures.jpg) }
 .features-wrap.api:hover            { background-image:  linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url(../img/features/api.jpg) }
 .features-wrap.infrastructure:hover { background-image:  linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url(../img/features/infrastructure.jpg) }
+
 
 .features-wrap:hover h4,.features-wrap:hover p{
 	color: #fff;
