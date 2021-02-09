@@ -2,10 +2,10 @@
   logo: /assets/img/clients/Red-Arrow-International.png
 - name: NBCUniversal
   logo: /assets/img/clients/NBCUniversal.png
-# - name: Lionsgate
-#   logo: /assets/img/clients/Lionsgate.png
-# - name: MGM
-#   logo: /assets/img/clients/MGM.png
+- name: Lionsgate
+  logo: /assets/img/clients/Lionsgate.png
+- name: ITV
+  logo: /assets/img/clients/ITV.png
 - name: Fremantle
   logo: /assets/img/clients/Fremantle.png
 - name: France Television Distribution
