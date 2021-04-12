@@ -1,8 +1,12 @@
-- ident: archival
-  name: Archival & Online Catalogue
 - ident: marketing
   name: Marketing & Sales
+- ident: apps
+  name: Mobile & TV apps
+- ident: conferencing
+  name: Video Conferencing
 - ident: licensing
   name: Licensing & Purchase
 - ident: distribution
   name: Asset Distribution
+- ident: archival
+  name: Archival & Online Catalogue

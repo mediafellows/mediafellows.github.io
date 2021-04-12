@@ -1,19 +1,4 @@
-- title: Catalogue & Archival
-  identifier: for_archival
-  categories: archival
-  thumb: /assets/img/solutions/archival_thumb.jpg
-  image: /assets/img/solutions/archival.jpg
-  question: Is figuring out how to store, manage, and access your digital assets still a challenge?
-  solutions:
-   - Centralize your data with MediaStore to make remote and low-touch interactions run smoother than ever
-   - "No need to run dedicated systems on your end: all you’ll require to access MediaStore’s easy-to-use interface is a web browser"
-   - Encrypted video streaming and asset storage keeps your content safe, while our granular access model and optional security measures (2FA, burn-in or forensic watermarks, SSO) put you in control
-   - "Fast migration: mediafellows can consolidate your data from several migration points thanks to our data migration workflows and flexible metadata schemas"
-   - "Several solutions, one platform: we support multi-device usage and multiple asset types, with video screening, multi-language support, TV casting, phone/tablet app and browser interfaces"
-  example_text: Take a look at our projects showcasing our archive & online catalogue features
-  example_link: projects#lahm
-
-- title: Marketing & Sales
+- title: Marketing & Sales Websites
   identifier: for_marketing
   categories: marketing
   thumb: /assets/img/solutions/marketing_thumb.jpg
@@ -27,6 +12,36 @@
     - Enhance your client experience with new features like fully flexible wish lists, recommendations, screening rooms and more
   example_text: Take a look at our projects showcasing our direct online marketing & sales features 
   example_link: projects#lgtv
+
+- title: Mobile & TV Apps
+  identifier: for_apps
+  categories: apps
+  thumb: /assets/img/solutions/apps_thumb.jpg
+  image: /assets/img/solutions/apps.jpg
+  question: Is your content comprehensively available or do you still force your prospects to watch full-length screeners during working hours?
+  solutions:
+   - Present your content on multiple channels and don't limit it to your website only
+   - Allow your clients and prospects to stream videos offline in a highly secure fashion, e.g. while commuting
+   - Support your sales team with pre-compiling playlist online and synchronizing them to a mobile device for offline screening during fairs
+   - Let your clients pick up their recently viewed videos on a new device so they can continue watching exactly where they left off
+   - Bring your content in front of your professional audience where it can be enjoyed the most - their living room
+  example_text: Take a look at our projects utilizing our mobile and/or TV applications
+  example_link: projects#lgtv
+
+- title: Video Conferencing
+  identifier: for_conferencing
+  categories: conferencing
+  thumb: /assets/img/solutions/conferencing_thumb.jpg
+  image: /assets/img/solutions/conferencing.jpg
+  question: Are you looking for a video conferencing solution able to stream your content in HD quality?
+  solutions:
+   - Stream promo and screener videos directly to participantsin HD qualitiy with high quality audio, leveraging MediaStore's secure multi-bitrate video streaming engine
+   - Meet with up to 250 participants in virtual screening rooms to jointly watch and talk about your stunning content
+   - Compile playlists of videos, audios, images, and PDFs upfront the meeting
+   - Choose from three different video conferencing modes 'conference', 'panel', and 'webinar' to setup the conference look & feel based on your needs
+   - Utilize common conference features such as waiting room, chat, raise hand, screen sharing, audio ducking, and many more
+  example_text: Take a look at our projects showcasing our video conferencing solution
+  example_link: projects#orf
 
 - title: Licensing & Purchasing
   identifier: for_licensing
@@ -58,3 +73,17 @@
   example_text: Take a look at our projects showcasing our asset distribution features 
   example_link: projects#nbcupassport  
   
+- title: Catalogue & Archival
+  identifier: for_archival
+  categories: archival
+  thumb: /assets/img/solutions/archival_thumb.jpg
+  image: /assets/img/solutions/archival.jpg
+  question: Is figuring out how to store, manage, and access your digital assets still a challenge?
+  solutions:
+   - Centralize your data with MediaStore to make remote and low-touch interactions run smoother than ever
+   - "No need to run dedicated systems on your end: all you’ll require to access MediaStore’s easy-to-use interface is a web browser"
+   - Encrypted video streaming and asset storage keeps your content safe, while our granular access model and optional security measures (2FA, burn-in or forensic watermarks, SSO) put you in control
+   - "Fast migration: mediafellows can consolidate your data from several migration points thanks to our data migration workflows and flexible metadata schemas"
+   - "Several solutions, one platform: we support multi-device usage and multiple asset types, with video screening, multi-language support, TV casting, phone/tablet app and browser interfaces"
+  example_text: Take a look at our projects showcasing our archive & online catalogue features
+  example_link: projects#lahm

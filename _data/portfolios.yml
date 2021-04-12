@@ -1,7 +1,7 @@
 - title: NBCUniversal Passport
   identifier: nbcupassport
   description: Online catalogue, video screening, audio broadcasting and assets distribution
-  categories: catalogue video audio distribution
+  categories: catalogue video distribution
   website: https://nbcupassport.com
   thumb: /assets/img/portfolio/nbcupassport_thumb.jpg
   image: /assets/img/portfolio/nbcupassport.jpg
@@ -76,8 +76,8 @@
 
 - title: ORF-Enterprise Content Sales International
   identifier: orf
-  description: Online catalogue, content marketing, video screening
-  categories: catalogue video marketing
+  description: Online catalogue, content marketing, video screening, and video conferencing
+  categories: catalogue video marketing conferencing
   website: https://contentsales.ORF.at
   thumb: /assets/img/portfolio/orf_thumb.png
   image: /assets/img/portfolio/orf.png
@@ -90,11 +90,12 @@
     - Sleek client-facing site in responsive design
     - Easily configurable instant screening links with direct report into ORF's CRM system
     - Analytics tracking on key client activities such as page views and screening durations
+    - Video conferencing for online catalog showcase events
 
 - title: eOne International Distribution
   identifier: eone
-  description: Online catalogue, video screening and content marketing
-  categories: catalogue video marketing
+  description: Online catalogue, video screening, content marketing, and video conferencing
+  categories: catalogue video marketing conferencing
   website: https://www.international.eonetv.com
   thumb: /assets/img/portfolio/entertainment-one_thumb.png
   image: /assets/img/portfolio/entertainment-one.png
@@ -112,7 +113,7 @@
 - title: Louis Armstrong House Museum
   identifier: lahm
   description: Online catalogue, audio broadcasting, asset acquisition and asset distribution
-  categories: catalogue audio acquisition distribution
+  categories: catalogue acquisition distribution
   website: https://collections.louisarmstronghouse.org
   thumb: /assets/img/portfolio/lahm_thumb.png
   image: /assets/img/portfolio/lahm.png
@@ -149,8 +150,8 @@
 
 - title: Red Arrow Studios
   identifier: rasi
-  description: Online catalogue, video screening, content marketing and asset distribution
-  categories: catalogue video marketing distribution
+  description: Online catalogue, video screening, content marketing, asset distribution, and video conferencing
+  categories: catalogue video marketing distribution conferencing
   website: https://screening.redarrowstudios.com
   thumb: /assets/img/portfolio/red-arrow_thumb.png
   image: /assets/img/portfolio/red-arrow.png

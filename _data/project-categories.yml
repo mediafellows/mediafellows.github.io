@@ -4,9 +4,9 @@
   name: online catalogue
 - ident: video
   name: video screening
-- ident: audio
-  name: audio casting
+- ident: conferencing
+  name: video conferencing
 - ident: acquisition
-  name: self-service acquisition 
+  name: asset acquisition 
 - ident: distribution
   name: asset distribution
