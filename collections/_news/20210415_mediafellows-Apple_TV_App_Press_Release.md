@@ -3,7 +3,7 @@ layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: MediaStore now on Apple TV
 date: 15.04.2021
-image: /assets/img/news/20210415_mediafellows-Apple_TV_App_Press_Release.png
+image: /assets/img/news/20210415_mediafellows-Apple_TV_App_Press_Release.jpg
 image_credits: MediaStore Apple TV App
 description: mediafellows is excited to bring MediaStore, its end-to-end content sales and distribution solution, to Apple TV. With a unique design providing a sleek screening experience that takes its cue from state-of-the-art OTT streaming services, MediaStore's catalog tvOS app focuses on content browsing and video streaming and is designed to let content buyers switch seamlessly from desktop and mobile versions of the MediaStore's client-facing websites. 
 
