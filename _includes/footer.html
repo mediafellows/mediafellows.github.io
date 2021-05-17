@@ -59,7 +59,7 @@
                             <h3>Sitemap</h3>
                         </div>
                         <ul>
-                            <li><a href="#">Home</a></li>
+                            <li><a href="{{site.url}}">Home</a></li>
                             {% for link in site.data.navigation %}
                               <li><a href="{{link.url}}">{{link.text}}</a></li>
                             {% endfor %}
@@ -85,7 +85,7 @@
             <div class="row">
                 <div class="col-xl-6 col-lg-6 text-center text-lg-left">
                     <div class="copyright-text">
-                        <p>Copyright &copy; 2020, All Right Reserved <a href="#">{{site.company}}</a></p>
+                        <p>Copyright &copy; 2021, All Right Reserved <a href="{{site.url}}">{{site.company}}</a></p>
                     </div>
                 </div>
                 <div class="col-xl-6 col-lg-6 d-none d-lg-block text-right">
