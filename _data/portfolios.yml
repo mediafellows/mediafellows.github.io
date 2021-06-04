@@ -36,25 +36,25 @@
     - Assignment of dedicated sales representative to each client
     - Pull-based metadata sync workflow maps existing external metadata format into MediaStore
 
-- title: Fremantle Screenings
-  identifier: fmscreenings
-  description: Online catalogue, content marketing and video screening
-  categories: catalogue video marketing
-  website: https://www.fmscreenings.com
-  thumb: /assets/img/portfolio/fremantle_thumb.png
-  image: /assets/img/portfolio/fremantle.png
-  what:
-    - Time to market <3 months
-    - Content migration from MediaStore 1.0 incl. (re)transcoding of all videos
-    - Integration of external corporate news feed
-    - Highly responsible site with adaption to various desktop and mobile screen sizes
-  why:
-    - Excellent experience with service
-    - API based distributed system with future proof extensibility
-    - Asset self-service for clients supported
-    - Advanced analytics and reporting features
-    - iOS app for off-line viewing and selling
-    - Campaign management and marketing data support
+# - title: Fremantle Screenings
+#   identifier: fmscreenings
+#   description: Online catalogue, content marketing and video screening
+#   categories: catalogue video marketing
+#   website: https://www.fmscreenings.com
+#   thumb: /assets/img/portfolio/fremantle_thumb.png
+#   image: /assets/img/portfolio/fremantle.png
+#   what:
+#     - Time to market <3 months
+#     - Content migration from MediaStore 1.0 incl. (re)transcoding of all videos
+#     - Integration of external corporate news feed
+#     - Highly responsible site with adaption to various desktop and mobile screen sizes
+#   why:
+#     - Excellent experience with service
+#     - API based distributed system with future proof extensibility
+#     - Asset self-service for clients supported
+#     - Advanced analytics and reporting features
+#     - iOS app for off-line viewing and selling
+#     - Campaign management and marketing data support
       
 # - title: MGM LionsDen
 #   identifier: lionsden
