@@ -19,9 +19,9 @@ header_image: "/assets/img/bg/contract.jpg"
             <dt>Email</dt>
             <dd><a href="mailto:{{site.email}}">{{ site.email }}</a></dd>
             <dt>Phone</dt>
-            <dd><a href="tel:{{ site.phone }}">{{ site.phone }}</a></dd>
+            <dd><a href="tel:{{ site.phone | remove: ' ' }}">{{ site.phone }}</a></dd>
             <dt>Fax</dt>
-            <dd><a href="tel:{{ site.fax }}">{{ site.fax }}</a></dd>
+            <dd><a href="tel:{{ site.fax | remove: ' ' }}">{{ site.fax }}</a></dd>
             <dt>Registration Court</dt>
             <dd>{{ site.registration_court }}</dd>
             <dt>Registration Number</dt>

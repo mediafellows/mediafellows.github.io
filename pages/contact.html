@@ -12,8 +12,8 @@ header_image: "/assets/img/bg/contact.jpg"
                 <div class="contact-person">
                     <h4>Visit our office</h4>
                     <p>Feel free to drop by for a coffee or tea. We are open to explain our offerings and discuss how they fit your needs in a face-to-face chat.</p>
-                    <a href="{{site.location}}" target="blank">
-                      <div><i class="fas fa-map-marker-alt"></i>{{site.address}}</div>
+                    <a href="{{ site.location }}" target="blank">
+                      <div><i class="fas fa-map-marker-alt"></i>{{ site.address }}</div>
                       <div><i class="far fa-calendar-alt"></i>{{ site.opening_hours }}</div>
                     </a>
                 </div>
@@ -22,14 +22,14 @@ header_image: "/assets/img/bg/contact.jpg"
                 <div class="contact-person">
                     <h4>Give us a call</h4>
                     <p>Happy to jump on the phone and explain our offerings and discuss how they match your demands in a call.</p>
-                    <a href="tel:{{site.phone}}"><i class="fas fa-phone"></i>{{ site.phone }}</a>
+                    <a href="tel:{{ site.phone | remove: ' ' }}"><i class="fas fa-phone"></i>{{ site.phone }}</a>
                 </div>
             </div>
             <div class="col-xl-4 col-md-4 text-center text-md-left mb-30">
                 <div class="contact-person">
                     <h4>Drop a line</h4>
                     <p>Limited time to talk? Drop us a line and we get back to you via email. Just let us know your availabilities and we can schedule an online presentation.</p>
-                    <a href="mailto:{{site.email}}"><i class="far fa-envelope"></i>{{ site.email }}</a>
+                    <a href="mailto:{{ site.email }}"><i class="far fa-envelope"></i>{{ site.email }}</a>
                 </div>
             </div>
         </div>
