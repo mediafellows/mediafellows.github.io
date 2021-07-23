@@ -8,6 +8,8 @@
   logo: /assets/img/clients/ITV.png
 - name: France Television Distribution
   logo: /assets/img/clients/FranceTV.png
+- name: MIPCOM
+  logo: /assets/img/clients/MIPCOM.png
 - name: Entertainment ONE
   logo: /assets/img/clients/Entertainment_One.png
 - name: TF1
@@ -20,7 +22,5 @@
   logo: /assets/img/clients/BavariaMedia.png
 - name: Dori Media
   logo: /assets/img/clients/DoriMedia.png
-- name: Propagate Content
-  logo: /assets/img/clients/Propagate.png
 - name: Louis Armstrong House Museum
   logo: /assets/img/clients/lahm.png
