@@ -6,12 +6,14 @@
   logo: /assets/img/clients/Lionsgate.png
 - name: ITV
   logo: /assets/img/clients/ITV.png
-- name: France Television Distribution
-  logo: /assets/img/clients/FranceTV.png
-- name: Entertainment ONE
-  logo: /assets/img/clients/Entertainment_One.png
+- name: MIPCOM
+  logo: /assets/img/clients/MIPCOM.png
 - name: TF1
   logo: /assets/img/clients/TF1.png
+- name: Entertainment ONE
+  logo: /assets/img/clients/Entertainment_One.png
+- name: France Television Distribution
+  logo: /assets/img/clients/FranceTV.png
 - name: Dynamic Television
   logo: /assets/img/clients/DynamicTelevision.png
 - name: ORF Enterprise
