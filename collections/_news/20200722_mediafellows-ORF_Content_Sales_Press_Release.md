@@ -4,6 +4,7 @@ header_image: "/assets/img/bg/news.jpg"
 title: Celebrating the launch of ORF-Enterprise’s new screening platform https://contentsales.ORF.at
 date: 22.07.2020
 image: /assets/img/news/20200722_mediafellows-ORF_Content_Sales_Press_Release.jpg
+image_border: true
 image_credits: ORF/Thomas Ramstorfer
 description: mediafellows and Austria based distributor ORF-Enterprise are proud to announce the successful launch of the new screening service based on the MediaStore platform, a cloud-based solution with the ability to provide client-tailored video streaming experiences enabling producers, content owners, and distributors to seamlessly connect with their clients on a global scale.
 

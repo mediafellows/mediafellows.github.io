@@ -4,6 +4,7 @@ header_image: "/assets/img/bg/news.jpg"
 title: Successful launch of Bavaria Media International‘s new sales and distribution website
 date: 12.08.2020
 image: /assets/img/news/20200812_mediafellows-Bavaria_Media_International_Press_Release.jpg
+image_border: true
 image_credits: Bavaria Media International‘s new website
 description: mediafellows and Bavaria Media have successfully launched Bavaria Media International‘s new sales and distribution website by leveraging the latest version of the MediaStore platform, a cloud-based solution focusing on catalog and asset management and tailored client-facing sales platforms featuring state-of-the-art video streaming, easy-to-use marketing tools and granular access controls.
 
