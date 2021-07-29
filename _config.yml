@@ -38,6 +38,8 @@ collections:
     output: true
   services:
     output: true
+  jobs:
+    output: true
   slides:
     output: false   
  

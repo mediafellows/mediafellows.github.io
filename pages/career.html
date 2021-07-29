@@ -1,0 +1,42 @@
+---
+layout: page
+permalink: "/pages/career"
+title: career
+header_image: "/assets/img/bg/career.jpg"
+---
+
+<!-- projects-area -->
+<section class="news-area pt-100 pb-50">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12 text-center pb-40 ">
+                <div class="section-title service-title">
+                    <h2>Career</h2>
+                    <p>We are constantly looking for talented peers who want to become part of our amazing team. Even if your dream job shouldn't be listed below, please reach out to <a href="mailto:hr@mediafellows.com?subject=mediafellows - Career">hr@mediafellows.com</a> if you would like to join us revolutionizing the media industry.</p>
+                </div>
+            </div>
+        </div>
+        {% for job in site.jobs reversed limit:"10" %}
+        <div class="blog-wrapper home-blog-wrapper white-bg mb-50">
+          <div class="row">
+              <div class="col-xl-12 col-lg-12 col-md-12">
+                    <div class="meta-info text-right">
+                        <ul>
+                            <li class="posts-time">{{job.date | date_to_long_string}}</li>
+                        </ul>
+                    </div>
+                    <div class="blog-content home-blog">
+                        <h2 class="blog-title">
+                            <a href="{{job.url}}">{{job.title}}</a>
+                        </h2>
+                        <p>{{job.description}}</p>
+                    </div>
+                    <div class="link-box home-blog-link">
+                        <a href="{{job.url}}">Read full job ad</a>
+                    </div>
+              </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</section>

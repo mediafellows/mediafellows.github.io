@@ -10,6 +10,8 @@
   url: /pages/services
 - text: news
   url: /pages/news
+- text: career
+  url: /pages/career
 - text: about
   url: /pages/about
 - text: contact
