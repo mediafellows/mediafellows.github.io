@@ -11,7 +11,7 @@
 3. Slider
 4. About
 5. Solution
-6. Service
+6. Service/Job
 7. Counter
 8. Project/Portfolio
 9. Testimonial
@@ -852,7 +852,7 @@ dt {
   padding: 10px 0 20px 0;
 }
 
-/* 6. Service */
+/* 6. Service/Job */
 .services-area img .border {
   border: 1px solid #2E2E2E;
 }
@@ -1058,9 +1058,23 @@ dt {
 .service-details img {
 	width: 100%;
 }
-.s-details-img img {
+.service-details-img img {
 	width: 100%;
 }
+.job-details ul { 
+    display: block;
+    list-style-type: disc;
+    color: #7e7e7e;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.job-details li {
+    list-style: disc;
+}
+
 /* 7. Counter */
 .counter-area {
   background-image: linear-gradient(to bottom, rgba(0,0,0,0.3) 0%,rgba(0,0,0,0.3) 100%), url(../img/bg/gear.jpg);
@@ -2080,4 +2094,4 @@ blockquote {
 }
 .feature-area .features-wrap p {
   min-height: 110px;
-}
+}

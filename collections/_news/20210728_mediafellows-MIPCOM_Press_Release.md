@@ -12,7 +12,7 @@ description: Well in time for MIPCOM 2021, mediafellows is proud to announce tha
 
 <div class="row">
     <div class="col-xl-4 col-lg-4 col-md-12">
-        <div class="s-details-img mb-30">
+        <div class="service-details-img mb-30">
           {% if page.image %}
           <a href="{{ page.image }}" class="view">
             <img src="{{ page.image }}" alt="{{ page.title }}">  
