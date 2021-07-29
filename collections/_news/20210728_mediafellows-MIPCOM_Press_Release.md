@@ -2,7 +2,7 @@
 layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: mediafellows provides the video transcoding and streaming backbone for the new online venture by RX France, organizer of MIPTV and MIPCOM
-date: 29.07.2021
+date: 28.07.2021
 image: /assets/img/news/20210729_mediafellows-MIPCOM_Press_Release.jpg
 image_border:
 image_credits: 
