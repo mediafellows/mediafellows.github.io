@@ -13,6 +13,8 @@
         {% assign active = 'active' %}
     {% elsif page.url contains link.text %}
         {% assign active = 'active' %}
+    {% elsif page.active == link.text %}
+        {% assign active = 'active' %}
     {% endif %}
      
      <li>
