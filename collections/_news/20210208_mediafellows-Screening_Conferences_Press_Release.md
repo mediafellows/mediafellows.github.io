@@ -4,6 +4,7 @@ header_image: "/assets/img/bg/news.jpg"
 title: MediaStore Screening Conferences now available to preview
 date: 08.02.2021
 image: /assets/img/news/20210208_mediafellows-Screening_Conferences_Press_Release.jpg
+image_border: true
 image_credits: Screening Conference Moderator View
 description: mediafellows is proud to announce the launch of its own conferencing tool, combining the "talking head" video conferencing functionality offered by many software players with the unique ability to stream promo and screener videos directly to participants, leveraging MediaStore's well-established and highly secure multi-bitrate video streaming engine. With this functionality, mediafellows aims to provide those reliant on conferencing technology with an added value unique to MediaStore, resulting in a one-stop tool to personally present exciting content to content buyers in a compelling and technically frictionless manner.
 

@@ -16,13 +16,13 @@ header_image: "/assets/img/bg/news.jpg"
                 </div>
             </div>
         </div>
-        {% for post in site.news reversed limit:"5" %}
+        {% for post in site.news reversed limit:"10" %}
         <div class="blog-wrapper home-blog-wrapper white-bg mb-50">
           <div class="row">
               <div class="col-xl-4 col-lg-4 col-md-12">
                     <div class="blog-thumb">
                         <a href="{{post.url}}">
-                            <img src="{{post.image}}" class="border" alt="{{post.title}}"/>
+                            <img src="{{post.image}}" {% if post.image_border %}class="border"{% endif %} alt="{{post.title}}"/>
                         </a>
                         {% if post.image_credits %}
                         <p>{{ post.image_credits }}</p>

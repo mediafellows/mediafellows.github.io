@@ -4,6 +4,7 @@ header_image: "/assets/img/bg/news.jpg"
 title: The MediaStore Mobile App has launched for iPad and iPhone 
 date: 23.06.2021
 image: /assets/img/news/20210623_mediafellows-Mobile_App_Press_Release.jpg
+image_border:
 image_credits: MediaStore Mobile App
 description: mediafellows is thrilled to announce that its new iPad and iPhone app has officially launched in Apple's App Store. With this new custom-built app, mediafellows optimizes access to its MediaStore platform specifically for the mobile world – combining the state-of-the-art experience of content screening and discovery which MediaStore is known for with solutions to challenges arising from the portability context.
 
