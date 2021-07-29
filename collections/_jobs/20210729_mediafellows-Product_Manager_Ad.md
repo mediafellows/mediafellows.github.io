@@ -54,7 +54,7 @@ As a Product Manager, you will have a key responsibility to translate our custom
   <li>A free choice of working tools and software you like and are most familiar with</li>
   <li>A broad flexibility in how, when, and where you work</li>
   <li>A fast-moving company with excellent growth opportunities</li>
-  <li>A competitive payment packages</li>
+  <li>A competitive payment package</li>
 </ul>
 </p>
 <p>
