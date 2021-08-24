@@ -1,6 +1,5 @@
 ---
-layout: jobs
-active: career
+layout: career
 header_image: "/assets/img/bg/career.jpg"
 title: Product Manager (m/w/d)
 date: 29.07.2021
