@@ -2,8 +2,8 @@
 layout: career
 header_image: "/assets/img/bg/career.jpg"
 title: Frontend Developer (m/w/d)
-date: 24.08.2021
-description: mediafellows is looking for a Frontend Developer who can demonstrate comprehensive knowledge of the JavaScript programming language as well as popular JavaScript Frameworks such React Native, and has already gained experience with developing complex single-page web applications in a professional capacity.
+date: 24.10.2021
+description: mediafellows is looking for a Frontend Developer who can demonstrate comprehensive knowledge of the JavaScript programming language as well as popular JavaScript Frameworks such React JS, and has already gained experience with developing complex single-page web applications in a professional capacity.
 
 ---
 
@@ -11,7 +11,7 @@ description: mediafellows is looking for a Frontend Developer who can demonstrat
         
 <h2>That's your opportunity ...</h2>
           <p>
-mediafellows is looking for a <strong>Frontend Developer</strong> who can demonstrate comprehensive knowledge of the JavaScript programming language as well as popular JavaScript Frameworks such React Native, and has already gained experience with developing complex single-page web applications in a professional capacity. As a <strong>Frontend Develper</strong> who will contribute to the development of our sophisticated SaaS solution “MediaStore”, an online B2B platform for marketing and distribution of audiovisual content – covering content management, video screening, contracting, and fulfillment. Some of the largest studios, broadcasters, and distributors from around the world rely on our platform solution.
+mediafellows is looking for a <strong>Frontend Developer</strong> who can demonstrate comprehensive knowledge of the JavaScript programming language as well as popular JavaScript Frameworks such React JS, and has already gained experience with developing complex single-page web applications in a professional capacity. As a <strong>Frontend Develper</strong> who will contribute to the development of our sophisticated SaaS solution “MediaStore”, an online B2B platform for marketing and distribution of audiovisual content – covering content management, video screening, contracting, and fulfillment. Some of the largest studios, broadcasters, and distributors from around the world rely on our platform solution.
         </p>
         <p>
 This is a unique position to work at the forefront of the transformation of the media industry from on-prem to cloud-based workflows. We look for a new colleague with skill, passion, humor, and a decent sense of responsibility who help us raise our solution to the next level with state-of-the-art web technologies.
@@ -31,7 +31,7 @@ This is a unique position to work at the forefront of the transformation of the 
 <ul>
   <li>You have 5+ years of experience in web application development</li>
   <li>You have programmed in JavaScript for 3+ years</li>
-  <li>You have utilized React Native for 3+ years</li>
+  <li>You have utilized React JS for 3+ years</li>
   <li>You have excellent knowledge of HTML5/CSS3</li>
   <li>You are passioned about responsive designs</li>
   <li>You love teamwork as much as a clean and beautiful UIs</li>
