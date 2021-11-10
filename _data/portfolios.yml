@@ -26,6 +26,7 @@
   image: /assets/img/portfolio/lionsgate.png
   what:
     - Carryover of existing custom design from MediaStore 1.0 to 2.0
+    - Bespoke Apple TV and mobile apps for a comprehensive user experience
     - Custom extensions such as back-and-forth switching between admin and client site
     - Synchronization with external content database for automated metadata creation and update
   why:
@@ -36,6 +37,24 @@
     - Assignment of dedicated sales representative to each client
     - Pull-based metadata sync workflow maps existing external metadata format into MediaStore
 
+- title: eOne Preview
+  identifier: eone
+  description: Online catalogue, video screening, content marketing, and video conferencing
+  categories: catalogue video marketing conferencing
+  website: https://eonepreview.tv
+  thumb: /assets/img/portfolio/entertainment-one_thumb.png
+  image: /assets/img/portfolio/entertainment-one.png
+  what:
+    - Replacement of previous generic MediaStore 1.0 site with a fresh design
+    - Migration of all content, assets and users (including passwords) for a seamless continuation
+    - Implementation of a modern bespoke design and compelling user experience
+  why:
+    - Long-time customer with heavy MediaStore usage for sales & marketing
+    - MediaStore 2.0's readymade standard design offers a state-of-the-art responsive design which can be customized with few tweaks
+    - Design add-ons (e.g. custom landing page layout) as well as new features (news feed) could be added easily
+    - MediaStore 2.0 shortens a content buyer's pathway to screen their desired content as much as feasible
+    - Screening recommendation links can be sent directly from MediaStore or incorporated into external email communication
+    
 # - title: Fremantle Screenings
 #   identifier: fmscreenings
 #   description: Online catalogue, content marketing and video screening
@@ -91,24 +110,6 @@
     - Easily configurable instant screening links with direct report into ORF's CRM system
     - Analytics tracking on key client activities such as page views and screening durations
     - Video conferencing for online catalog showcase events
-
-- title: eOne International Distribution
-  identifier: eone
-  description: Online catalogue, video screening, content marketing, and video conferencing
-  categories: catalogue video marketing conferencing
-  website: https://www.international.eonetv.com
-  thumb: /assets/img/portfolio/entertainment-one_thumb.png
-  image: /assets/img/portfolio/entertainment-one.png
-  what:
-    - Replacement of previous generic MediaStore 1.0 site with a fresh design
-    - Migration of all content, assets and users (including passwords) for a seamless continuation
-    - Incorporation of various design additions and tweaks to MediaStore's standard design
-  why:
-    - Long-time customer with heavy MediaStore usage for sales & marketing
-    - MediaStore 2.0's readymade standard design offers a state-of-the-art responsive design which can be customized with few tweaks
-    - Design add-ons (e.g. custom landing page layout) as well as new features (news feed) could be added easily
-    - MediaStore 2.0 shortens a content buyer's pathway to screen their desired content as much as feasible
-    - Screening recommendation links can be sent directly from MediaStore or incorporated into external email communication
 
 - title: Louis Armstrong House Museum
   identifier: lahm
@@ -183,3 +184,17 @@
     - Easily manageable Press section, Contact page and hero slider
     - Competitive all-inclusive cost package
     - Secure storage and delivery of high-resolution materials
+    
+- title: TF1 Pro
+  identifier: tf1pro
+  description: Video screening and assets distribution
+  categories: video distribution
+  website: https://www.preview.tf1pro.com/
+  thumb: /assets/img/portfolio/tf1pro_thumb.png
+  image: /assets/img/portfolio/tf1pro.png
+  what:
+    - Scalable, easy-to-use screening website for a dedicated press audience
+    - Distribution of press and marketing material
+  why:
+    - Easy provisioning of content and assets via the internet
+    - Granular access control to allow selected users to access exclusive content
