@@ -16,6 +16,8 @@
   logo: /assets/img/clients/FranceTV.png
 - name: Dynamic Television
   logo: /assets/img/clients/DynamicTelevision.png
+- name: Relativity Media
+  logo: /assets/img/clients/Relativity.png
 - name: ORF Enterprise
   logo: /assets/img/clients/ORF-Enterprise.png
 - name: Bavaria Media
@@ -24,5 +26,3 @@
   logo: /assets/img/clients/DoriMedia.png
 - name: Louis Armstrong House Museum
   logo: /assets/img/clients/lahm.png
-- name: Relativity Media
-  logo: /assets/img/clients/Relativity.png
