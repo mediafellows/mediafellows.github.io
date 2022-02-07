@@ -2,7 +2,7 @@
 layout: career
 header_image: "/assets/img/bg/career.jpg"
 title: Frontend Team-Lead (m/w/d)
-date: 10.11.2021
+date: 31.01.2022
 description: mediafellows is looking for a Frontend Team-Lead who has comprehensive knowledge of Web development in the frontend realm and is highly familiar with modern JavaScript Frameworks such React, Vue, or Angular JS and has already successfully led the development of complex single-page web applications in a professional capacity.
 
 ---

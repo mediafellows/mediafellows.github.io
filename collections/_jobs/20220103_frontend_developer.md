@@ -2,7 +2,7 @@
 layout: career
 header_image: "/assets/img/bg/career.jpg"
 title: Frontend Developer (m/w/d)
-date: 24.10.2021
+date: 03.01.2022
 description: mediafellows is looking for a Frontend Developer who can demonstrate comprehensive knowledge of the JavaScript programming language as well as popular JavaScript Frameworks such React JS, and has already gained experience with developing complex single-page web applications in a professional capacity.
 
 ---
