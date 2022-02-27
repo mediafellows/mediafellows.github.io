@@ -1,9 +1,9 @@
 ---
 layout: career
 header_image: "/assets/img/bg/career.jpg"
-title: Web Project Manager (m/w/d)
-date: 07.02.2022
-description: mediafellows is looking for a Web Project Manager to oversee and coordinate the development of MediaStore based website projects from the inception stage to the live online deployment thereof. In this position you collaborate with all stakeholders on the scope of web-based projects, lead teams in the conceptualization, design, and development of web applications, ensure high-quality deliveries, as well as prepare project status reports.
+title: Web Project Manager (remote or onsite in Berlin, Germany)
+date: 27.02.2022
+description: mediafellows is looking for a Web Project Manager to oversee and coordinate the development of MediaStore based website projects from the inception stage to the live online deployment thereof. In this position you collaborate with all stakeholders on the scope of web-based projects, lead teams in the conceptualization, design, and development of web applications, ensure high-quality deliveries, as well as prepare project status reports.<br>If needed, we will support you to obtain a working visa and provide your relocation to Berlin if you intend to move to Germany's highly vibrant capital city.
 
 ---
 
@@ -51,12 +51,13 @@ This is a unique position to work at the forefront of the transformation of the 
 <p>
 <h2>What we have to offer ...</h2>
 <ul>
-  <li>A team of smart, curious people who work hard but with fun every day to optimize our amazing product</li>
-  <li>A modern Media Asset Management solution with a state-of-the-art technology stack and a fascinating growth perspective</li>
+  <li>A competitive payment package plus a broad variety of perks for Learning/Education, Public Transport, and Sports/Fitness</li>
+  <li>A supportive package to obtain a working visa as well as relocating to Berlin, Germany</li>
   <li>A free choice of working tools and software you like and are most familiar with</li>
   <li>A broad flexibility in how, when, and where you work</li>
-  <li>A fast-moving company with excellent growth opportunities</li>
-  <li>A competitive payment package</li>
+  <li>A team of smart, curious people who work hard but with fun every day to optimize our amazing product</li>
+  <li>A fast-moving, flat hierarchical company with excellent growth opportunities</li>
+  <li>A modern Media Asset Management solution with a state-of-the-art technology stack and an incredible growth perspective</li>
 </ul>
 </p>
 <p>
