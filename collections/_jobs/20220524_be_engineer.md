@@ -2,7 +2,7 @@
 layout: career
 header_image: "/assets/img/bg/career.jpg"
 title: Backend Senior Software Engineer (Ruby on Rails)
-date: 31.01.2022
+date: 24.05.2022
 description: mediafellows is looking for a Backend Senior Software Engineer with experience in Ruby on Rails. mediafellows is a Berlin-based company developing and operating software solutions for media and entertainment companies across the globe. If you see a movie in a theatre, chances are high that it has been promoted using our tools.
 
 ---
@@ -22,6 +22,7 @@ We are looking for a candidate who is curious to learn, and eager to bring new k
 <p>
 We provide office space in Berlin, but our team is distributed across Europe. So we are flexible in handling remote and on-site situations – but we really prefer to see one another every now and then in our bi-annual team events and coding camps.
 </p>
+
 <p>
 <h2>What you will contribute ...</h2>
 <ul>
@@ -61,9 +62,11 @@ We provide office space in Berlin, but our team is distributed across Europe. So
 <ul>
   <li>first hands experience with DevOps tools and environments</li>
   <li>infrastructure deployment using docker containers</li>
-  <li>other modern programming languages<li>
-  <li>video processing and streaming<li>
-  <li>experience writing and using JSON schema<li>
+  <li>other modern programming languages</li>
+  <li>video processing and streaming</li>
+  <li>experience writing and using JSON schema</li>
+</ul>
+</p>
 
 <p>
 <h2>What we have to offer ...</h2>
@@ -77,6 +80,7 @@ We provide office space in Berlin, but our team is distributed across Europe. So
   <li>Fast-moving company and a team of smart, curious people</li>
 </ul>
 </p>
+
 <p>
 We welcome candidates enthusiastic about learning and personal growth. If you see yourself in this role, please apply!<br>
 If this position is of interest to you, please contact our HR department: <a href="mailto:hr@mediafellows.com?subject=mediafellows - Frontend Team Lead">hr@mediafellows.com</a>
