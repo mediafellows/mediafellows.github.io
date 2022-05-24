@@ -14,7 +14,7 @@ description: mediafellows is looking for a Backend Senior Software Engineer with
 mediafellows is looking for a <strong>Backend Senior Software Engineer</strong> with experience in Ruby on Rails. mediafellows is a Berlin-based company developing and operating software solutions for media and entertainment companies across the globe. If you see a movie in a theatre, chances are high that it has been promoted using our tools. Our backend is built and maintained by a small, ambitious team of experienced developers. Some of us are based in Berlin, others are working in other European time zones.
 </p>
 <p>
-You’ll get to work with a complex, mature code base that comprises multiple services providing various REST APIs. Our stack includes a wide array of technologies like <strong>Ruby on Rails, Postgres, Elastic Search, Clickhouse, Redis, AWS EC2, AWS Lambda</strong>, etc. We also explore alternative software development stacks to build and deliver high-quality software, and we are keen to hear your ideas and suggestions in this regard. In doing all of this you'll never find yourself on your own: our small but driven team is here to support you whenever you need it.
+You’ll get to work with a complex, mature code base that comprises multiple services providing various REST APIs. Our stack includes a wide array of technologies like <strong>Ruby on Rails, Postgres, Elasticsearch, Clickhouse, Redis, AWS EC2, AWS Lambda</strong>, etc. We also explore alternative software development stacks to build and deliver high-quality software, and we are keen to hear your ideas and suggestions in this regard. In doing all of this you'll never find yourself on your own: our small but driven team is here to support you whenever you need it.
 </p>
 <p>
 We are looking for a candidate who is curious to learn, and eager to bring new knowledge and ideas to our team. You will be part of a team of all seniors, we hope that this encourages everyone to contribute and to learn from each other. This is an opportunity for you and also for us to explore technologies you and we haven't used before.
@@ -49,7 +49,6 @@ We provide office space in Berlin, but our team is distributed across Europe. So
   <li>exposure to git and git-based workflows, including github code reviews</li>
   <li>ability to find a balance between maintainability, security, performance, and flexibility</li>
   <li>strong autonomy, self-disciplin and ability to self-educate</li>
-  <li>motivation to hunting down bugs in production systems</li>
   <li>ability to communicate effectively in English</li>
   <li>true team player and enjoying sharing knowledge proactively</li>
   <li>you are based in the Central European Time Zone +/- 2 hours</li>
@@ -64,19 +63,19 @@ We provide office space in Berlin, but our team is distributed across Europe. So
   <li>infrastructure deployment using docker containers</li>
   <li>other modern programming languages</li>
   <li>video processing and streaming</li>
-  <li>experience writing and using JSON schema</li>
+  <li>experience in writing and using JSON schema</li>
 </ul>
 </p>
 
 <p>
 <h2>What we have to offer ...</h2>
 <ul>
-  <li>A company culture that respects your set hours fair compensation</li>
   <li>Attractive bonus package based on your personal but also on the company’s success</li>
   <li>Broad flexibility in how, when, and where you work</li>
-  <li>Relocation package within Europe and support for obatinaing a working visa</li>
+  <li>A company culture that respects your set hours' fair compensation</li>
+  <li>Relocation package within Europe and support for obtaining a working visa</li>
   <li>Free choice of working tools and software you are most familiar with</li>
-  <li>Modern content and asset management cloud platform with a fascinating growth perspective</li>
+  <li>Modern Content and Asset Management platform with a fascinating growth perspective</li>
   <li>Fast-moving company and a team of smart, curious people</li>
 </ul>
 </p>
