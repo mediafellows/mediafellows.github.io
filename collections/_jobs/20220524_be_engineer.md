@@ -76,7 +76,7 @@ We provide office space in Berlin, but our team is distributed across Europe. So
   <li>Broad flexibility in how, when, and where you work</li>
   <li>Relocation package within Europe and support for obatinaing a working visa</li>
   <li>Free choice of working tools and software you are most familiar with</li>
-  <li>Modern CSM/AMS cloud platform with a fascinating growth perspective</li>
+  <li>Modern content and asset management cloud platform with a fascinating growth perspective</li>
   <li>Fast-moving company and a team of smart, curious people</li>
 </ul>
 </p>
