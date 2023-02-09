@@ -2,7 +2,7 @@
 layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: Successful launch of Bavaria Media International‘s new sales and distribution website
-date: 12.08.2020
+release_date: 12.08.2020
 image: /assets/img/news/20200812_mediafellows-Bavaria_Media_International_Press_Release.jpg
 image_border: true
 image_credits: Bavaria Media International‘s new website
@@ -27,7 +27,7 @@ description: mediafellows and Bavaria Media have successfully launched Bavaria M
         <div class="service-details mb-40">
           <div class="meta-info">
               <ul>
-                  <li class="posts-time">{{page.date | date_to_long_string}}</li>
+                  <li class="posts-time">{{page.release_date | date_to_long_string}}</li>
               </ul>
           </div>
           <p>{{ page.description }}</p>

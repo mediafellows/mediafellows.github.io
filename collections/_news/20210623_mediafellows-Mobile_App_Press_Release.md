@@ -2,7 +2,7 @@
 layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: The MediaStore Mobile App has launched for iPad and iPhone 
-date: 23.06.2021
+release_date: 23.06.2021
 image: /assets/img/news/20210623_mediafellows-Mobile_App_Press_Release.jpg
 image_border:
 image_credits: MediaStore Mobile App
@@ -27,7 +27,7 @@ description: mediafellows is thrilled to announce that its new iPad and iPhone a
         <div class="service-details mb-40">
           <div class="meta-info">
               <ul>
-                  <li class="posts-time">{{page.date | date_to_long_string}}</li>
+                  <li class="posts-time">{{page.release_date | date_to_long_string}}</li>
               </ul>
           </div>
           <p>{{ page.description }}</p>

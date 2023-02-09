@@ -2,7 +2,7 @@
 layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: MediaStore now on Apple TV
-date: 15.04.2021
+release_date: 15.04.2021
 image: /assets/img/news/20210415_mediafellows-Apple_TV_App_Press_Release.jpg
 image_border: true
 image_credits: MediaStore Apple TV App
@@ -27,7 +27,7 @@ description: mediafellows is excited to bring MediaStore, its end-to-end content
         <div class="service-details mb-40">
           <div class="meta-info">
               <ul>
-                  <li class="posts-time">{{page.date | date_to_long_string}}</li>
+                  <li class="posts-time">{{page.release_date | date_to_long_string}}</li>
               </ul>
           </div>
           <p>{{ page.description }}</p>

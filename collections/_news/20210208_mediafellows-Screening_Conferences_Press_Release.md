@@ -2,7 +2,7 @@
 layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: MediaStore Screening Conferences now available to preview
-date: 08.02.2021
+release_date: 08.02.2021
 image: /assets/img/news/20210208_mediafellows-Screening_Conferences_Press_Release.jpg
 image_border: true
 image_credits: Screening Conference Moderator View
@@ -27,7 +27,7 @@ description: mediafellows is proud to announce the launch of its own conferencin
         <div class="service-details mb-40">
           <div class="meta-info">
               <ul>
-                  <li class="posts-time">{{page.date | date_to_long_string}}</li>
+                  <li class="posts-time">{{page.release_date | date_to_long_string}}</li>
               </ul>
           </div>
           <p>{{ page.description }}</p>

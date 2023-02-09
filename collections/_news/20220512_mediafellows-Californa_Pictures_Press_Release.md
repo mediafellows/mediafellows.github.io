@@ -2,7 +2,7 @@
 layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: mediafellows launched a new screening site for California Pictures
-date: 12.05.2022
+release_date: 12.05.2022
 image: /assets/img/news/20220513_mediafellows-California_Pictures_Press_Release.jpg
 image_border:
 image_credits: 
@@ -27,7 +27,7 @@ description: mediafellows is thrilled to announce that it is launching a new scr
         <div class="service-details mb-40">
           <div class="meta-info">
               <ul>
-                  <li class="posts-time">{{page.date | date_to_long_string}}</li>
+                  <li class="posts-time">{{page.release_date | date_to_long_string}}</li>
               </ul>
           </div>
           <p>{{ page.description }}</p>
