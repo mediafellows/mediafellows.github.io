@@ -71,7 +71,7 @@ Shows produced by Newen Studios are exported globally alongside a curated slate 
          </p>
 <br>
          <p>
-<strong>For more information on how mediafellows can support your sales team with a specialist marketing platform, please <a href="https://mediafellows.com/pages/contact" target="blank">contact</a> the team at <a href="mailto:info@mediafellows.com">info@mediafellows.com</a></strong>
+<strong>For more information on how mediafellows can support your sales team with a specialist marketing platform, please contact our team at <a href="mailto:info@mediafellows.com">info@mediafellows.com</a></strong>
           </p>
         </div>
     </div>
