@@ -6,7 +6,7 @@ release_date: 09.02.2023
 image: /assets/img/news/20230902_mediafellows-Newen_Connect_Press_Release.png
 image_border:
 image_credits: 
-description: Newen Studios Group kickstarted 2023 with the launch of their first-ever dual-language sales and marketing website <a href="https://www.newenconnect.com/" target="blank">newenconnect.com</a> which serves the French domestic as well as international market – in partnership with mediafellows.
+description: Newen Studios Group kickstarted 2023 with the launch of their first-ever dual-language sales and marketing website which serves the French domestic as well as international market – in partnership with mediafellows.
 
 ---
 
@@ -41,7 +41,7 @@ description: Newen Studios Group kickstarted 2023 with the launch of their first
 Having previously hosted content across different platforms, Newen Studios Group recognized the need for both consolidation and customization to effectively target their home market, France, as well as maintain global reach. Not only would this mean displaying content in multiple languages, but also differentiating the publishing of content and data depending on the relevant target market. Therefore, the necessary consolidation of over 50,000 assets previously housed in separate production company archives of the Newen Studios Group was a complex project that mediafellows proved more than capable of delivering. 
           </p>
           <p>
-The new sales and marketing website automatically switches to French or English based on the user's region or language preferences and shows particular geolocated content catalogs and marketing assets – with all this data being constantly synchronized automatically between Newen Studios Group’s on-premise storage systems and MediaStore. There’s no need for them to manage multiple websites in different languages or for separate markets – mediafellows’ fully integrated solution means that the entire process, from content upload to publishing and marketing, can be completed within one platform.
+The new sales and marketing website  <a href="https://www.newenconnect.com/" target="blank">newenconnect.com</a> automatically switches to French or English based on the user's region or language preferences and shows particular geolocated content catalogs and marketing assets – with all this data being constantly synchronized automatically between Newen Studios Group’s on-premise storage systems and MediaStore. There’s no need for them to manage multiple websites in different languages or for separate markets – mediafellows’ fully integrated solution means that the entire process, from content upload to publishing and marketing, can be completed within one platform.
           </p>
           <p>
 Content ‘collections’ can be compiled easily within the admin UI, adding another level of flexibility to regional and market-specific output. Newen Studios Group’s clients and team members alike will be able to view screeners, detailed metadata, as well as the production status for each of the 15,000 hours of TV Programs and films – making the website a central source of invaluable shared information from multiple branches of the Newen Studios Group. User information in the form of analytics data is reported back to their CRM platform allowing their sales team to gain valuable insights, e.g., into actual interests and demands for content.
