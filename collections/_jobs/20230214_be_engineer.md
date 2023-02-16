@@ -50,7 +50,7 @@ We provide you with a co-working office space in Berlin, but our team is distrib
   <li>ability to find a balance between maintainability, security, performance, and flexibility</li>
   <li>strong autonomy, self-discipline and ability to self-educate</li>
   <li>ability to communicate effectively in English</li>
-  <li>true team player who enjoys sharing his knowledge proactively</li>
+  <li>true team player who enjoys sharing knowledge proactively</li>
   <li>you are based in the Central European Time Zone +/- 2 hours</li>
   <li>most importantly you enjoy what you are doing: profession = passion</li>
 </ul>
