@@ -5,7 +5,7 @@ title: Bien Joué! Newen Connects International Markets with MediaStore.
 release_date: 09.02.2023
 image: /assets/img/news/20230902_mediafellows-Newen_Connect_Press_Release.png
 image_border:
-image_credits: 
+image_credits: Newen Connect Website
 description: Newen Studios Group kickstarted 2023 with the launch of their first-ever dual-language sales and marketing website which serves the French domestic as well as international market – in partnership with mediafellows.
 
 ---
