@@ -5,7 +5,7 @@ title: ITV Studios' new MediaStore iOS app proves hit at MipCom
 release_date: 01.11.2022
 image: /assets/img/news/20221510_mediafellows-ITV_Studios_press_release.png
 image_border:
-image_credits: ITV Studios Mobile App
+image_credits: ITVStudios.com
 description: Covering the whole pitch process from scheduling to streaming, the ITV Studios sales team brought their new mediafellows-built mobile app to the stage at the industry’s busiest event of the season, MIPCOM.
 
 ---
@@ -37,12 +37,6 @@ Officially launched in August, mediafellows worked closely with ITV Studios to b
           <p>
 With brand new features conceptualized by mediafellows like their in-built scheduling tool Meeting Manager, the sales workflow for MIPCOM was smoother than ever. Advanced filters and time-zone configuration made it easy to see which location was required by which ITV Studios hosts, and impossible to double-book. 
           </p>
-          <p>
-In addition, the functionality extended far beyond a simple calendar tool to provide all presentation resources in one place. Sales agents compiled playlists of specific content in preparation for each meeting, adding relevant decks and PDFs, and then attached them all straight into their Meeting Manager bookings to pull up instantly on-site. Mobile synced collections allowed the sales team to download relevant content to stream offline, under any conditions, while simple point-and-click UX and screen mirroring made for intuitive playback and a polished client presentation. 
-          </p>
-          <p>
-Not only did the app features enhance the planning and delivery of the sales process, but they enabled more effective follow-ups with mediafellows’ Recommendations function; throughout meetings, sales agents could flag products of interest with one simple click, which they could review afterward and pursue by sending their clients a targeted view of all the products they ‘liked’. 
-          </p>
         </div>
     </div>
 </div>
@@ -50,7 +44,10 @@ Not only did the app features enhance the planning and delivery of the sales pro
     <div class="col-xl-12 col-lg-12">
         <div class="service-details mb-40">
           <p>
-<strong>Jo Morris</strong>,  Head of ITV Studios Experience and Events, commented <i>"For the first on-site MIPCOM festival since before the pandemic, we were prepared for hiccups – but the whole process using the new ITV Studios sales app couldn’t have been smoother. In fact, the only problem we faced during the weekend was a bored tech support team who had no issues to solve!”</i>
+In addition, the functionality extended far beyond a simple calendar tool to provide all presentation resources in one place. Sales agents compiled playlists of specific content in preparation for each meeting, adding relevant decks and PDFs, and then attached them all straight into their Meeting Manager bookings to pull up instantly on-site. Mobile synced collections allowed the sales team to download relevant content to stream offline, under any conditions, while simple point-and-click UX and screen mirroring made for intuitive playback and a polished client presentation. 
+          </p>
+          <p>
+Not only did the app features enhance the planning and delivery of the sales process, but they enabled more effective follow-ups with mediafellows’ Recommendations function; throughout meetings, sales agents could flag products of interest with one simple click, which they could review afterward and pursue by sending their clients a targeted view of all the products they ‘liked’. 
           </p>
           <p> 
 mediafellows founder <strong>Torsten Graf-Oettel</strong> added, <i>“ITV Studios are always a pleasure to work with, and we were glad to be on-site to deliver support for our product – and even more glad that they didn’t need it!”</i>
