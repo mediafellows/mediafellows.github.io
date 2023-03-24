@@ -2,7 +2,7 @@
 layout: career
 header_image: "/assets/img/bg/career.jpg"
 title: Ruby on Rails Software Engineer (remote or onsite)
-date: 14.02.2023
+date: 24.03.2023
 description: mediafellows is looking for a Backend Software Engineer with experience in Ruby on Rails. mediafellows is a Berlin-based company developing and operating software solutions for media and entertainment companies across the globe. If you see a movie in a theatre, chances are high that it has been promoted using our tools. Our backend is built and maintained by a small, ambitious team of experienced developers. Some of us are based in Berlin, others are working in other European time zones.
 
 ---

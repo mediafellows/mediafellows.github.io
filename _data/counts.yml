@@ -2,14 +2,14 @@
 # for icons see: https://linearicons.com/free
 
 - icon: lnr-database
-  number: 390,967
+  number: 543,653
   label: contents stored
 - icon: lnr-file-empty
-  number: 1,840,368
+  number: 1,876,135
   label: assets ingested
 - icon: lnr-users
-  number: 49,024
+  number: 55,876
   label: users managed
 - icon: lnr-chart-bars
-  number: 46,321
+  number: 49,576
   label: campaigns run

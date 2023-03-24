@@ -2,7 +2,7 @@
 layout: career
 header_image: "/assets/img/bg/career.jpg"
 title: Web Project and Account Manager (remote or onsite)
-date: 06.02.2023
+date: 06.03.2023
 description: mediafellows is looking for a Web Project and Account Manager to oversee and coordinate the development of MediaStore client website projects from the inception stage to the live online deployment and the ongoing support and operation thereof. In this position you collaborate with all stakeholders on the scope of web-based projects, lead teams in the conceptualization, design, and development of web applications, ensure high-quality deliveries, as well as prepare project status reports. After a website's productive launch, you will support the client with its website's operations, maintenance, and further development.<br>If desired, we will support you to obtain a working visa and provide your relocation to Berlin if you intend to move to Germany's highly vibrant capital city.
 
 ---
