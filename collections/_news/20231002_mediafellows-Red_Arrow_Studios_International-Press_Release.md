@@ -6,7 +6,7 @@ release_date: 02.10.2023
 image: /assets/img/news/20231002_mediafellows-Red_Arrow_Studios_International-Press_Release.png
 image_border:
 image_credits: Red Arrow Studios International Website
-description: mediafellows is proud to announce the launch of the new, custom <a target="blank" href="https://redarrowstudiosinternational.com/">Red Arrow Studios International Sales and Marketing Website</a> with bold visuals and innovative user-centric features. 
+description: mediafellows is proud to announce the launch of the new, custom Red Arrow Studios International Sales and Marketing Website with bold visuals and innovative user-centric features. 
 
 ---
 
@@ -30,7 +30,9 @@ description: mediafellows is proud to announce the launch of the new, custom <a 
                   <li class="posts-time">{{page.release_date | date_to_long_string}}</li>
               </ul>
           </div>
-          <p>{{ page.description }}</p>
+          <p>
+            mediafellows is proud to announce the launch of the new, custom <a target="blank" href="https://redarrowstudiosinternational.com/">Red Arrow Studios International Sales and Marketing Website</a> with bold visuals and innovative user-centric features. 
+          </p>
           <p>
             As a long-time client of mediafellows, Red Arrow Studios International commissioned us to build a modernized updated version of their screening website with the additional integration of corporate information and a news feed. mediafellows presented an offer in late 2022 for an entirely bespoke website re-design with the support of Paper Dog creative agency, with whom we have previously worked with on the Entertainment One Preview, among other projects.
           </p>
