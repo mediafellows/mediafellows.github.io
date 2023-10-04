@@ -47,9 +47,6 @@ The new website boasts a highly modern design with a strong visual focus, featur
 As well as visual improvements, the redesign optimized the user journey with unrivaled search, filter and sorting options for a complex set of genre and sub-genre categories. New dedicated genre landing pages feature custom carousels of highlighted titles to really emphasize specific content Red Arrow Studios International chooses to drive to. In addition to genre groupings, adaptable themed Collections make it really easy for users to find content in different ways with creative multi-genre content pairings like ‘Female-Led Drama’ promoted on the homepage.
           </p>
           <p>
-In addition to the front-end design, mediafellows implemented a custom review workflow with multiple approval rounds that send email notifications to entrants; entries are then cleared for judging once they receive final approval. For jurors, this means they each get a limited view of what is relevant to them, which is responsive and can be fully controlled by admins via a custom grouping interface, flexibly assigning panels of entries and documents. Administrators can even set up entire juror accounts, including passwords, to pass on to users and make their sign-in as frictionless as possible. All users benefit from multi-bitrate streaming, and the browser-based platform requiring no plugins ensures the awards process is seamless from start to finish. 
-          </p>
-          <p>
 Key format Married at First Sight gets major exposure with a dedicated microsite which brings together all the different versions of the show and its spinoffs in a custom-designed destination.
           </p>
           <p>
