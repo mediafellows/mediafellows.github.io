@@ -80,7 +80,7 @@ Throughout both events, mediafellows provided daily emailed viewer reports, tail
           </p>
 <hr>
           <p>
-<strong>Aurélien Baujaul</strong>, Director of Digital in the Entertainment Division at RX France, said of the project: <i>"The MIPJUNIOR Screening Library and the MIPCOM Digital Content Platform look fantastic. Gearing up for the market, I couldn't wait to share the new improved experience with the participants, and the volume of positive feedback we keep receiving about the digital screenings is overwhelming. Thank you again for another successful collaboration."</i>
+<strong>Aurélien Baujault</strong>, Director of Digital in the Entertainment Division at RX France, said of the project: <i>"The MIPJUNIOR Screening Library and the MIPCOM Digital Content Platform look fantastic. Gearing up for the market, I couldn't wait to share the new improved experience with the participants, and the volume of positive feedback we keep receiving about the digital screenings is overwhelming. Thank you again for another successful collaboration."</i>
           </p> 
           <p>
 Product Owner at mediafellows, who managed both the MIPJUNIOR and MIPCOM projects, <strong>Polina Axenova</strong> added, <i>"We are extremely proud of the quality of the platforms launched for the 2023 MIP markets – a testament to the hard work of the team here at mediafellows and the thorough user research conducted by RX France. It is such a pleasure to watch our partnership grow."</i>
