@@ -3,7 +3,7 @@ layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: Red Arrow Studios International Website Revamp Sets New Standard for User Experience – Powered by MediaStore
 release_date: 02.10.2023
-image: /assets/img/news/20231002_mediafellows-Red_Arrow_Studios_International-Press_Release.png
+image: /assets/img/news/20231002_mediafellows-Red_Arrow_Studios_International-Press_Release.jpg
 image_border:
 image_credits: Red Arrow Studios International Website
 description: mediafellows is proud to announce the launch of the new, custom Red Arrow Studios International Sales and Marketing Website with bold visuals and innovative user-centric features. 

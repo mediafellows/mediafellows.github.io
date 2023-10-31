@@ -3,7 +3,7 @@ layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: MediaStore Appointed as the Official Online Library of the Tokyo International Film Festival
 release_date: 25.10.2023
-image: /assets/img/news/20231025_mediafellows-TIFF_Press_Release.png
+image: /assets/img/news/20231025_mediafellows-TIFF_Press_Release.jpg
 image_border:
 image_credits: Tokyo International Film Festival - Online Library
 description: We are thrilled to announce that MediaStore, provided by proud partners of IMAGICA Entertainment Media Service Corporation, mediafellows, has been selected as the official online library of the 36th Tokyo International Film Festival.
