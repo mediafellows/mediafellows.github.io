@@ -5,7 +5,7 @@ title: RX France and mediafellows Find Success Again with New & Improved Screeni
 release_date: 31.10.2023
 image: /assets/img/news/20231031_mediafellows-MIPCOM_MIPJUNIOR-Press_Release.jpg
 image_border: true
-image_credits: On-site Successcreening at MIPJUNIOR
+image_credits: MIPJUNIOR 2023 in Cannes, France
 image2: /assets/img/news/20231031_mediafellows-MIPCOM_MIPJUNIOR-Press_Release2.jpg
 image2_credits: Content Discovery at MIPJUNIOR
 description: Continuing their ongoing cooperation with RX France, mediafellows built a brand new digital content platform for MIPCOM CANNES 2023 and took the user experience and feature offering for MIPJUNIOR to new heights — all powered by MediaStore.
