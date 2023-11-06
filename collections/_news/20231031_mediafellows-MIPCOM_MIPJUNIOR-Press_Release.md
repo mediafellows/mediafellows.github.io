@@ -1,7 +1,7 @@
 ---
 layout: news
 header_image: "/assets/img/bg/news.jpg"
-title: RX France and mediafellows Find Success Again with New & Improved Screening Libraries for MIPJUNIOR and MIPCOM. 
+title: RX France and mediafellows Find Success Again with New & Improved Screening Libraries for MIPJUNIOR and MIPCOM
 release_date: 31.10.2023
 image: /assets/img/news/20231031_mediafellows-MIPCOM_MIPJUNIOR-Press_Release.jpg
 image_border: true
@@ -34,7 +34,7 @@ description: Continuing their ongoing cooperation with RX France, mediafellows b
           </div>
           <p>{{ page.description }}</p>
           <p>
-		   The <a target="blank" href="hhttps://screening.mipjunior.com/">MIPJUNIOR Screening Library</a> pre-opened for catalogue discovery on October 2nd, with full screenings starting on October 13th to align with the onsite event, and will remain accessible until November 15th. Meanwhile, the entirely digital <a target="blank" href="https://screening.mipcom.com/">MIPCOM Digital Content Library</a> opened on October 2nd and remained accessible throughout the week. It will continue to be available for several months, providing an extended opportunity for registered buyers to discover new projects and finished programmes. In total, the projects served over 3500+ buyers and more than 1330+ titles.
+		   The <a target="blank" href="https://screening.mipjunior.com/">MIPJUNIOR Screening Library</a> pre-opened for catalogue discovery on October 2nd, with full screenings starting on October 13th to align with the onsite event, and will remain accessible until November 15th. Meanwhile, the entirely digital <a target="blank" href="https://screening.mipcom.com/">MIPCOM Digital Content Library</a> opened on October 2nd and remained accessible throughout the week. It will continue to be available for several months, providing an extended opportunity for registered buyers to discover new projects and finished programmes. In total, the projects served over 3500+ buyers and more than 1330+ titles.
           </p>
         </div>
     </div>
