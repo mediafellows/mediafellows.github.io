@@ -202,6 +202,34 @@
     type: "iframe"
   });
 
+  // news images
+
+  $(".news-images").owlCarousel({
+    loop: true,
+    nav: true,
+    autoplay: false,
+    responsive: {
+      0: {
+        items: 2
+      },
+      320: {
+        items: 2
+      },
+      480: {
+        items: 3
+      },
+      767: {
+        items: 3
+      },
+      991: {
+        items: 4
+      },
+      1000: {
+        items: 4
+      }
+    }
+  });
+
   // clients
 
   $(".clients-active").owlCarousel({
