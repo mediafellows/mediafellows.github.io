@@ -12,7 +12,8 @@ header_image: "/assets/img/bg/career.jpg"
             <div class="col-xl-12 text-center pb-40 ">
                 <div class="section-title service-title">
                     <h2>Career</h2>
-                    <p>We are constantly looking for talented fellows who want to become part of our amazing team. Even if your dream job isn't currently listed below, please reach out to <a href="mailto:hr@mediafellows.com?subject=mediafellows - Career">hr@mediafellows.com</a> if you would like to join us in revolutionizing the media industry.</p>
+                    <p>We are constantly looking for talented fellows who want to become part of our amazing team. Even if your dream job isn't currently listed below, we encourage you to check back regularly as new opportunities may arise in the future.<p>
+                    <p>If you are already a media expert and would like to join mediafellows in revolutionizing the media industry, please reach out with an informal request to <a href="mailto:hr@mediafellows.com?subject=mediafellows - Career">hr@mediafellows.com</a>.</p>
                 </div>
             </div>
         </div>
@@ -38,5 +39,16 @@ header_image: "/assets/img/bg/career.jpg"
             </div>
         </div>
         {% endfor %}
+        {% if site.jobs.size == 0 %}
+        <div class="blog-wrapper home-blog-wrapper white-bg mb-50">
+          <div class="row">
+              <div class="col-xl-12 col-lg-12 col-md-12">
+                <hr>
+                <p class="text-center">We appreciate your interest in joining the mediafellows team. Currently, there are no job vacancies available.</p>
+                <hr>
+              </div>
+            </div>
+        </div>
+        {% endif %}        
     </div>
 </section>
