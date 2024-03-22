@@ -2,7 +2,7 @@
 layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: Pixelogic Acquires mediafellows, Expanding its Digital Distribution Solutions for Content Owners
-release_date: 28.02.2024
+release_date: 27.02.2024
 image: /assets/img/news/20240227_mediafellows-Pixelogic_Press_Release.jpeg
 image_border:
 image_credits: 
