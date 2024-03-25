@@ -5,7 +5,7 @@ title: MediaBench Continues to Evolve and Innovate
 release_date: 25.03.2024
 image: /assets/img/news/20240325_mediafellows-MediaBench_Press_Release.png
 image_border:
-image_credits: 
+image_credits: Upload reference images directly into comment discussions in the MediaBench interface
 description: Since the launch of MediaBench in late 2023, the development team here at mediafellows has made leaps and bounds in improving and refining the tool, including versioning and comment topic features, and our early adopters are reaping the benefits.
 ---
 
