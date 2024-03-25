@@ -3,7 +3,7 @@ layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: MediaBench - the Future of Media Review and Approval, Elevated with AI/ML Augmentation
 release_date: 16.10.2023
-image: /assets/img/news/20231016_mediafellows-MediaBench_Press_Release.jpg
+image: /assets/img/news/20231016_mediafellows-MediaBench_Press_Release.png
 image_border:
 image_credits: MediaBench.app Homepage
 description: mediafellows is thrilled to announce the official launch of MediaBench, a groundbreaking review and approval tool designed to streamline the media production and collaboration process — boosted by the latest AI/ML technology.
