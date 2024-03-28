@@ -17,6 +17,25 @@
     - Detailed usage analytics including virtual event participation
     - Open API to integrate with various on-premise systems 
 
+- title: ITV Content Delivery
+  identifier: itvcontent
+  description: Online catalogue
+  categories: catalogue
+  website: 
+  thumb: /assets/img/portfolio/itv-content_thumb.jpg
+  image: /assets/img/portfolio/itv-content.jpg
+  what:
+    - Conduct ad-hoc online content screening and QA
+    - Eliminate the need for on-site screening with prior outgest from LTO tapes
+    - Manage and catalog over 25,000 assets with complex audio configurations
+    - Retrieve, review and deliver assets with distributed workforces and pandemic restrictions
+  why:
+    - Automatic import and continuous ingest of master-quality assets enable instant cloud-based preview from any location with any connection
+    - Advanced API endpoints retrieve information from ITV's product database to automatically populate associated metadata with no need for manual intervention
+    - In-depth review and QC functionality
+    - Automatic import generates bespoke audio pairs for seamless dialog preview
+    - Preserving over 20 audio tracks per assets creates a resource for verified audio track information
+
 - title: NBCUniversal Passport
   identifier: nbcupassport
   description: Online catalogue, video screening, audio broadcasting and assets distribution
