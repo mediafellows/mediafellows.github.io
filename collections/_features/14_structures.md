@@ -7,11 +7,15 @@ icon: /assets/img/icons/file-invoice-solid.svg
 image: /assets/img/features/structures.jpg
 header_image: "/assets/img/bg/features.jpg"
 
-text: "Besides the obvious key properties, our standard metadata schemas allow you to capture a deep degree of detail, such as multiple genre assignments, many-to-one associations of cast and crew, and multi-language layers. However, our architecture also allows for fully custom schemas: Whether you'd like to concentrate on just a handful of key fields or go all-out and capture expansive additional information, we can provide the best structure to capture your data optimally. Of course, you also decide which portion of each title's or asset's metadata is shared with clients and which remains purely internal. We can even provide multiple schemas for you - say, a standard schema plus several schemas matching specific vendor formats."
+text: "Besides the obvious key properties, our standard <strong>metadata schemas</strong> allow you to capture a deep degree of detail, such as multiple genre assignments, many-to-one associations of cast and crew, and multi-language layers. However, our architecture also allows for fully custom schemas: Whether you'd like to concentrate on just a handful of key fields or go all-out and capture expansive additional information, we can provide the best structure to capture your data optimally. Of course, you also decide which portion of each title's or asset's metadata is shared with clients and which remains purely internal. We can even provide multiple schemas for you - say, a standard schema plus several schemas matching specific vendor formats."
 
 subtitle: 
 subimage: 
 subtext: 
+
+example_text: Take a look at our projects showcasing our customizable data structures
+example_link: projects#nbcu
+
 ---
 
 <div class="row">

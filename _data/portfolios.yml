@@ -1,45 +1,7 @@
-- title: ITV Studios
-  identifier: itvstudios
-  description: Online catalogue, content marketing and video screening
-  categories: catalogue marketing video
-  website: https://itvstudios.com
-  thumb: /assets/img/portfolio/itv-studios_thumb.png
-  image: /assets/img/portfolio/itv-studios.png
-  what:
-    - Re-launch of an outdated and unflexible online catalog
-    - Clearly structured and highly personalized content presentation
-    - Combined video streaming, virtual meeting, and events platform
-    - Single Sign-On for clients and administrators
-  why:
-    - Solid and secure content and asset management platform with secure video streaming
-    - Multi-channel offering reaching from responsive website to mobile app
-    - Granular access control that allows previewing restricted content to selected clients
-    - Detailed usage analytics including virtual event participation
-    - Open API to integrate with various on-premise systems 
-
-- title: ITV Content Delivery
-  identifier: itvcontent
-  description: Online catalogue
-  categories: catalogue
-  website: 
-  thumb: /assets/img/portfolio/itv-content_thumb.jpg
-  image: /assets/img/portfolio/itv-content.jpg
-  what:
-    - Conduct ad-hoc online content screening and QA
-    - Eliminate the need for on-site screening with prior outgest from LTO tapes
-    - Manage and catalog over 25,000 assets with complex audio configurations
-    - Retrieve, review and deliver assets with distributed workforces and pandemic restrictions
-  why:
-    - Automatic import and continuous ingest of master-quality assets enable instant cloud-based preview from any location with any connection
-    - Advanced API endpoints retrieve information from ITV's product database to automatically populate associated metadata with no need for manual intervention
-    - In-depth review and QC functionality
-    - Automatic import generates bespoke audio pairs for seamless dialog preview
-    - Preserving over 20 audio tracks per assets creates a resource for verified audio track information
-
 - title: NBCUniversal Passport
-  identifier: nbcupassport
-  description: Online catalogue, video screening, audio broadcasting and assets distribution
-  categories: catalogue video distribution
+  identifier: nbcu
+  description: Asset servicing and distribution for catalog of over 1.5m assets
+  categories: catalog distribution
   website: https://nbcupassport.com
   thumb: /assets/img/portfolio/nbcupassport_thumb.jpg
   image: /assets/img/portfolio/nbcupassport.jpg
@@ -57,41 +19,170 @@
 
 - title: Lionsgate LGTV
   identifier: lgtv
-  description: Online catalogue, content marketing and video screening
-  categories: catalogue marketing video
+  description: Marketing catalog with fully bespoke designs, extensions, and mobile & AppleTV apps 
+  categories: marketing catalog
   website: https://www.lgtv.lionsgate.com
   thumb: /assets/img/portfolio/lionsgate_thumb.png
   image: /assets/img/portfolio/lionsgate.png
   what:
-    - Carryover of existing custom design from MediaStore 1.0 to 2.0
+    - Partner on different iterations of their sales & marketing website across brand updates, showcasing their entire catalog 
     - Bespoke Apple TV and mobile apps for a comprehensive user experience
     - Custom extensions such as back-and-forth switching between admin and client site
     - Synchronization with external content database for automated metadata creation and update
   why:
-    - Positive experience over years of running on MediaStore 1.0
+    - Positive experience of over a decade using the MediaStore platform
     - Easy-to-use toolbox of sales functionality for sales team
-    - Glossy one-stop show pages with filtering for e.g. video type or season
+    - Custom extensions built for Lionsgate including instant preview and branded video conferencing
     - Full lockdown of catalog without any publicly reachable content
     - Assignment of dedicated sales representative to each client
-    - Pull-based metadata sync workflow maps existing external metadata format into MediaStore
 
-- title: eOne Preview
-  identifier: eone
-  description: Online catalogue, video screening, content marketing, and video conferencing
-  categories: catalogue video marketing conferencing
-  website: https://eonepreview.tv
-  thumb: /assets/img/portfolio/entertainment-one_thumb.png
-  image: /assets/img/portfolio/entertainment-one.png
+- title: ITV Studios
+  identifier: itvstudios
+  description: Global brand with a fully custom B2B interface and tailor-made marketing events calendar
+  categories: marketing catalog 
+  website: https://itvstudios.com
+  thumb: /assets/img/portfolio/itv-studios_thumb.png
+  image: /assets/img/portfolio/itv-studios.png
   what:
-    - Replacement of previous generic MediaStore 1.0 site with a fresh design
-    - Migration of all content, assets and users (including passwords) for a seamless continuation
-    - Implementation of a modern bespoke design and compelling user experience
+    - Re-launch of an outdated and inflexible online catalog
+    - Clearly structured and highly personalized content presentation
+    - Combined video streaming, virtual meeting, and events platform
+    - Single Sign-On for clients and administrators
   why:
-    - Long-time customer with heavy MediaStore usage for sales & marketing
-    - MediaStore 2.0's readymade standard design offers a state-of-the-art responsive design which can be customized with few tweaks
-    - Design add-ons (e.g. custom landing page layout) as well as new features (news feed) could be added easily
-    - MediaStore 2.0 shortens a content buyer's pathway to screen their desired content as much as feasible
-    - Screening recommendation links can be sent directly from MediaStore or incorporated into external email communication
+    - Solid and secure content and asset management platform with secure video streaming
+    - Multi-channel offering reaching from responsive website to mobile app
+    - Granular access control that allows previewing restricted content to selected clients
+    - Detailed usage analytics including virtual event participation
+
+- title: ITV Content Delivery
+  identifier: itvcontent
+  description: Cloud-based archive consolidating internal content delivery of 25k+ assets and 500k+ complex audio tracks
+  categories: catalog distribution
+  website: 
+  thumb: /assets/img/portfolio/itv-content_thumb.png
+  image: /assets/img/portfolio/itv-content.png
+  what:
+    - Conduct ad-hoc online content screening and QA
+    - Eliminate the need for on-site screening with prior outgest from LTO tapes
+    - Manage and catalog over 25,000 assets with complex audio configurations
+    - Retrieve, review and deliver assets with distributed workforces and pandemic restrictions
+  why:
+    - Instant cloud-based previews of master-quality assets anywhere, anytime
+    - In-depth review and QC functionality
+    - Advanced API endpoints auto-populate metadata from ITV's product database
+    - Automatic import generates custom audio pairs for seamless dialog preview
+    - Preservation of 20+ audio tracks per asset creates verified info base
+
+- title: International Emmy® Awards
+  identifier: iemmys
+  description: Awards screening and juror portal with voting and entries purchasing capabilities 
+  categories: fyc 
+  website: https://upload.iemmys.tv/
+  thumb: /assets/img/portfolio/iemmy_thumb.png
+  image: /assets/img/portfolio/iemmy.png
+  what:
+    - Three separate major FYC event platforms to host and manage
+    - Upgrade the look and feel of the website 
+    - Update from Flash and Wordpress plugins to a bespoke solution
+    - Reduce maintenance costs and improve efficiency
+  why:
+    - All activity managed within one system, including public voting functionality 
+    - Bespoke UI prioritizing high-quality juror screening and ultra-fast load times
+    - Fully integrated entry slot purchasing for International Emmy® Awards entrants
+    - Secure cloud system with flexible access controls enables direct studio uploads
+
+- title: Newen Connect
+  identifier: newen
+  description: Dual-market, multi-language catalog targeting international and domestic users
+  categories: marketing catalog 
+  website: https://www.newenconnect.com/
+  thumb: /assets/img/portfolio/newen_thumb.png
+  image: /assets/img/portfolio/newen.png
+  what:
+    - Consolidation of over 50,000 asset from various hosting platforms
+    - Multilingual display to target domestic and international markets
+    - End-to-end integration of various existing and new to be implemented systems to build a "future-proof" platform
+  why:
+    - Dual-market website targets international and domestic users with tailored content collections
+    - Language adapts based on user preferences and region
+    - Continuous sync between on-premise system and MediaStore ensures real-time updates
+    - Seamless MediaStore integration with CRM gives sales agents unparalleled analytics insights 
+
+- title: RX on-site screenings for MIPJUNIOR and MIPDOC
+  identifier: rx-onsite
+  description: On-site screening events portals with marketplace-style multi-vendor uploads 
+  categories: marketing fyc
+  website:             
+  thumb: /assets/img/portfolio/rx-onsite_thumb.jpg
+  image: /assets/img/portfolio/rx-onsite.jpg
+  what:
+    - Needed to move from local storage to a flexible web-based solution
+    - Serving multiple event phases and a plethora of content uploaders, marketplace-style 
+    - Superior processing speed to handle registration and exhibitor use peaks at the last minute
+    - Support a high volume of separate admin users, up to 200 exhibitors for each festival 
+    - Solution that can support both online and offline
+  why:
+    - In-person, on-site support throughout every event
+    - Unmatched search filtering and intuitive UI encourages content discovery
+    - Enhanced sales features like Contact Seller, Recently Viewed and exportable notes
+    - Real-time analytics generates instant spreadsheet reports 
+    - Sophisticated API integrations enable smooth auto file transfers, SSO & SLO
+    - Support for PDFs and key art upload for promotion of conceptual or pre-production content
+
+- title: RX online screenings for MIPCOM and MIPTV
+  identifier: rx-online
+  description: Online screening event portal for the world's largest entertainment content market
+  categories: marketing fyc catalog
+  website:             
+  thumb: /assets/img/portfolio/rx-online_thumb.png
+  image: /assets/img/portfolio/rx-online.png
+  what:
+    - Realised the need to diversify from on-site only events to digital alternatives during the pandemic
+    - Seamless integration with their existing tech solutions including complex user database
+    - Exclusive content requires superior security
+    - An intuitive, proven user interface that requires no one-on-one exhibitor support or onboarding
+  why:
+    - Ultra fast turnaround adapting white-label solution to each events' brand identity
+    - Dedicated ad banners promote content and monetize pages
+    - Custom search terms including exhibitor name enable easy user navigation 
+    - Advanced security features with user-specific, distributor-copyrighted watermarking 
+    - Flexible product metadata schema with custom attributes and filters created for RX
+
+- title: Red Arrow Studios International
+  identifier: rasi
+  description: B2B marketing catalog with bold visuals and dedicated key format microsites
+  categories: marketing catalog
+  website: https://redarrowstudiosinternational.com/
+  thumb: /assets/img/portfolio/rasi_thumb.png
+  image: /assets/img/portfolio/rasi.png
+  what:
+    - Upgrade existing white-label MediaStore platform to a fully custom design with bold visuals and innovative user-centric features, matching the corporate identity
+    - Access to extended analytics for further in-house processing
+    - GDPR-compliant registration and tracking of client users
+  why:
+    - Comprehensive public catalog and corporate info with adjustable access restrictions for sensitive titles
+    - Dedicated microsites give key formats like Married At First Site unparalleled exposure
+    - Bespoke features built-for-purpose like highlighted press quotes and advanced PDF export
+    - Ready-to-go mobile screening app for markets and meetings
+
+- title: FilmRise
+  identifier: filmrise
+  description: Customized turnkey sales and marketing website with FAST channels
+  categories: marketing catalog
+  website: https://sales.filmrise.com/ 
+  thumb: /assets/img/portfolio/filmrise_thumb.png
+  image: /assets/img/portfolio/filmrise.png
+  what:
+    - Custom version of white-label website
+    - Data migration of over 250 titles consisting of metadata, images, trailers and screeners
+    - Branded email for sales recommendations and follow up
+  why:
+    - Bespoke elements like custom landing page
+    - In-depth navigation including FAST channel showcases
+    - Integration with MediaStore's ready-to-use mobile app for offline screening & presentations 
+    - Email template customization
+    - Custom video-specific permalinks for long-term sharing of content
+   
     
 # - title: Fremantle Screenings
 #   identifier: fmscreenings
@@ -133,8 +224,8 @@
 
 - title: ORF-Enterprise Content Sales International
   identifier: orf
-  description: Online catalogue, content marketing, video screening, and video conferencing
-  categories: catalogue video marketing conferencing
+  description: Online catalog, content marketing, video screening, and video conferencing
+  categories: marketing catalog
   website: https://contentsales.ORF.at
   thumb: /assets/img/portfolio/orf_thumb.png
   image: /assets/img/portfolio/orf.png
@@ -146,13 +237,12 @@
     - Hassle-free day-to-day management of content catalog and assets
     - Sleek client-facing site in responsive design
     - Easily configurable instant screening links with direct report into ORF's CRM system
-    - Analytics tracking on key client activities such as page views and screening durations
     - Video conferencing for online catalog showcase events
 
 - title: Louis Armstrong House Museum
   identifier: lahm
-  description: Online catalogue, audio broadcasting, asset acquisition and asset distribution
-  categories: catalogue acquisition distribution
+  description: Multi-format digital archive with audio broadcasting, asset licensing purchase and distribution
+  categories: marketing catalog distribution licensing
   website: https://collections.louisarmstronghouse.org
   thumb: /assets/img/portfolio/lahm_thumb.png
   image: /assets/img/portfolio/lahm.png
@@ -169,10 +259,10 @@
     - CMS-style management of asset highlights and collections
     - Shopping cart style license ordering process with built-in validation and payment processing
 
-- title: France Television Distribution
+- title: France TV Distribution
   identifier: ftd
-  description: Online catalogue, video screening and content marketing
-  categories: catalogue video marketing distribution
+  description: Customized turnkey sales and marketing website with increased consulting support
+  categories: marketing catalog
   website: https://sales.francetvdistribution.fr
   thumb: /assets/img/portfolio/france-tv_thumb.png
   image: /assets/img/portfolio/france-tv.png
@@ -186,29 +276,11 @@
     - In-depth consulting on further features with sales & marketing team during a post-launch fine-tuning stage
     - Flexible internal user roles including a newly commissioned Sales Agent role with restricted admin site access
     - Comprehensive layout tweaks on client site with little cost footprint
-
-- title: Red Arrow Studios
-  identifier: rasi
-  description: Online catalogue, video screening, content marketing, asset distribution, and video conferencing
-  categories: catalogue video marketing distribution conferencing
-  website: https://screening.redarrowstudios.com
-  thumb: /assets/img/portfolio/red-arrow_thumb.png
-  image: /assets/img/portfolio/red-arrow.png
-  what:
-    - Upgrade existing MediaStore 1.0 platform with a new design matching the corporate identity
-    - Access to extended analytics for further in-house processing
-    - GDPR-compliant registration and tracking of client users
-  why:
-    - MediaStore already established with sales & marketing team as a for catalog site and tool for targeted screening links
-    - Flexible modification of metadata models to display custom information to clients
-    - Time- and money-saving approximation of RASI's CI by adding corporate font and minor custom elements to existing standard design
-    - Ready-to-go mobile screening app for markets and meetings
-    - Comprehensive public catalog with easily imposed access restrictions for sensitive titles and videos
   
 - title: Dynamic Television
   identifier: dtv
-  description: Online catalogue, video screening and assets distribution
-  categories: catalogue video distribution
+  description: Online marketing catalog with video screening and asset distribution
+  categories: marketing catalog distribution
   website: https://www.dynamictelevision.com
   thumb: /assets/img/portfolio/dynamic-television_thumb.png
   image: /assets/img/portfolio/dynamic-television.png
@@ -225,8 +297,8 @@
 
 - title: Relativity Media
   identifier: relativity
-  description: Online catalogue, content marketing and video screening
-  categories: catalogue marketing video
+  description: B2B marketing website with fully public catalog browsing 
+  categories: marketing catalog
   website: https://www.relativitymedia.com
   thumb: /assets/img/portfolio/relativity-media_thumb.png
   image: /assets/img/portfolio/relativity-media.png
@@ -242,8 +314,8 @@
 
 - title: California Pictures
   identifier: california
-  description: Online catalogue, content marketing and video screening
-  categories: catalogue marketing video
+  description: Customized turnkey sales and marketing website with rapid time-to-market 
+  categories: marketing catalog
   website: https://calpictures.com
   thumb: /assets/img/portfolio/california-pictures_thumb.png
   image: /assets/img/portfolio/california-pictures.png
@@ -259,14 +331,14 @@
 
 - title: TF1 Pro
   identifier: tf1pro
-  description: Video screening and assets distribution
-  categories: video distribution
+  description: Dedicated press screening platform with additional security
+  categories: catalog
   website: https://www.preview.tf1pro.com
   thumb: /assets/img/portfolio/tf1pro_thumb.png
   image: /assets/img/portfolio/tf1pro.png
   what:
     - Scalable, easy-to-use screening website for a dedicated press audience
-    - Distribution of press and marketing material
+    - Circulation of press and marketing material
   why:
     - Easy provisioning of content and assets via the internet
     - Granular access control to allow selected users to access exclusive content

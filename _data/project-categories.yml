@@ -1,12 +1,12 @@
 - ident: marketing
-  name: content marketing
-- ident: catalogue
-  name: online catalogue
-- ident: video
-  name: video screening
-- ident: conferencing
-  name: video conferencing
-- ident: acquisition
-  name: asset acquisition 
+  name: B2B Sales & Marketing
+- ident: catalog
+  name: Online Catalog
 - ident: distribution
-  name: asset distribution
+  name: Distribution
+- ident: licensing
+  name: Licensing
+- ident: fyc
+  name: FYC & Events
+- ident: review
+  name: Review & Approval

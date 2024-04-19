@@ -7,11 +7,15 @@ icon: /assets/img/icons/network-wired-solid.svg
 image: /assets/img/features/infrastructure.jpg
 header_image: "/assets/img/bg/features.jpg"
 
-text: "With our cloud-based, virtualized infrastructure hosted on AWS, we can not only ensure exceptional uptime and disruption-less rolling updates, but also scale storage and processing capabilities to your needs. Whether you're a small distributor with a few dozen new titles per year or a heavyweight distributor eager to host tens of thousands of titles and assets, you get the same level of service. Our auto-scaling infrastructure ensures that even at peak times, resources are simply amped up to match whatever throughput is required."
+text: "With our <strong>cloud-based, virtualized infrastructure</strong> hosted on AWS, we can not only ensure exceptional uptime and disruption-less rolling updates, but also scale storage and processing capabilities to your needs. Whether you're a small distributor with a few dozen new titles per year or a heavyweight distributor eager to host tens of thousands of titles and assets, you get the same level of service. Our auto-scaling infrastructure ensures that even at peak times, resources are simply amped up to match whatever throughput is required."
 
 subtitle: 
 subimage: 
 subtext: 
+
+example_text: Take a look at our projects showcasing our auto-scaling infrastructure
+example_link: projects#nbcu
+
 ---
 
 <div class="row">

@@ -1,12 +1,12 @@
 - ident: marketing
-  name: Marketing & Sales
-- ident: apps
-  name: Mobile & TV apps
-- ident: conferencing
-  name: Video Conferencing
-- ident: licensing
-  name: Licensing & Purchase
+  name: B2B Sales & Marketing
+- ident: catalog
+  name: Online Catalog
 - ident: distribution
-  name: Asset Distribution
-- ident: archival
-  name: Archival & Online Catalogue
+  name: Distribution
+- ident: licensing
+  name: Licensing
+- ident: fyc
+  name: Awards & FYC
+- ident: review
+  name: Review & Approval

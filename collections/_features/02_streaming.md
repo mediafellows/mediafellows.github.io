@@ -7,15 +7,19 @@ icon: /assets/img/icons/film-solid.svg
 image: /assets/img/features/streaming.jpg
 header_image: "/assets/img/bg/features.jpg"
 
-text: "Our state-of-the-art video streaming engine adapts to the user's bandwidth for a seamless viewing experience. And even when dealing with sensitive pre-release material, you can rest assured that your videos are fully secured. All streaming video is delivered via HLS with AES encryption by default, while additional security measures can optionally be added."
+text: "Your content sales can showcase video online, anywhere – without having to worry about leaks, piracy or embargoed content.
+Our state-of-the-art engine provides industry-verified video security. Even when dealing with sensitive pre-release material, you can rest assured that your videos are fully secured. All streaming video is delivered via HLS with AES encryption and authentication-based stream access by default, while additional security measures can optionally be added."
 
 subtitle_1: Additional security measures
-subimage_1: /assets/img/features/details/streaming-video.png
-subtext_1: "Our standard client-facing platform comes with all the features you need to showcase your catalogue, offer personal screening links, provide post-sales asset downloads, and much more. Just provide us with some details and specifications (logo, colours, email texts, etc.) and we'll get your bespoke version up and running swiftly. Need customization beyond the scope of our key configuration options? No problem, the design is flexible enough to add, change or remove elements. CMS functionality is available to easily manage presentational elements such as sliders, contact pages, news and much more."
+subimage_1: /assets/img/features/details/watermark.jpg
+subtext_1: "Optional additional features for sensitive content, like visible watermarking and DRM, give you multiple safety nets. Streaming is delivered via a global content delivery network which provides optimal content quality and no latency across the globe. We have multi-bitrate streaming, so even users with poor internet connection or bandwidth can stream content continuously."
 
-subtitle_2: Shared screening links
-subimage_2: /assets/img/features/details/security-screening_link.png
-subtext_2: "Targeted screening links can be sent to anyone, whether they're already a user of your client platform or not. Trigger a screening recommendation from a single title immediately or compile a package first, then simply define the recipient(s) and key validity parameters such as an expiry date, login/registration requirement and, optionally, the maximum number of views. Each recipient will get their own private screening link accessible immediately through the email, or at any time in their logged-in client dashboard."
+subtitle_2: Two-factor authentication
+subimage_2: /assets/img/features/details/2fa-spc.png
+subtext_2: "In an era where targeted phishing scams are causing multi-billion dollar losses in the digital world, the inclusion of additional security measures like two-factor authentication (2FA) is becoming increasingly necessary — and may even be non-negotiable for your company. We offer 2FA options via email code or integration with industry-leading authenticator apps such as Google Authenticator and NordPass. To ensure a seamless workflow, MediaStore provides admins with the option to enable a 'trust this browser' setting, temporarily disabling 2FA for a predetermined amount of time."
+
+example_text: Take a look at our projects showcasing our secure video screening features
+example_link: projects#rx-online
 
 ---
 

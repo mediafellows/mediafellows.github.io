@@ -1,4 +1,4 @@
-- title: Marketing & Sales Websites
+- title: B2B Sales & Marketing
   identifier: for_marketing
   categories: marketing
   thumb: /assets/img/solutions/marketing_thumb.jpg
@@ -13,35 +13,66 @@
   example_text: Take a look at our projects showcasing our direct online marketing & sales features 
   example_link: projects#lgtv
 
-- title: Mobile & TV Apps
-  identifier: for_apps
-  categories: apps
-  thumb: /assets/img/solutions/apps_thumb.jpg
-  image: /assets/img/solutions/apps.jpg
-  question: Is your content comprehensively available or do you still force your prospects to watch full-length screeners during working hours?
+- title: Archival & Online Cataloging
+  identifier: for_catalog
+  categories: catalog
+  thumb: /assets/img/solutions/archival_thumb.jpg
+  image: /assets/img/solutions/archival.jpg
+  question: Is figuring out how to store, manage, and access your digital assets still a challenge?
   solutions:
-   - Present your content on multiple channels and don't limit it to your website only
-   - Allow your clients and prospects to stream videos offline in a highly secure fashion, e.g. while commuting
-   - Support your sales team with a tool to pre-compile playlists online and synchronize them to a mobile device for offline screening during markets
-   - Let your clients pick up their recently viewed videos on a new device so they can continue watching exactly where they left off
-   - Bring your content in front of your professional audience where it can be enjoyed best - on a large screen
-  example_text: Take a look at our projects utilizing our mobile and/or TV applications
-  example_link: projects#lgtv
+   - Centralize your data with MediaStore to make remote and low-touch interactions run smoother than ever
+   - "No need to run dedicated systems on your end: all you’ll require to access MediaStore’s easy-to-use interface is a web browser"
+   - Encrypted video streaming and asset storage keeps your content safe, while our granular access model and optional security measures (2FA, burn-in or forensic watermarks, SSO) put you in control
+   - "Fast migration: mediafellows can consolidate your data from several migration points thanks to our data migration workflows and flexible metadata schemas"
+   - "Several solutions, one platform: we support multi-device usage and multiple asset types, with video screening, multi-language support, TV casting, phone/tablet app and browser interfaces"
+  example_text: Take a look at our projects showcasing our archive & online catalog features
+  example_link: projects#lahm
 
-- title: Video Conferencing
-  identifier: for_conferencing
-  categories: conferencing
-  thumb: /assets/img/solutions/conferencing_thumb.jpg
-  image: /assets/img/solutions/conferencing.jpg
-  question: Are you looking for a video conferencing solution able to stream your content in HD quality?
+#- title: Mobile & TV Apps
+#  identifier: for_apps
+#  categories: apps
+#  thumb: /assets/img/solutions/apps_thumb.jpg
+#  image: /assets/img/solutions/apps.jpg
+#  question: Is your content comprehensively available or do you still force your prospects to watch #full-length screeners during working hours?
+#  solutions:
+#   - Present your content on multiple channels and don't limit it to your website only
+#   - Allow your clients and prospects to stream videos offline in a highly secure fashion, e.g. #while commuting
+#   - Support your sales team with a tool to pre-compile playlists online and synchronize them to a #mobile device for offline screening during markets
+#   - Let your clients pick up their recently viewed videos on a new device so they can continue #watching exactly where they left off
+#   - Bring your content in front of your professional audience where it can be enjoyed best - on a #large screen
+#  example_text: Take a look at our projects utilizing our mobile and/or TV applications
+#  example_link: projects#lgtv
+
+#- title: Video Conferencing
+#  identifier: for_conferencing
+#  categories: conferencing
+#  thumb: /assets/img/solutions/conferencing_thumb.jpg
+#  image: /assets/img/solutions/conferencing.jpg
+#  question: Are you looking for a video conferencing solution able to stream your content in HD #quality?
+#  solutions:
+#   - Stream promo and screener videos directly to participants in HD quality with high-quality #audio, leveraging MediaStore's secure multi-bitrate video streaming engine
+#   - Meet with up to 250 participants in virtual screening rooms to jointly watch and talk about #your stunning content
+#   - Compile playlists of videos, audios, images, and PDFs prior to the meeting
+#   - Choose from three different video conferencing modes - 'conference', 'panel', or 'webinar' - to #set up the conference’s look & feel based on your needs
+#   - Utilize common conference features, such as waiting room, chat, raise hand, screen sharing, #audio ducking, and many more
+#  example_text: Take a look at our projects showcasing our video conferencing solution
+#  example_link: projects#orf
+
+- title: Fulfillment & Distribution 
+  identifier: for_distribution
+  categories: distribution
+  thumb: /assets/img/solutions/distribution_thumb.jpg
+  image: /assets/img/solutions/distribution.jpg
+  question: Getting the right assets to the right people - can it ever be simple and secure?
   solutions:
-   - Stream promo and screener videos directly to participants in HD quality with high-quality audio, leveraging MediaStore's secure multi-bitrate video streaming engine
-   - Meet with up to 250 participants in virtual screening rooms to jointly watch and talk about your stunning content
-   - Compile playlists of videos, audios, images, and PDFs prior to the meeting
-   - Choose from three different video conferencing modes - 'conference', 'panel', or 'webinar' - to set up the conference’s look & feel based on your needs
-   - Utilize common conference features, such as waiting room, chat, raise hand, screen sharing, audio ducking, and many more
-  example_text: Take a look at our projects showcasing our video conferencing solution
-  example_link: projects#orf
+    - "We take care of all file and metadata deliveries: once you partner with mediafellows, you never need to think about your fulfilment workflows again"
+    - MediaStore’s impressive UI with multi-device experience makes low-touch and remote interactions run smoother than ever
+    - Let your clients show you which assets they need with fully flexible wish lists, recommendations reviews, baskets and more
+    - Self-service downloads, Aspera server auto-distribution and the ability to deliver directly to the client’s FTP server — we’ll make sure your assets will reach their destination without needless overhead
+    - The powerful MediaStore API provides comprehensive integration opportunities with your existing databases, storage servers, tools and processes
+  example_text: Take a look at our projects showcasing our asset distribution features 
+  example_link: projects#nbcupassport  
+
 
 - title: Licensing & Purchasing
   identifier: for_licensing
@@ -58,32 +89,33 @@
   example_text: Take a look at our projects showcasing our licensing & purchasing features
   example_link: projects#lahm
 
-- title: Asset Distribution
-  identifier: for_distribution
-  categories: distribution
-  thumb: /assets/img/solutions/distribution_thumb.jpg
-  image: /assets/img/solutions/distribution.jpg
-  question: Getting the right assets to the right people - can it ever be simple and secure?
+- title: Awards & FYC Screening
+  identifier: for_fyc
+  categories: fyc
+  thumb: /assets/img/solutions/fyc_thumb.jpeg
+  image: /assets/img/solutions/fyc.jpeg
+  question: Can you manage awards entrants, content upload and juror voting without multiple platforms?
   solutions:
-    - "We take care of all file and metadata deliveries: once you partner with mediafellows, you never need to think about your fulfilment workflows again"
-    - MediaStore’s impressive UI with multi-device experience makes low-touch and remote interactions run smoother than ever
-    - Let your clients show you which assets they need with fully flexible wish lists, recommendations reviews, baskets and more
-    - Self-service downloads, Aspera server auto-distribution and the ability to deliver directly to the client’s FTP server – we’ll make sure your assets will reach their destination without needless overhead
-    - The powerful MediaStore API provides comprehensive integration opportunities with your existing databases, storage servers, tools and processes
-  example_text: Take a look at our projects showcasing our asset distribution features 
-  example_link: projects#nbcupassport  
-  
-- title: Catalogue & Archival
-  identifier: for_archival
-  categories: archival
-  thumb: /assets/img/solutions/archival_thumb.jpg
-  image: /assets/img/solutions/archival.jpg
-  question: Is figuring out how to store, manage, and access your digital assets still a challenge?
+   - Our dedicated Awards and FYC platforms focus purely on streaming and content discovery, with mobile & Apple TV apps creating a first-class OTT-style experience for your jurors
+   - It’s easy to update your FYC platform each time a new voting event comes up throughout the awards season 
+   - Leverage our state-of-the-art white-label design or go for a fully custom look and feel to align with your corporate identity, even without a go-to designer on your end
+   - Event-specific access codes enable jurors to screen content and cast votes without needing to create a user profile, ensuring anonymity and instant access
+   - Our FYC service is built using MediaStore’s unified cloud-based infrastructure so all you need to access it is a web browser
+  example_text: Take a look at our projects showcasing our FYC screening features
+  example_link: projects#iemmys
+
+- title: Review & Approval
+  identifier: for_review
+  categories: review
+  thumb: /assets/img/solutions/review_thumb.jpg
+  image: /assets/img/solutions/review.jpg
+  question: Is your team missing deadlines and harming quality with miscommunication?
   solutions:
-   - Centralize your data with MediaStore to make remote and low-touch interactions run smoother than ever
-   - "No need to run dedicated systems on your end: all you’ll require to access MediaStore’s easy-to-use interface is a web browser"
-   - Encrypted video streaming and asset storage keeps your content safe, while our granular access model and optional security measures (2FA, burn-in or forensic watermarks, SSO) put you in control
-   - "Fast migration: mediafellows can consolidate your data from several migration points thanks to our data migration workflows and flexible metadata schemas"
-   - "Several solutions, one platform: we support multi-device usage and multiple asset types, with video screening, multi-language support, TV casting, phone/tablet app and browser interfaces"
-  example_text: Take a look at our projects showcasing our archive & online catalogue features
-  example_link: projects#lahm
+   - Review, comment and collaborate in one place — wherever your team works from
+   - Upload dailies, add review status, action with one click, add notes and ensure all relevant collaborators are automatically notified with our distinct reviewal functionality
+   - Streamline communication and reduce lead time by eliminating lengthy email chains, disparate data sources, and timed external download links
+   - Get your assets finalized faster and reduce potential information drop-off points
+   - Granular access controls and custom user roles ensure precise feature access for users, including third-party vendors
+   - Workflow-based asset status and annotations streamline production stages without having to switch between systems
+  example_text: For more comprehensive review and approval features, including AI/ML supported augmentation, check out <strong>mediabench.app</strong>
+  example_link: https://mediabench.app

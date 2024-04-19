@@ -1,8 +1,8 @@
 ---
 layout: features
 identifier: websites
-title: Turnkey Client Websites
-description: "A modern, responsive client-facing catalogue, streaming and post-sales platform can effortlessly be customized to match your corporate identity."
+title: Turnkey & Custom Websites
+description: "Customize our responsive client catalog, streaming, and post-sales website solution to match your brand. Enjoy ongoing flexibility with the MediaStore CMS Layout Editor."
 icon: /assets/img/icons/tv-solid.svg
 image: /assets/img/features/websites.jpg
 header_image: /assets/img/bg/features.jpg
@@ -16,6 +16,10 @@ subtext_1: "Our standard client-facing platform comes with all the features you 
 subtitle_2: Go for a fully custom design
 subimage_2: /assets/img/features/details/website-custom.png
 subtext_2: "If you'd rather have your client-facing platform skinned with a fully custom design from scratch, we are on hand to help define the requirements and guide your design team towards a comprehensive specification our developers can put into action. Alternatively, our trusted design partners are available in case you would like us to lead the design process itself. The end result: A unique implementation of our client-facing platform with no compromise towards matching your corporate identity or detailed style guide."
+
+example_text: Take a look at our projects showcasing our direct online marketing & sales features 
+example_link: projects#lgtv
+
 ---
 
 <div class="row">

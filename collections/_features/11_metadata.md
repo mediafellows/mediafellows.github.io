@@ -11,7 +11,11 @@ text: "There can be many reasons for managing multiple sets of metadata: Perhaps
 
 subtitle: 
 subimage: /assets/img/features/details/metadata-language-layer.png
-subtext: 
+subtext:
+
+example_text: Take a look at our projects showcasing our multi-layer metadata
+example_link: projects#newen
+ 
 ---
 
 <div class="row">

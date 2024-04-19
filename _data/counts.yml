@@ -3,7 +3,7 @@
 
 - icon: lnr-database
   number: 546,923
-  label: contents stored
+  label: titles stored
 - icon: lnr-file-empty
   number: 1,868,453
   label: assets ingested
