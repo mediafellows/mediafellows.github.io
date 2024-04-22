@@ -5,11 +5,11 @@
   number: 546,923
   label: titles stored
 - icon: lnr-file-empty
-  number: 1,868,453
+  number: 2,100,442
   label: assets ingested
 - icon: lnr-users
-  number: 55,942
+  number: 104,414
   label: users managed
 - icon: lnr-chart-bars
-  number: 53,173
+  number: 122,357
   label: campaigns run
