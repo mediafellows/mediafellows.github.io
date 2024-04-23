@@ -4,7 +4,7 @@ title: Comprehensive Analytics
 identifier: analytics
 description: Boost your sales initiatives with detailed, actionable, real-time analytics. Review in MediaStore, or delivered to your current CRM or third party analysis tools. 
 icon: /assets/img/icons/chart-bar-solid.svg
-image: /assets/img/features/analytics.jpeg
+image: /assets/img/features/analytics.jpg
 header_image: "/assets/img/bg/features.jpg"
 
 text: "Never miss an opportunity to drive growth. All activity is captured fast using metrics which can be reviewed for any time range and filtered granularly for a full profile of metrics includes log-in, page views, video screening, duration, downloads and more. We track registered users as well as external email addresses and even the IP of those who haven’t signed up to your system, so you can review every single click."

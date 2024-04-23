@@ -4,7 +4,7 @@ title: Granular Access Controls
 identifier: access
 description: Define user permissions to allow viewing by selected titles and marketing assets, instant preview, and download — for precise and flexible control.
 icon: /assets/img/icons/user-lock-solid.svg
-image: /assets/img/features/granular-access.png
+image: /assets/img/features/access.jpg
 header_image: "/assets/img/bg/features.jpg"
 
 text: "Each object in our platform comes with a dedicated set of access settings, giving you full transparency and keeping you in control of which user is currently receiving which degree of access, be it internal or external users. In addition, titles and/or assets can be grouped in order to give specific clients increased access - for instance in order to keep global access restricted and provide download access only to confirmed licensees."

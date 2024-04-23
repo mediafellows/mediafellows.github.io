@@ -2,7 +2,7 @@
 layout: features
 title: Screening Conferences
 identifier: conferences
-description: Host joint screeners and virtual cinematic events with our direct, fully-integrated video streaming conference tool – without quality-reduction or downloads.
+description: Host joint screeners and virtual cinematic events with our direct, fully integrated conference tool that streams videos directly to each participant without quality-reduction.
 icon: /assets/img/icons/chalkboard-teacher-solid.svg
 image: /assets/img/features/conferences.jpg
 header_image: "/assets/img/bg/features.jpg"

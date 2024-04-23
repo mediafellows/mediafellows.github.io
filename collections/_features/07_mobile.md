@@ -1,10 +1,10 @@
 ---
 layout: features
 title: Mobile Apps & TV Casting
-identifier: offline
-description: Our mobile app is a versatile sales tool and VOD-style solution for clients, offering offline screening and second screen casting. Discover our native branded and AppleTV app options.
+identifier: mobile
+description: Our mobile apps are versatile sales tools and VOD-like solutions for clients, offering offline screening and 2nd screen casting and many other features.
 icon: /assets/img/icons/tablet-alt-solid.svg
-image: /assets/img/features/mobile.png
+image: /assets/img/features/mobile.jpg
 header_image: "/assets/img/bg/features.jpg"
 
 text: "Our apps cover your sales presentations, giving you multiple marketing channels, and double as portable on-demand-style mobile solutions with second screen casting. While our platform can easily be accessed even with mobile devices, our dedicated mobile application is purpose-built for situations such as markets or sales pitches, where predefined content packages need to be presented seamlessly and internet connectivity is not guaranteed."

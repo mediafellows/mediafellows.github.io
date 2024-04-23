@@ -1,8 +1,8 @@
 ---
 layout: features
-title: Secure Shared Screening Links
 identifier: links
-description: With our ‘Recommendations’ feature, one-click screening links can be targeted to anyone – whether they’re already a user of the client platform or not.
+title: Secure Shared Screening Links
+description: "With our ‘Recommendations’ feature, secure screening links can be targeted to anyone with one click – whether the recipients are already users of the client platform or not."
 icon: /assets/img/icons/screening-links.svg
 image: /assets/img/features/links.jpg
 header_image: "/assets/img/bg/features.jpg"
