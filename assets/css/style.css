@@ -1334,7 +1334,7 @@ dt {
 	position: absolute;
 	height: 100%;
 	width: 100%;
-	background: #000;
+/*	background: #000; */
 	left: 0;
 	top: 0;
 	opacity: 0;
@@ -1347,10 +1347,10 @@ dt {
 	width: 100%;
 }
 .team-info {
-	background: #fff;
+	background: #F8F9FA;
 	position: absolute;
 	bottom: -75px;
-	width: 90%;
+	width: 100%;
 	left: 0;
 	right: 0;
 	margin: auto;
@@ -1358,7 +1358,7 @@ dt {
 	padding: 10px 0;
 }
 .single-team:hover .team-info{
-	bottom: 14px;
+	bottom: 0px;
 }
 .team-info h3 {
 	font-size: 20px;
