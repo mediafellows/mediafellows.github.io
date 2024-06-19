@@ -1,12 +1,12 @@
 ---
 layout: news
 header_image: "/assets/img/bg/news.jpg"
-title: mediafellows Unveils MediaStore V3.0
+title: mediafellows Unveils MediaStore 3.0
 release_date: 28.05.2024
 image: /assets/img/news/20240528_mediafellows-MediaStore-V3.0_Press_Release.png
 image_border:
-image_credits: The sleek, cinematic client UI of MediaStore V3.0 
-description: MediaStore V3.0, available now to all existing and new customers, boasts a revamped admin interface, enhanced features, and more flexible customization than ever before — plus, a glossy new white-label client site with extended functionality directly in the interface.
+image_credits: The sleek, cinematic client UI of MediaStore 3.0 
+description: MediaStore 3.0, available now to all existing and new customers, boasts a revamped admin interface, enhanced features, and more flexible customization than ever before — plus, a glossy new white-label client site with extended functionality directly in the interface.
 ---
 
 <div class="row">
@@ -34,7 +34,7 @@ description: MediaStore V3.0, available now to all existing and new customers, b
            Initially conceived as an internal refactoring project, the focus on improvements of MediaStore's underlying structure provided the perfect opportunity to update the look and experience of the platform with a full redesign, enhancing technical functionality and streamlining redundant features for a smoother user journey. 
            </p>
            <p>
-		mediafellows has three overarching goals for MediaStore V3.0. Firstly, to focus on improvements to the underlying architecture, ensuring the platform is absolutely future-proof.   
+		mediafellows has three overarching goals for MediaStore 3.0. Firstly, to focus on improvements to the underlying architecture, ensuring the platform is absolutely future-proof.   
           </p>
         </div>
     </div>
@@ -60,14 +60,14 @@ New features rolled out in the current launch include extended functionality to 
           </p>
 		  <br>
           <p>
-Our first select clients that have already been migrated to MediaStore V3.0 have remarked that the UI is <i>“effortless to get started with”.</i> Our newly expanded analytics has been noted as particularly impressive, with one studio MD noting <i>“your platform really has everything we need”</i>. 
+Our first select clients that have already been migrated to MediaStore 3.0 have remarked that the UI is <i>“effortless to get started with”.</i> Our newly expanded analytics has been noted as particularly impressive, with one studio MD noting <i>“your platform really has everything we need”</i>. 
           </p>
           <p>
 <strong>Torsten Graf-Oettel</strong>, MD at mediafellows, expressed his enthusiasm for the new release: <i>“In MediaStore 3.0, the mediafellows team has developed a powerful product that adapts to any client’s needs for a dynamic online presence. With sleek, ultra-modern UI designs MediaStore 3.0 sets a new standard for managing, marketing, and distributing audiovisual content. I’m proud to congratulate the team on a future-proof solution that empowers global media enterprises to captivate audiences and stay ahead in a rapidly evolving digital landscape.”</i>
           </p>
           <br>
           <p>
-<strong>To start the process of upgrading to MediaStore V3.0 or to explore more mediafellows solutions, contact our team at <a href="mailto:info@mediafellows.com">info@mediafellows.com</a></strong>
+<strong>To start the process of upgrading to MediaStore 3.0 or to explore more mediafellows solutions, contact our team at <a href="mailto:info@mediafellows.com">info@mediafellows.com</a></strong>
           </p>
         </div>
     </div>
