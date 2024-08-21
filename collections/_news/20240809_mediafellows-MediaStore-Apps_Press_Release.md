@@ -53,13 +53,10 @@ description: mediafellows continues to redefine mobile sales solutions with its 
         <strong><big>New Custom App Features</big></strong>         
       </p>
        <p>
-        mediafellows has developed fully custom apps for clients like ITV Studios, Lionsgate, and eOne, all available under native branding in the App Store. We continuously introduce new and innovative features to ensure these apps remain cutting-edge.
+        mediafellows has developed fully custom apps for clients like <a target="blank" href="https://apps.apple.com/gb/app/itv-studios-watch-anywhere/id1637023534">ITV Studios</a>, <a target="blank" href="https://apps.apple.com/de/app/lgtv-screeners/id6471593083">Lionsgate</a>, and <a target="blank" href="https://apps.apple.com/de/app/eone-preview/id6443721624">eOne</a>, all available under native branding in the App Store. We continuously introduce new and innovative features to ensure these apps remain cutting-edge.
       </p>
       <p>
         Designed first and foremost as the ultimate portable sales aid, much of the latest mobile app functionality is geared towards seamless market use and smooth presentations. Custom MediaStore apps are used frequently at international expositions and integrated into market booths and stands at industry events.
-      </p>
-      <p>
-        <strong>Presentation Mode</strong> switches seamlessly to a modified interface designed specifically for sales pitches and works seamlessly with our second-screen connectivity.
       </p>
     </div>
 </div>
@@ -67,8 +64,8 @@ description: mediafellows continues to redefine mobile sales solutions with its 
 <div class="row">
 <div class="col-xl-9 col-lg-9 col-md-12">
     <div class="service-details mb-40">
-       <p>
-        From seamless presentation tools and synced offline collections to enhanced security features and intuitive design upgrades, mediafellows' custom and MediaStore apps are setting new standards in efficiency and effectiveness.   
+     <p>
+        <strong>Presentation Mode</strong> switches seamlessly to a modified interface designed specifically for sales pitches and works seamlessly with our second-screen connectivity.
       </p>
       <p>
         <strong>Custom Collections</strong> can now be centrally assembled for offline synchronization, saving sales agents hours of prep work, and once downloaded integrate seamlessly into a browsable catalog even when the device is not connected. Collections are newly compatible with multiple file types including slides, PDFs, and sales sheets for comprehensive multimedia presentations. Clients have already noted the boost in the sales process achieved by being able to attach a sales deck to every kind of presentation.
@@ -138,11 +135,11 @@ description: mediafellows continues to redefine mobile sales solutions with its 
   <div class="col-xl-12 col-lg-12">
       <div class="service-details mb-40">
         <p>
-<strong>Torsten Graf-Oettel</strong>, MD at mediafellows, expressed his enthusiasm for the new release: <i>“In MediaStore 3.0, the mediafellows team has developed a powerful product that adapts to any client’s needs for a dynamic online presence. With sleek, ultra-modern UI designs MediaStore 3.0 sets a new standard for managing, marketing, and distributing audiovisual content. I’m proud to congratulate the team on a future-proof solution that empowers global media enterprises to captivate audiences and stay ahead in a rapidly evolving digital landscape.”</i>
+mediafellows founder <strong>Torsten Graf-Oettel</strong> remarked, <i>“I am continually impressed by the way our development team leads the market with features for our mobile app offering. We're constantly thinking about what our clients really need to make their sales process smoother, and I am proud to say that we are achieving this with time-saving solutions for both our custom-developed apps and our readily available MediaStore app.”</i>
         </p>
         <br>
         <p>
-<strong>To start the process of upgrading to MediaStore 3.0 or to explore more mediafellows solutions, contact our team at <a href="mailto:info@mediafellows.com">info@mediafellows.com</a></strong>
+<strong>For more information on how mediafellows can support your sales team with mobile solutions, please contact the team <a href="mailto:info@mediafellows.com">info@mediafellows.com</a></strong>
         </p>
       </div>
   </div>
