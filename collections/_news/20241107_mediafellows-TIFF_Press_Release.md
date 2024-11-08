@@ -47,7 +47,7 @@ As a long-term partner, IMAGICA oversees MediaStore’s implementation, maintena
           </p>
 <hr>
           <p>  	
-<strong>Torsten Graf-Oettel</strong>, founder and managing director of mediafellows, commented:<br><i>“We are deeply honored and express our grateful thanks to IMAGICA for selecting us again to provide this next-generation screening platform for the Tokyo International Film Festival. We are proud to have enhanced the user experience for them with a visually striking, screener-focussed interface. As the first multilingual website we have built in both Japanese and English, mediafellows is truly grateful to continue extending our MediaStore offering to the Asia Pacific region.”</i>
+<strong>Torsten Graf-Oettel</strong>, founder and managing director of mediafellows, commented:<br><i>“We are deeply honored and express our sincere thanks to IMAGICA for selecting us again to provide this next-generation screening platform for the Tokyo International Film Festival. We are proud to have further enhanced the user experience with online registration capabilities and sectional content presentation for better discoverability, all within a visually striking cinematic interface. As the first multilingual website we have built in both Japanese and English, mediafellows is truly grateful to continue expanding our MediaStore offering in the Asia Pacific region.”</i>
           </p>
 <hr>
           <p>
