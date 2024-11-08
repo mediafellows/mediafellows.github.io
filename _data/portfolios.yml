@@ -312,23 +312,6 @@
     - Analytics tracking on key client activities such as page views and screening durations
     - Competitive all-inclusive cost package
 
-#- title: California Pictures
-#  identifier: california
-#  description: Customized turnkey sales and marketing website with rapid time-to-market 
-#  categories: marketing catalog
-#  website: https://calpictures.com
-#  thumb: /assets/img/portfolio/california-pictures_thumb.png
-#  image: /assets/img/portfolio/california-pictures.png
-#  what:
-#    - Low-cost customization of an existing generic design
-#    - Scalable, easy-to-use screening website for growing sales 
-#    - Adaptation of corporate identity without excessive overhead costs
-#  why:
-#    - Time to market and out-of-the-box features
-#    - Easy on-boarding of content and assets
-#    - Public catalog and access restriction to full-length screeners for logged-in clients
-#    - Competitive all-inclusive cost package
-
 - title: TF1 Pro
   identifier: tf1pro
   description: Dedicated press screening platform with additional security

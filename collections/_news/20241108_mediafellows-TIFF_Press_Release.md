@@ -5,7 +5,7 @@ title: MediaStore reappointed as the Tokyo International Film Festival’s Offic
 release_date: 08.11.2024
 image: /assets/img/news/20241107_mediafellows-TIFF_Press_Release.png
 image_border:
-image_credits: <small>Tokyo International Film Festival 2024 — Online Library</small>
+image_credits: <small>Tokyo International Film Festival 2024 — Media Store Online Library</small>
 description: IMAGICA Entertainment Media Services Inc. is pleased to announce that MediaStore, provided by mediafellows, has been adopted once again as the official online library of the 37th Tokyo International Film Festival.
 ---
 
