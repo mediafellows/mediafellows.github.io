@@ -7,7 +7,7 @@ icon: /assets/img/icons/tv-solid.svg
 image: /assets/img/features/websites.jpg
 header_image: /assets/img/bg/features.jpg
 
-text: "Why build in-house or contract with an agency if a readymade, purpose-built distribution platform is already available? Our platform features a standard client-facing website with a modern responsive design which can easily be customized to your corporate identity. The time between agreement and launch can be as short as one moths including data migration. Alternatively, we can skin the system with a fully custom design, or even help you create this design based on your input or style guide."
+text: "Why build in-house or contract with an agency if a readymade, purpose-built distribution platform is already available? Our platform features a standard client-facing website with a modern responsive design which can easily be customized to your corporate identity. The time between agreement and launch can be as short as one month including data migration. Alternatively, we can skin the system with a fully custom design, or even help you create this design based on your input or style guide."
 
 subtitle_1: Start immediately
 subimage_1: /assets/img/features/details/website-white-labelled.png
