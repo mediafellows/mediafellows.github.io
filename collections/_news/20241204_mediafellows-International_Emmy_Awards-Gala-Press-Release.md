@@ -3,17 +3,17 @@ layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: mediafellows at the 52nd Annual International Emmy® Awards Gala
 release_date: 04.12.2024
-image: /assets/img/news/20241204_mediafellows-International_Emmy_Awards-Gala-Press-Release_1.png
+image: /assets/img/news/iEmmys/20241204_mediafellows-International_Emmy_Awards-Gala-Press-Release_1.png
 image_border:
 image_credits: mediafellows' representatives on the red carpet at the 52nd International Emmy® Awards
-description: Torsten Graf-Oettel, José Sanches, Mark Bernado and Dr. Holger Hendel represent mediafellows and Pixleogic on the 52nd International Emmy® Gala red carpet. 
+description: Torsten Graf-Oettel, José Sanches, Mark Bernado and Dr. Holger Hendel represent mediafellows and Pixleogic on the 52nd International Emmy® Gala red carpet. As proud sponsors of the International Emmy® Awards, mediafellows extends its gratitude once again for the opportunity to support and honor outstanding achievements in international television.
 images_path: "/assets/img/news/iEmmys/"
 images: 
- - "20241204_mediafellows-International_Emmy_Awards-Gala-Press-Release_2.jpg"
+ - "20241204_mediafellows-International_Emmy_Awards-Gala-Press-Release_2.png"
  - "20241204_mediafellows-International_Emmy_Awards-Gala-Press-Release_3.jpg"
  - "20241204_mediafellows-International_Emmy_Awards-Gala-Press-Release_4.jpg"
  - "20241204_mediafellows-International_Emmy_Awards-Gala-Press-Release_5.jpg"
- - "20241204_mediafellows-International_Emmy_Awards-Gala-Press-Release_6.jpg"
+ - "20241204_mediafellows-International_Emmy_Awards-Gala-Press-Release_6.png"
  - "20241204_mediafellows-International_Emmy_Awards-Gala-Press-Release_7.jpg"
  - "20241204_mediafellows-International_Emmy_Awards-Gala-Press-Release_8.jpg"
 
@@ -41,9 +41,6 @@ images:
           </div>
           <br>
           <p>{{ page.description }}</p>
-          <p>
-As proud sponsors of the International Emmy® Awards, mediafellows extends its gratitude once again for the opportunity to support and honor outstanding achievements in international television.
-          </p>
           <p>
 The ongoing partnership between the International Academy of Television Arts & Sciences and mediafellows continues to be a tremendous source of pride, so we were delighted to see our name prominently featured in a glossy full-page spread in the accompanying awards magazine (shown in the gallery below).
           </p>
