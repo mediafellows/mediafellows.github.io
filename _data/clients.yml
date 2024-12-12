@@ -14,10 +14,6 @@
   logo: /assets/img/clients/MIPCOM.png
 - name: Televisa
   logo: /assets/img/clients/televisa.png
-- name: TF1
-  logo: /assets/img/clients/TF1.png
-- name: Entertainment ONE
-  logo: /assets/img/clients/Entertainment_One.png
 - name: France Television Distribution
   logo: /assets/img/clients/FranceTV.png
 - name: Dynamic Television
@@ -32,3 +28,5 @@
   logo: /assets/img/clients/DoriMedia.png
 - name: Louis Armstrong House Museum
   logo: /assets/img/clients/lahm.png
+- name: Electric Entertainment
+  logo: /assets/img/clients/electric.png
