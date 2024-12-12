@@ -73,6 +73,24 @@
     - Automatic import generates custom audio pairs for seamless dialog preview
     - Preservation of 20+ audio tracks per asset creates verified info base
 
+- title: TelevisaUnivision
+  identifier: televisa
+  description: Multi-language marketing catalog for world-leading Spanish-language media company
+  categories: marketing catalog
+  website: https://screenings.televisaunivision.com/ 
+  thumb: /assets/img/portfolio/televisa-2_thumb.png
+  image: /assets/img/portfolio/televisa-2.png
+  what:
+    - Desired a sleek, unified sales and marketing platform
+    - Needed to consolidate their extensive library of over 3000 products 
+    - Including material and metadata from numerous sources (over 50 multi-series Spanish telenovelas, 38+ cable networks, Mexico's leading movie studio Videocine, and ViX, the world's largest Spanish-language streaming platform)
+  why:
+    - Customized turnkey website with a fully bespoke landing page aligned with their CI whilst launching in record time
+    - Bespoke developed Spanish-English UI handling complex metadata, search, and even dual-language video content
+    - Advanced access controls maximize content exposure while securing screeners behind login
+    - DAM updates support TelevisaUnivision’s rich metadata library and constantly updating news
+    - Custom tools developed to enable live CMS editing on key pages
+
 - title: International Emmy® Awards
   identifier: iemmys
   description: Awards screening and juror portal with voting and entries purchasing capabilities 
@@ -312,16 +330,34 @@
     - Analytics tracking on key client activities such as page views and screening durations
     - Competitive all-inclusive cost package
 
-- title: TF1 Pro
-  identifier: tf1pro
-  description: Dedicated press screening platform with additional security
-  categories: catalog
-  website: https://www.preview.tf1pro.com
-  thumb: /assets/img/portfolio/tf1pro_thumb.png
-  image: /assets/img/portfolio/tf1pro.png
+- title: Electric Entertainment
+  identifier: electric
+  description: Customized turnkey sales and marketing website with market distribution filters
+  categories: marketing catalog
+  website: https://sales.electricentertainment.com/ 
+  thumb: /assets/img/portfolio/electric_thumb.png
+  image: /assets/img/portfolio/electric.png
   what:
-    - Scalable, easy-to-use screening website for a dedicated press audience
-    - Circulation of press and marketing material
+    - Single online destination for content sales & marketing
+    - Dedicated market distribution listing page 
+    - Fast turnaround in time for markets
+    - Competitive cost package
   why:
-    - Easy provisioning of content and assets via the internet
-    - Granular access control to allow selected users to access exclusive content
+    - MediaStore combines the efficiency of template design alongside dedicated development and account management
+    - Semi-public catalog and access restriction to full-length screeners for logged-in clients
+    - Buyers from all markets easily browse and locate titles relevant for them
+    - MediaStore goes beyond video hosting with News pages, custom Collections, Recommendations sharing, and Screening Rooms for featured content
+
+#- title: TF1 Pro
+# identifier: tf1pro
+#  description: Dedicated press screening platform with additional security
+#  categories: catalog
+#  website: https://www.preview.tf1pro.com
+#  thumb: /assets/img/portfolio/tf1pro_thumb.png
+#  image: /assets/img/portfolio/tf1pro.png
+#  what:
+#    - Scalable, easy-to-use screening website for a dedicated press audience
+#    - Circulation of press and marketing material
+#  why:
+#    - Easy provisioning of content and assets via the internet
+#    - Granular access control to allow selected users to access exclusive content
