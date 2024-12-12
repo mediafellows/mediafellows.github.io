@@ -106,7 +106,7 @@
   why:
     - All activity managed within one system, including public voting functionality 
     - Bespoke UI prioritizing high-quality juror screening and ultra-fast load times
-    - Fully integrated entry slot purchasing for International Emmy® Awards entrants
+    - Fully integrated entry slot purchasing with STRIPE payment & bank transfer options
     - Secure cloud system with flexible access controls enables direct studio uploads
 
 - title: Newen Connect
