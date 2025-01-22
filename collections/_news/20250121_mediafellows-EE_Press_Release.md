@@ -51,7 +51,7 @@ For Electric Entertainment, they developed a dedicated market distribution listi
 The MediaStore platform combines the efficiency of a template website alongside the benefits of dedicated account management. The mediafellows team even handled manual asset imports to ensure Electric Entertainment’s site and offline mobile app were ready in time to equip sales agents for winter markets.
           </p>
           <p>
-With features like News pages, custom Collections, <a href="https://mediafellows.com/features/03_links#content" target="blank">Recommendations</a> sharing, and dedicated Screening Rooms for featured content, the platform offers much more than video hosting. MediaStore’s granular access controls allow Electric Entertainment to operate a semi-public website — allowing basic information and trailers maximum exposure to the general public, while a subtle login wall protects rich content such as metadata, synopses, and full screeners. 
+With features like News pages, custom Collections, secure Content sharing, and dedicated Screening Rooms for featured content, the platform offers much more than video hosting. MediaStore’s granular access controls allow Electric Entertainment to operate a semi-public website — allowing basic information and trailers maximum exposure to the general public, while a subtle login wall protects rich content such as metadata, synopses, and full screeners. 
           </p>
 <hr>
           <p>  			  
