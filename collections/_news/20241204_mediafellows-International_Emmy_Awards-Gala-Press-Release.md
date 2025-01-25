@@ -6,7 +6,7 @@ release_date: 04.12.2024
 image: /assets/img/news/iEmmys/20241204_mediafellows-International_Emmy_Awards-Gala-Press-Release_1.png
 image_border:
 image_credits: mediafellows' representatives on the red carpet at the 52nd International Emmy® Awards
-description: Torsten Graf-Oettel, José Sanches, Mark Bernado and Dr. Holger Hendel represent mediafellows and Pixleogic on the 52nd International Emmy® Gala red carpet. As proud sponsors of the International Emmy® Awards, mediafellows extends its gratitude once again for the opportunity to support and honor outstanding achievements in international television.
+description: Torsten Graf-Oettel, José Sanches, Mark Bernado and Dr. Holger Hendel represent mediafellows and Pixelogic on the 52nd International Emmy® Gala red carpet. As proud sponsors of the International Emmy® Awards, mediafellows extends its gratitude once again for the opportunity to support and honor outstanding achievements in international television.
 images_path: "/assets/img/news/iEmmys/"
 images: 
  - "20241204_mediafellows-International_Emmy_Awards-Gala-Press-Release_2.png"
