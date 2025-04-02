@@ -109,13 +109,13 @@
     - Fully integrated entry slot purchasing with STRIPE payment & bank transfer options
     - Secure cloud system with flexible access controls enables direct studio uploads
 
-- title: Newen Connect
-  identifier: newen
+- title: STUDIO TF1
+  identifier: studio tf1
   description: Dual-market, multi-language catalog targeting international and domestic users
   categories: marketing catalog 
-  website: https://www.newenconnect.com/
-  thumb: /assets/img/portfolio/newen_thumb.png
-  image: /assets/img/portfolio/newen.png
+  website: https://distribution.studiotf1.com/
+  thumb: /assets/img/portfolio/studio-tf1_thumb.png
+  image: /assets/img/portfolio/studio-tf1.png
   what:
     - Consolidation of over 50,000 asset from various hosting platforms
     - Multilingual display to target domestic and international markets
