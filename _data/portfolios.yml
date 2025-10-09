@@ -183,13 +183,13 @@
     - Bespoke features built-for-purpose like highlighted press quotes and advanced PDF export
     - Ready-to-go mobile screening app for markets and meetings
 
-- title: FilmRise
-  identifier: filmrise
+- title: Radial Entertainment
+  identifier: radial
   description: Customized turnkey sales and marketing website with FAST channels
   categories: marketing catalog
-  website: https://sales.filmrise.com/ 
-  thumb: /assets/img/portfolio/filmrise_thumb.png
-  image: /assets/img/portfolio/filmrise.png
+  website: https://sales.radialentertainment.com/ 
+  thumb: /assets/img/portfolio/radial-entertainment_thumb.png
+  image: /assets/img/portfolio/radial-entertainment.png
   what:
     - Custom version of white-label website
     - Data migration of over 250 titles consisting of metadata, images, trailers and screeners
