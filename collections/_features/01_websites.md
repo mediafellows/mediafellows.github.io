@@ -7,7 +7,9 @@ icon: /assets/img/icons/tv-solid.svg
 image: /assets/img/features/websites.jpg
 header_image: /assets/img/bg/features.jpg
 
-text: "Why build in-house or contract with an agency if a readymade, purpose-built distribution platform is already available? Our platform features a standard client-facing website with a modern responsive design which can easily be customized to your corporate identity. The time between agreement and launch can be as short as one month including data migration. Alternatively, we can skin the system with a fully custom design, or even help you create this design based on your input or style guide."
+text: "Launch faster with our purpose-built DAM and distribution platform that eliminates the need for in-house development or external agencies. MediaStore features a standard client-facing website and generic apps with all sales and marketing features in a modern design that can be tailored to your brand, with deployment in as little as one month.
+
+Optional fully custom designs can be applied or even created by us based on your specifications."
 
 subtitle_1: Start immediately
 subimage_1: /assets/img/features/details/website-white-labelled.png

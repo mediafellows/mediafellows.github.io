@@ -2,7 +2,7 @@
 layout: features
 title: Enhanced Sales Features
 identifier: sales
-description: Use the Marketing Calender to schedule in-person events or video conference meetings in our app. Advanced PDF Catalog Export creates beautiful sales sheets in seconds.
+description: Use the Marketing Calender to schedule on-site meetings, manage location capacities and track guest check-ins. Advanced PDF Catalog Export creates beautiful sales sheets in seconds.
 icon: /assets/img/icons/sales.svg
 image: /assets/img/features/sales.jpg
 header_image: "/assets/img/bg/features.jpg"

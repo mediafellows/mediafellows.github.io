@@ -2,16 +2,16 @@
 layout: features
 title: Fulfillment & Distribution
 identifier: fulfillment
-description: Pull fulfillment with self-service downloads for direct, ZIP or Aspera downloads, or push fulfillment with our industry-first intuitive Delivery Wizard.
+description: Offer pull fulfillment with easy self-service downloads (direct, ZIP, or Aspera), or push fulfillment through automated, profile-based deliveries using the MediaStore Delivery Manager.
 icon: /assets/img/icons/shopping-basket-solid.svg
 image: /assets/img/features/fulfillment.jpg
 header_image: "/assets/img/bg/features.jpg"
 
 text: "Host, review, and distribute your assets flexibly. MediaStore extends its functionality beyond sales and marketing by facilitating asset delivery to your licensees. Once your assets are hosted in MediaStore, distribution becomes effortless — eliminating the need to compile from scratch each time or reliance on external file transfer tools."
 
-subtitle_1: Delivery Wizard
-subimage_1: /assets/img/features/details/delivery-wizard.png
-subtext_1: "Deliver your content seamlessly in just three steps with our new Delivery Wizard. Our intuitive delivery wizard makes content delivery easy. Manage your content sharing preferences effortlessly. Select your preferred transfer solution including Aspera, AWS, Signiant and Google Cloud. Review your assets and execute instant deliveries or schedule for later."
+subtitle_1: Content Delivery
+subimage_1: /assets/img/features/details/content_delivery.png
+subtext_1: "MediaStore delivers your content through simple point-to-point methods (SFTP, S3, or Aspera) or via our Delivery Manager. The Delivery Manager lets users configure deliveries using specific recipient profiles. Since recipients (such as licensees, clients, platforms, or destination points) often have unique metadata and packaging requirements, these profiles make it easy to trigger new deliveries and select the right content for each destination."
 
 subtitle_2: Self-Service Download
 subimage_2: /assets/img/features/details/nbcu-downloads.png

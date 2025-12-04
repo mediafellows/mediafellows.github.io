@@ -2,7 +2,7 @@
 layout: features
 identifier: links
 title: Secure Shared Screening Links
-description: "With our ‘Recommendations’ feature, secure screening links can be targeted to anyone with one click – whether the recipients are already users of the client platform or not."
+description: "Our <strong>Recommendations</strong> feature lets you share secure, password-protected screening links with adjustable expiration limits — regardless of whether recipients are MediaStore users."
 icon: /assets/img/icons/screening-links.svg
 image: /assets/img/features/links.jpg
 header_image: "/assets/img/bg/features.jpg"
