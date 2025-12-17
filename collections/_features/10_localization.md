@@ -3,7 +3,7 @@ layout: features
 title: Localization
 identifier: localization
 description: MediaStore enables the efficient creation, management, and execution of multi-vendor localization orders; simplifying complex workflows within a single, integrated system.
-icon: /assets/img/icons/cogs-solid.svg
+icon: /assets/img/icons/localization.svg
 image: /assets/img/features/localization.jpg
 header_image: "/assets/img/bg/features.jpg"
 

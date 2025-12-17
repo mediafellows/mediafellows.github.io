@@ -3,7 +3,7 @@ layout: features
 title: MediaBench
 identifier: mediabench
 description: Discover our streamlined review and approval tool, boosted with AI/ML features that generate subtitles in multiple languages and transform visuals with smart crops and generative video. 
-icon: /assets/img/icons/file-invoice-solid.svg
+icon: /assets/img/icons/mediabench.svg
 image: /assets/img/features/mediabench.png
 header_image: "/assets/img/bg/features.jpg"
 
