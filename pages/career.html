@@ -33,8 +33,16 @@ keywords: mediafellows careers, job opportunities, join our team, careers in med
                             <a href="{{job.url}}">{{job.title}}</a>
                         </h2>
                         <p>{{job.description}}</p>
+                        <p>
+                          {% if job.location %}
+                            <strong>Location: </strong>{{job.location}}<br>
+                          {% endif %}
+                          {% if job.engagement %}
+                            <strong>Engagement: </strong>{{job.engagement}}<br>
+                          {% endif %}
+                      </p>
                     </div>
-                    <div class="link-box home-blog-link">
+                    <div class="link-box home-blog-link text-right">
                         <a href="{{job.url}}">Read full job ad</a>
                     </div>
               </div>
