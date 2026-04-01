@@ -1,0 +1,70 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://mediafellows.com/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Main pages -->
+  {% for page in site.pages %}
+    {% if page.url contains '/pages/' %}
+  <url>
+    <loc>https://mediafellows.com{{ page.url | remove: '.html' }}</loc>
+    <priority>0.8</priority>
+    {% if page.last_modified_at %}
+    <lastmod>{{ page.last_modified_at | date_to_xmlschema }}</lastmod>
+    {% endif %}
+  </url>
+    {% endif %}
+  {% endfor %}
+
+  <!-- Features -->
+  {% for item in site.features %}
+  <url>
+    <loc>https://mediafellows.com{{ item.url }}</loc>
+    <priority>0.7</priority>
+    {% if item.last_modified_at %}
+    <lastmod>{{ item.last_modified_at | date_to_xmlschema }}</lastmod>
+    {% endif %}
+  </url>
+  {% endfor %}
+
+  <!-- News -->
+  {% for item in site.news %}
+  <url>
+    <loc>https://mediafellows.com{{ item.url }}</loc>
+    <priority>0.6</priority>
+    {% if item.last_modified_at %}
+    <lastmod>{{ item.last_modified_at | date_to_xmlschema }}</lastmod>
+    {% endif %}
+  </url>
+  {% endfor %}
+
+  <!-- Services -->
+  {% for item in site.services %}
+  <url>
+    <loc>https://mediafellows.com{{ item.url }}</loc>
+    <priority>0.6</priority>
+    {% if item.last_modified_at %}
+    <lastmod>{{ item.last_modified_at | date_to_xmlschema }}</lastmod>
+    {% endif %}
+  </url>
+  {% endfor %}
+
+  <!-- Jobs -->
+  {% for item in site.jobs %}
+  <url>
+    <loc>https://mediafellows.com{{ item.url }}</loc>
+    <priority>0.5</priority>
+    {% if item.last_modified_at %}
+    <lastmod>{{ item.last_modified_at | date_to_xmlschema }}</lastmod>
+    {% endif %}
+  </url>
+  {% endfor %}
+
+</urlset>
