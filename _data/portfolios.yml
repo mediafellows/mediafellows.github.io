@@ -36,6 +36,24 @@
     - Full lockdown of catalog without any publicly reachable content
     - Assignment of dedicated sales representative to each client
 
+- title: Lionsgate Motion Picture Group
+  identifier: lgmpg
+  description: Marketing catalog with fully bespoke designs, extensions, and mobile & TV apps
+  categories: marketing catalog
+  website: https://screeners.lionsgate.com/
+  thumb: /assets/img/portfolio/lgmpg_thumb.jpg
+  image: /assets/img/portfolio/lgmpg.jpg
+  what:
+    - Dynamic, user-specific content access 
+    - Migration of 1,000+ titles with scalable support for ongoing catalog growth
+    - Apps for all major devices, with seamless cross-platform single sign-on
+    - Upgrade from basic link-sharing tools 
+  why:
+    - Proven relationship with Lionsgate’s TV division
+    - Granular, role-based access lets vendors upload directly without exposing the full catalog
+    - Native apps for Android, iOS, Apple TV, Fire TV and Roku, with seamless QR code login, deliver a cinematic experience across platforms
+    - Custom-built features like timezone scheduling and date/time localization support an international audience 
+
 - title: ITV Studios
   identifier: itvstudios
   description: Global brand with a fully custom B2B interface and tailor-made marketing events calendar
@@ -126,45 +144,45 @@
     - Continuous sync between on-premise system and MediaStore ensures real-time updates
     - Seamless MediaStore integration with CRM gives sales agents unparalleled analytics insights 
 
-- title: RX on-site screenings for MIPJUNIOR and MIPDOC
-  identifier: rx-onsite
-  description: On-site screening events portals with marketplace-style multi-vendor uploads 
-  categories: marketing fyc
-  website:             
-  thumb: /assets/img/portfolio/rx-onsite_thumb.jpg
-  image: /assets/img/portfolio/rx-onsite.jpg
-  what:
-    - Needed to move from local storage to a flexible web-based solution
-    - Serving multiple event phases and a plethora of content uploaders, marketplace-style 
-    - Superior processing speed to handle registration and exhibitor use peaks at the last minute
-    - Support a high volume of separate admin users, up to 200 exhibitors for each festival 
-    - Solution that can support both online and offline
-  why:
-    - In-person, on-site support throughout every event
-    - Unmatched search filtering and intuitive UI encourages content discovery
-    - Enhanced sales features like Contact Seller, Recently Viewed and exportable notes
-    - Real-time analytics generates instant spreadsheet reports 
-    - Sophisticated API integrations enable smooth auto file transfers, SSO & SLO
-    - Support for PDFs and key art upload for promotion of conceptual or pre-production content
+# - title: RX on-site screenings for MIPJUNIOR and MIPDOC
+#   identifier: rx-onsite
+#   description: On-site screening events portals with marketplace-style multi-vendor uploads 
+#   categories: marketing fyc
+#   website:             
+#   thumb: /assets/img/portfolio/rx-onsite_thumb.jpg
+#   image: /assets/img/portfolio/rx-onsite.jpg
+#   what:
+#     - Needed to move from local storage to a flexible web-based solution
+#     - Serving multiple event phases and a plethora of content uploaders, marketplace-style 
+#     - Superior processing speed to handle registration and exhibitor use peaks at the last minute
+#     - Support a high volume of separate admin users, up to 200 exhibitors for each festival 
+#     - Solution that can support both online and offline
+#   why:
+#     - In-person, on-site support throughout every event
+#     - Unmatched search filtering and intuitive UI encourages content discovery
+#     - Enhanced sales features like Contact Seller, Recently Viewed and exportable notes
+#     - Real-time analytics generates instant spreadsheet reports 
+#     - Sophisticated API integrations enable smooth auto file transfers, SSO & SLO
+#     - Support for PDFs and key art upload for promotion of conceptual or pre-production content
 
-- title: RX online screenings for MIPCOM and MIPTV
-  identifier: rx-online
-  description: Online screening event portal for the world's largest entertainment content market
-  categories: marketing fyc catalog
-  website:             
-  thumb: /assets/img/portfolio/rx-online_thumb.png
-  image: /assets/img/portfolio/rx-online.png
-  what:
-    - Realised the need to diversify from on-site only events to digital alternatives during the pandemic
-    - Seamless integration with their existing tech solutions including complex user database
-    - Exclusive content requires superior security
-    - An intuitive, proven user interface that requires no one-on-one exhibitor support or onboarding
-  why:
-    - Ultra fast turnaround adapting white-label solution to each events' brand identity
-    - Dedicated ad banners promote content and monetize pages
-    - Custom search terms including exhibitor name enable easy user navigation 
-    - Advanced security features with user-specific, distributor-copyrighted watermarking 
-    - Flexible product metadata schema with custom attributes and filters created for RX
+# - title: RX online screenings for MIPCOM and MIPTV
+#   identifier: rx-online
+#   description: Online screening event portal for the world's largest entertainment content market
+#   categories: marketing fyc catalog
+#   website:             
+#   thumb: /assets/img/portfolio/rx-online_thumb.png
+#   image: /assets/img/portfolio/rx-online.png
+#   what:
+#     - Realised the need to diversify from on-site only events to digital alternatives during the pandemic
+#     - Seamless integration with their existing tech solutions including complex user database
+#     - Exclusive content requires superior security
+#     - An intuitive, proven user interface that requires no one-on-one exhibitor support or onboarding
+#   why:
+#     - Ultra fast turnaround adapting white-label solution to each events' brand identity
+#     - Dedicated ad banners promote content and monetize pages
+#     - Custom search terms including exhibitor name enable easy user navigation 
+#     - Advanced security features with user-specific, distributor-copyrighted watermarking 
+#     - Flexible product metadata schema with custom attributes and filters created for RX
 
 - title: Seven.One Studios International
   identifier: rasi
