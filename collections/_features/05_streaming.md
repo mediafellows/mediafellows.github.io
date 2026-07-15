@@ -6,6 +6,8 @@ description: Our adaptive video streaming is encrypted by default, with advanced
 icon: /assets/img/icons/film-solid.svg
 image: /assets/img/features/streaming.jpg
 header_image: "/assets/img/bg/features.jpg"
+redirect_from:
+  - /features/02_streaming
 
 text: "Showcase your video content online, anywhere — without worrying about leaks, piracy, or embargoed material.
 Dynamic, studio-grade safeguards identify users, control access, and protect your media across devices and regions. By default, all videos are streamed with encryption and authentication-based access, and additional security measures can be added as needed, ensuring even sensitive pre-release material remains fully protected."

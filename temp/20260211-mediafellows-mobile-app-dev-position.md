@@ -6,6 +6,8 @@ date: 11.02.2026
 description: mediafellows is looking for an experienced software engineer to architect, develop, and maintain our suite of native video applications. You will be responsible for ensuring a seamless video viewing experience across Android Mobile, Amazon Fire TV, and Roku devices. You will bridge the gap between our complex backend media services and the end-user experience, ensuring high fidelity, security, and usability.
 location: Berlin, Germany / Remote (EU time zones only!)
 engagement: Permanent employee or freelance contractor
+permalink: /jobs/20260211-mediafellows-mobile-app-dev-position
+redirect_to: /pages/career
 
 ---
 

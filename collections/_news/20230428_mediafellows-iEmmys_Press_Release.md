@@ -3,6 +3,7 @@ layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: MediaStore Now Powering the International Emmy® Awards Entries & Judging Portal
 release_date: 28.04.2023
+date: 2023-04-28
 image: /assets/img/news/20230426_mediafellows-iEmmys_Press_Release.png
 image_border:
 image_credits: 

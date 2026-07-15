@@ -3,6 +3,7 @@ layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: RX France and mediafellows Find Success Again with New & Improved Screening Libraries for MIPJUNIOR and MIPCOM
 release_date: 31.10.2023
+date: 2023-10-31
 image: /assets/img/news/20231031_mediafellows-MIPCOM_MIPJUNIOR-Press_Release.jpg
 image_border: true
 image_credits: MIPJUNIOR 2023 in Cannes, France
@@ -52,7 +53,7 @@ The MIPCOM digital content platform is a brand new project for both mediafellows
     <div class="col-xl-8 col-lg-8 col-md-12">
         <div class="service-details mb-40">
           <p>
-Content discovery is made easier than ever with new search filters and clear visual presentation of genres — especially for the complex and wide-ranging genre structure covered by MIPCOM CANNES. Users interested in both markets can log in seamlessly with single sign-on. The UI design for MIPJUNIOR has been updated to be clean and simple with a focus on the visual, and these bold design principles have been carried over to the MIPCOM digital content platform. All pages display unrivalled device adaptability thanks to coherent updates in dynamic responsive layouts, suggested and implemented by mediafellows beyond RX France's expectation. The design now offers more advertising opportunities for their clients within the platform, including new banner slots on the publicly accessible login page, significantly expanding ad reach. 
+Content discovery is made easier than ever with new search filters and clear visual presentation of genres — especially for the complex and wide-ranging genre structure covered by MIPCOM CANNES. Users interested in both markets can log in seamlessly with <a style="color:#7e7e7e;" target="_blank" href="https://mediafellows.com/features/15_api">single sign-on</a>. The UI design for MIPJUNIOR has been updated to be clean and simple with a focus on the visual, and these bold design principles have been carried over to the MIPCOM digital content platform. All pages display unrivalled device adaptability thanks to coherent updates in dynamic responsive layouts, suggested and implemented by mediafellows beyond RX France's expectation. The design now offers more advertising opportunities for their clients within the platform, including new banner slots on the publicly accessible login page, significantly expanding ad reach. 
           </p>
         </div>
     </div>
@@ -76,7 +77,7 @@ Content discovery is made easier than ever with new search filters and clear vis
 Following the success of the many new features developed for MIPDOC held in Spring this year, mediafellows rolled them out for the fall market. MIPJUNIOR participants can now take notes while screening within the platform, export them for later reference, or access them in the new 'Recently Viewed' page. In addition, mediafellows proposed and implemented a successful improvement for buyers to manage content selections more conveniently by providing the option to add or remove several library titles to/from Playlists or Favorites at once. Extended document import now allows the display of PDFs in addition to videos and images — especially crucial for content still in development that relies on supporting documents to show their long-term vision.
           </p>
           <p>
-Throughout both events, mediafellows provided daily emailed viewer reports, tailored for content buyers and sellers. Analytics have been optimized, featuring improved data aggregation for a straightforward overview, prioritizing the most relevant information for each type of delegate and allowing both sellers and buyers to quickly locate the needed information for their follow-up meetings or emails. Additionally, a master report is generated for RX France to understand the events’ performance based on a range of key metrics.
+Throughout both events, mediafellows provided daily emailed viewer reports, tailored for content buyers and sellers. <a style="color:#7e7e7e;" target="_blank" href="https://mediafellows.com/features/08_analytics#content">Analytics</a> have been optimized, featuring improved data aggregation for a straightforward overview, prioritizing the most relevant information for each type of delegate and allowing both sellers and buyers to quickly locate the needed information for their follow-up meetings or emails. Additionally, a master report is generated for RX France to understand the events’ performance based on a range of key metrics.
           </p>
 <hr>
           <p>

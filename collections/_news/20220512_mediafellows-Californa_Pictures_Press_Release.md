@@ -3,6 +3,7 @@ layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: mediafellows launched a new screening site for California Pictures
 release_date: 12.05.2022
+date: 2022-05-12
 image: /assets/img/news/20220513_mediafellows-California_Pictures_Press_Release.jpg
 image_border:
 image_credits: 

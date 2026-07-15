@@ -3,6 +3,7 @@ layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: "Approval in Minutes: MediaStore's New Features Slash Content Turnaround for Two Major Studios."
 release_date: 31.03.2026
+date: 2026-03-31
 image: /assets/img/news/20260331_mediafellows-Subtitles-Components_Press_Release_1.png
 subimage_1: /assets/img/news/20260331_mediafellows-Subtitles-Components_Press_Release_2.png
 image_border:

@@ -3,6 +3,7 @@ layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: How Electric Entertainment Found Their Fast, Simple Screening Solution in MediaStore
 release_date: 21.01.2025
+date: 2025-01-21
 image: /assets/img/news/20250121_mediafellows-EE_Press_Release.png
 image_border:
 image_credits: Electric Entertainment's new online catalog, powered by MediaStore

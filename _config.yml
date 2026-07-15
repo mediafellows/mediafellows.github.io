@@ -28,6 +28,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate-v2
   - jekyll-archives
+  - jekyll-redirect-from
 
 #collections
 collections_dir: collections

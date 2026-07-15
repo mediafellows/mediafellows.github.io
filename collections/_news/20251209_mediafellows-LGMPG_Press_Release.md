@@ -3,6 +3,7 @@ layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: Lionsgate Motion Picture Group Rolls Out Cutting-Edge Screening Platform Across Web and Mobile Apps — Powered by MediaStore. 
 release_date: 09.12.2025
+date: 2025-12-09
 image: /assets/img/news/20251209_mediafellows-LGMPG_Press_Release_1.jpg
 subimage_1: /assets/img/news/20251209_mediafellows-LGMPG_Press_Release_2.png
 image_border:

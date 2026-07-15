@@ -3,6 +3,7 @@ layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: mediafellows at the 52nd Annual International Emmy® Awards Gala
 release_date: 04.12.2024
+date: 2024-12-04
 image: /assets/img/news/iEmmys/20241204_mediafellows-International_Emmy_Awards-Gala-Press-Release_1.png
 image_border:
 image_credits: mediafellows' representatives on the red carpet at the 52nd International Emmy® Awards

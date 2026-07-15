@@ -3,6 +3,7 @@ layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: Red Arrow Studios International Website Revamp Sets New Standard for User Experience – Powered by MediaStore
 release_date: 02.10.2023
+date: 2023-10-02
 image: /assets/img/news/20231002_mediafellows-Red_Arrow_Studios_International-Press_Release.jpg
 image_border:
 image_credits: Red Arrow Studios International Website
@@ -71,7 +72,7 @@ Launching just in time for MIPCOM 2023, mediafellows made sure to put focus on f
           </p>
           <br>
           <p>
-<strong>For more information on how mediafellows can support you in building a state-of-the-art custom sales and marketing screening website, please have a look at several examples on our <a href="website www.mediafellows.com">www.mediafellows.com</a> or contact us via email: <a href="mailto:info@mediafellows.com">info@mediafellows.com</a></strong>
+<strong>For more information on how mediafellows can support you in building a state-of-the-art custom sales and marketing screening website, please have a look at several examples on our <a href="https://mediafellows.com/">mediafellows.com</a> website or contact us via email: <a href="mailto:info@mediafellows.com">info@mediafellows.com</a></strong>
           </p>
           <br>
           <p>

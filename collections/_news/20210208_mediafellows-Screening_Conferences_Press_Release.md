@@ -3,6 +3,7 @@ layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: MediaStore Screening Conferences now available to preview
 release_date: 08.02.2021
+date: 2021-02-08
 image: /assets/img/news/20210208_mediafellows-Screening_Conferences_Press_Release.jpg
 image_border: true
 image_credits: Screening Conference Moderator View

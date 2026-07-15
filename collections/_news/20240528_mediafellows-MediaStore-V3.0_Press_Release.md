@@ -3,6 +3,7 @@ layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: mediafellows Unveils MediaStore 3.0
 release_date: 28.05.2024
+date: 2024-05-28
 image: /assets/img/news/20240528_mediafellows-MediaStore-V3.0_Press_Release.png
 image_border:
 image_credits: The sleek, cinematic client UI of MediaStore 3.0 
@@ -31,7 +32,7 @@ description: MediaStore 3.0, available now to all existing and new customers, bo
           </div>
           <p>{{ page.description }}</p>
           <p>
-           Initially conceived as an internal refactoring project, the focus on improvements of MediaStore's underlying structure provided the perfect opportunity to update the look and experience of the platform with a full redesign, enhancing technical functionality and streamlining redundant features for a smoother user journey. 
+           Initially conceived as an internal refactoring project, the focus on improvements of MediaStore's underlying <a style="color:#7e7e7e;" target="_blank" href="https://mediafellows.com/features/14_infrastructure">structure</a> provided the perfect opportunity to update the look and experience of the platform with a full redesign, enhancing technical functionality and streamlining redundant features for a smoother user journey. 
            </p>
            <p>
 		mediafellows has three overarching goals for MediaStore 3.0. Firstly, to focus on improvements to the underlying architecture, ensuring the platform is absolutely future-proof.   
@@ -43,7 +44,7 @@ description: MediaStore 3.0, available now to all existing and new customers, bo
     <div class="col-xl-12 col-lg-12">
         <div class="service-details mb-40">
           <p>
-Secondly, to expand our services to cover the entire content lifecycle, from conception to delivery and purchase, making MediaStore a 360° solution. This will include expanding on our newest Delivery features with delivery profiles, a wide choice of services, and detailed fulfillment analytics. Lastly, to delineate between user groups during this cycle by concentrating sales and marketing functionality directly on the client site, while more technical processes like Digital Asset Management (DAM) and pre-production asset handling would be actioned on the admin site — ensuring users can access the functionalities relevant to them without interruption.
+Secondly, to expand our services to cover the entire content lifecycle, from conception to delivery and purchase, making MediaStore a 360° solution. This will include expanding on our newest <a style="color:#7e7e7e;" target="_blank" href="https://mediafellows.com/features/11_fulfillment">Delivery</a> features with delivery profiles, a wide choice of services, and detailed fulfillment analytics. Lastly, to delineate between user groups during this cycle by concentrating sales and marketing functionality directly on the client site, while more technical processes like Digital Asset Management (DAM) and pre-production asset handling would be actioned on the admin site — ensuring users can access the functionalities relevant to them without interruption.
           </p>
 		  <br>
           <p>
@@ -56,7 +57,7 @@ A new MediaStore CMS layout editor, giving users complete control over how their
 <strong>Extended Sales Features + Asset Delivery</strong> 
           </p>
           <p>
-New features rolled out in the current launch include extended functionality to organize information within the admin UI, upgraded analytics, an integrated Events & Markets section with a calendar for internal use and a promotional section on the client site, and an intuitive Delivery Wizard that you can use to distribute your assets in just 3 steps. In addition, the MediaStore white-label client site gets a polished design upgrade (fully customizable to any extent), with a bold focus on content and streaming-style intuitive features like dark-mode and easy-to-manage multi-language capabilities — so you can present your titles in cinematic quality, fresh out the box.
+New features rolled out in the current launch include extended functionality to organize information within the admin UI, upgraded analytics, an integrated Events & Markets section with a calendar for internal use and a promotional section on the client site, and an intuitive <a style="color:#7e7e7e;" target="_blank" href="https://mediafellows.com/features/11_fulfillment">Delivery Wizard</a> that you can use to distribute your assets in just 3 steps. In addition, the MediaStore <a style="color:#7e7e7e;" target="_blank" href="https://mediafellows.com/features/01_websites#content">white-label client site</a> gets a polished design upgrade (fully customizable to any extent), with a bold focus on content and streaming-style intuitive features like dark-mode and easy-to-manage multi-language capabilities — so you can present your titles in cinematic quality, fresh out the box.
           </p>
 		  <br>
           <p>

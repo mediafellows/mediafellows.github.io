@@ -3,6 +3,7 @@ layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: MediaBench Continues to Evolve and Innovate
 release_date: 25.03.2024
+date: 2024-03-25
 image: /assets/img/news/20240325_mediafellows-MediaBench_Press_Release.png
 image_border:
 image_credits: Upload reference images directly into comment discussions in the MediaBench interface

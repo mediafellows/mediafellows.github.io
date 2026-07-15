@@ -6,6 +6,8 @@ description: "Our <strong>Recommendations</strong> feature lets you share secure
 icon: /assets/img/icons/screening-links.svg
 image: /assets/img/features/links.jpg
 header_image: "/assets/img/bg/features.jpg"
+redirect_from:
+  - /features/03_links
 
 text: "With our Recommendations feature, one-click screening links with additional options (such as view restrictions, implicit access to embargoed content, 2FA validation) can be targeted to anyone – whether they’re already a user of the client platform or not. Trigger screening recommendations through various methods: choose a single title instantly, curate multiple titles for sending screening links with key art and product info, or send a direct link to a specific screener akin to video sharing platforms. Each recipient will get immediate access to their individual screening link via the email, or at any time in their logged-in client dashboard. Track everything from open-rates to link-clicks and view-time with our automated analytics. We ensure secure screening by applying validity period or view limits, sign-in-to-access restrictions, and visible watermarking – all adaptable on a case-by-case basis."
 

@@ -3,6 +3,7 @@ layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: MediaStore and Pixelogic Launch New Localization Order Feature to Streamline Content Creation
 release_date: 26.09.2025
+date: 2025-09-26
 image: /assets/img/news/20250925_mediafellows-localization_Press_Release.png
 image_border:
 image_credits: MediaStore's intuitive new localization order wizard.

@@ -3,6 +3,7 @@ layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: mediafellows goes to the 51st Annual International Emmy® Awards Gala
 release_date: 01.12.2023
+date: 2023-12-01
 image: /assets/img/news/20231201_mediafellows-International_Emmy_Awards-Gala-Press-Release_1.jpeg
 image_border:
 image_credits: mediafellows' representatives on the red carpet at the 51st International Emmy® Awards

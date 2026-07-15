@@ -3,6 +3,7 @@ layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: MediaStore Apps Now Available for Android and Amazon Fire TV
 release_date: 04.03.2025
+date: 2025-03-04
 image: /assets/img/news/20250304_mediafellows-Android-FireTV_Press_Release_1.png
 subimage_1: /assets/img/news/20250304_mediafellows-Android-FireTV_Press_Release_2.png
 image_border:
@@ -35,10 +36,10 @@ description: Through its pioneering MediaStore sales and marketing apps, mediafe
           <br>
           <p>{{ page.description }}</p>
           <p>
-Available in both custom and white-label formats, MediaStore’s mobile and TV apps are already available in Apple’s App Store and have now extended their reach to <a target="blank" href="https://play.google.com/store/apps/details?id=com.mediafellows.mediastore">Google Play</a> and <a target="blank" href="https://www.amazon.com/mediafellows-MediaStore-Generic-App/dp/B0DQXTT9ND">Amazon Fire TV</a> for all new and existing MediaStore customers using the latest version of the platform.   
+Available in both custom and white-label formats, MediaStore’s mobile and TV apps are already available in Apple’s App Store and have now extended their reach to <a target="_blank" href="https://play.google.com/store/apps/details?id=com.mediafellows.mediastore">Google Play</a> and <a target="_blank" href="https://www.amazon.com/mediafellows-MediaStore-Generic-App/dp/B0DQXTT9ND">Amazon Fire TV</a> for all new and existing MediaStore customers using the latest version of the platform.   
         </p>
         <p>
-          <a target="blank" href="https://mediafellows.com/news/20240528_mediafellows-MediaStore-V3.0_Press_Release">Find out more about updating to MediaStore 3.0.</a>
+          <a target="_blank" href="https://mediafellows.com/news/20240528_mediafellows-MediaStore-V3.0_Press_Release">Find out more about updating to MediaStore 3.0.</a>
       </p>
         </div>
   </div>
@@ -50,13 +51,13 @@ Available in both custom and white-label formats, MediaStore’s mobile and TV a
         <strong><big>Cinematic Screening with Fire TV</big></strong>         
       </p>
        <p>
-        Just like our <a target="blank" href="https://apps.apple.com/us/app/mediastore-generic-app/id1643153142">native Apple TV app</a>, mediafellows’ recently launched standard Fire TV app is available immediately for all users of our MediaStore platform with the newest update. Alternatively, mediafellows can develop a fully branded version that seamlessly reflects corporate identity across multiple platforms.
+        Just like our <a target="_blank" href="https://apps.apple.com/us/app/mediastore-generic-app/id1643153142">native Apple TV app</a>, mediafellows’ recently launched standard Fire TV app is available immediately for all users of our MediaStore platform with the newest update. Alternatively, mediafellows can develop a fully branded version that seamlessly reflects corporate identity across multiple platforms.
       </p>
       <p>
         Designed for premium screening quality in stunning <strong>4K Ultra HD</strong>, this app delivers an immersive cinematic experience with our renowned security features such as DRM, Dynamic Forensic, and Visible Watermarking. Content is perfectly showcased with a high-definition streaming solution that maximizes the impact of your screenings to enhance client engagement.
           </p>
           <p>
-            <a target="blank" href="https://www.amazon.com/mediafellows-MediaStore-Generic-App/dp/B0DQXTT9ND">Download the standard MediaStore Fire TV app on Amazon.</a>
+            <a target="_blank" href="https://www.amazon.com/mediafellows-MediaStore-Generic-App/dp/B0DQXTT9ND">Download the standard MediaStore Fire TV app on Amazon.</a>
         </p>
     </div>
 </div>
@@ -68,7 +69,7 @@ Available in both custom and white-label formats, MediaStore’s mobile and TV a
    <strong><big>Sales and Marketing with the Android App</big></strong>   
       </p>
       <p>
-        Feature-rich and designed for sales events, our apps are perfect for on-the-go activity. Like the established iOS app, users simply log into the new Android app and start browsing, with the option to save titles as <strong>Favorites</strong>. They can also receive personalized content suggestions from sales agents via the <strong>Recommendations</strong> feature. 
+        Feature-rich and designed for sales events, our apps are perfect for on-the-go activity. Like the <a style="color:#7e7e7e;" target="_blank" href="https://mediafellows.com/features/02_mobile#content">established iOS app</a>, users simply log into the new Android app and start browsing, with the option to save titles as <strong>Favorites</strong>. They can also receive personalized content suggestions from sales agents via the <a style="color:#7e7e7e;" target="_blank" href="https://mediafellows.com/features/02_mobile#content"><strong>Recommendations</strong></a> feature. 
       </p>
       <p>
         Additional features include individual video downloads (stored within secure device repositories) for <strong>offline viewing</strong> on the go or during meetings and markets. For added security, these downloads are linked to a team member’s MediaStore account and automatically removed upon log-out.
@@ -77,7 +78,7 @@ Available in both custom and white-label formats, MediaStore’s mobile and TV a
         Additionally, the <strong>Mobile Selections</strong> feature allows teams to precompile content for upcoming meetings or markets, which can then be shared and synced across multiple devices. As with the Fire TV app, standard MediaStore Android app is available immediately while fully branded and customized versions are available on request.
           </p>
           <p>
-            <a target="blank" href="https://www.amazon.com/mediafellows-MediaStore-Generic-App/dp/B0DQXTT9ND">Download the standard MediaStore Fire TV app on Amazon.</a>	
+            <a target="_blank" href="https://www.amazon.com/mediafellows-MediaStore-Generic-App/dp/B0DQXTT9ND">Download the standard MediaStore Fire TV app on Amazon.</a>	
       </p>
     </div>
 </div>

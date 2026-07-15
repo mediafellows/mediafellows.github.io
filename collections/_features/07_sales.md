@@ -6,6 +6,8 @@ description: Use the Marketing Calender to schedule on-site meetings, manage loc
 icon: /assets/img/icons/sales.svg
 image: /assets/img/features/sales.jpg
 header_image: "/assets/img/bg/features.jpg"
+redirect_from:
+  - /features/06_sales
 
 text: "Introducing our enhanced sales features, designed to streamline your sales process and elevate your marketing efforts. Effortlessly manage events, online meetings, and sales agent slots at expos through our MediaStore <strong>Marketing Calendar</strong>. Seamlessly integrated with our in-built video conferencing on our mobile app for efficient communication."
 

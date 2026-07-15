@@ -6,6 +6,8 @@ description: Offer pull fulfillment with easy self-service downloads, or push fu
 icon: /assets/img/icons/shopping-basket-solid.svg
 image: /assets/img/features/fulfillment.jpg
 header_image: "/assets/img/bg/features.jpg"
+redirect_from:
+  - /features/09_fulfillment
 
 text: "Host, review, and distribute your assets flexibly. MediaStore extends its functionality beyond sales and marketing by facilitating asset delivery to your licensees. Once your assets are hosted in MediaStore, distribution becomes effortless — eliminating the need to compile from scratch each time or reliance on external file transfer tools."
 

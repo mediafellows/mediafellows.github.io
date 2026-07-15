@@ -3,6 +3,7 @@ layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: MediaStore now on Apple TV
 release_date: 15.04.2021
+date: 2021-04-15
 image: /assets/img/news/20210415_mediafellows-Apple_TV_App_Press_Release.jpg
 image_border: true
 image_credits: MediaStore Apple TV App

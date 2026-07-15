@@ -3,6 +3,7 @@ layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: ITV Studios' new MediaStore iOS app proves hit at MipCom
 release_date: 01.11.2022
+date: 2022-11-01
 image: /assets/img/news/20221510_mediafellows-ITV_Studios_press_release.png
 image_border:
 image_credits: ITVStudios.com

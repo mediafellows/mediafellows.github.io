@@ -3,6 +3,7 @@ layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: MediaStore reappointed as the Tokyo International Film Festival’s Official Online Library for 2024
 release_date: 08.11.2024
+date: 2024-11-08
 image: /assets/img/news/20241107_mediafellows-TIFF_Press_Release.png
 image_border:
 image_credits: Tokyo International Film Festival 2024 — Media Store Online Library

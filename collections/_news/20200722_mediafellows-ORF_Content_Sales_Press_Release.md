@@ -3,6 +3,7 @@ layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: Celebrating the launch of ORF-Enterprise’s new screening platform https://contentsales.ORF.at
 release_date: 22.07.2020
+date: 2020-07-22
 image: /assets/img/news/20200722_mediafellows-ORF_Content_Sales_Press_Release.jpg
 image_border: true
 image_credits: ORF/Thomas Ramstorfer

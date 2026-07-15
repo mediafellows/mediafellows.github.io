@@ -6,6 +6,8 @@ description: Highlight content with custom collections or microsites to promote 
 icon: /assets/img/icons/microsites.svg
 image: /assets/img/features/microsites.jpg
 header_image: "/assets/img/bg/features.jpg"
+redirect_from:
+  - /features/05_microsites
 
 text: "Present your website's and app's user interfaces and metadata in multiple languages to target both domestic and international markets. Promote trending topics or core content with themed collections. Custom microsites, including timed event sites, can be set up to showcase current highlights or accompany a market screening."
 

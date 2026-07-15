@@ -3,6 +3,7 @@ layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: mediafellows’ Collaboration With RX France Continues With New MIPDOC Screening Library
 release_date: 17.04.2023
+date: 2023-04-17
 image: /assets/img/news/20230418_mediafellows_MIPDOC_Press_Release.jpg
 image_border:
 image_credits: Palais des Festivals de Cannes

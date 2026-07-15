@@ -3,6 +3,7 @@ layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: The MediaStore Mobile App has launched for iPad and iPhone 
 release_date: 23.06.2021
+date: 2021-06-23
 image: /assets/img/news/20210623_mediafellows-Mobile_App_Press_Release.jpg
 image_border:
 image_credits: MediaStore Mobile App

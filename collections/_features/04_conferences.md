@@ -6,6 +6,8 @@ description: Host joint screeners and virtual cinematic events with our direct, 
 icon: /assets/img/icons/chalkboard-teacher-solid.svg
 image: /assets/img/features/conferences.jpg
 header_image: "/assets/img/bg/features.jpg"
+redirect_from:
+  - /features/03_conferences
 
 text: "MediaStore's Video Screening Conference feature combines the traditional video conferencing functionality with the unique ability to stream promo and screener videos directly to participants, utilizing the platform's well-established and highly secure multi-bitrate video streaming engine. With this functionality, the platform provides those reliant on conferencing technology with an added value unique to MediaStore, resulting in a one-stop solution to remotely present exciting content to potential buyers in a compelling and technically frictionless manner."
 

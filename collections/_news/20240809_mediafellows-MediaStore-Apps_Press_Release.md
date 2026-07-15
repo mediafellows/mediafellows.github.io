@@ -3,6 +3,7 @@ layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: Hot to Go! New MediaStore Mobile App Features
 release_date: 09.08.2024
+date: 2024-08-09
 image: /assets/img/news/20240809_mediafellows-MediaStore-Apps_Press_Release.png
 subimage_1: /assets/img/news/20240809_mediafellows-MediaStore-Apps_Press_Release_Custom-Apps.png
 subimage_2: /assets/img/news/20240809_mediafellows-MediaStore-Apps_Press_Release_generic-app.png

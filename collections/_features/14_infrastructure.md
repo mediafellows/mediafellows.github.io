@@ -6,6 +6,8 @@ description: Our platform is fully cloud-based and scales to your needs, requiri
 icon: /assets/img/icons/network-wired-solid.svg
 image: /assets/img/features/infrastructure.jpg
 header_image: "/assets/img/bg/features.jpg"
+redirect_from:
+  - /features/14_structures
 
 text: "With our <strong>cloud-based, virtualized infrastructure</strong> hosted on AWS, we can not only ensure exceptional uptime and disruption-less rolling updates, but also scale storage and processing capabilities to your needs. Whether you're a small distributor with a few dozen new titles per year or a heavyweight distributor eager to host tens of thousands of titles and assets, you get the same level of service. Our auto-scaling infrastructure ensures that even at peak times, resources are simply amped up to match whatever throughput is required."
 

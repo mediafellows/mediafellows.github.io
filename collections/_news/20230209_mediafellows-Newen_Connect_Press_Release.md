@@ -3,6 +3,7 @@ layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: Bien Joué! Newen Connects International Markets with MediaStore.
 release_date: 09.02.2023
+date: 2023-02-09
 image: /assets/img/news/20230902_mediafellows-Newen_Connect_Press_Release.png
 image_border:
 image_credits: Newen Connect Website
@@ -41,13 +42,16 @@ description: Newen Studios Group kickstarted 2023 with the launch of their first
 Having previously hosted content across different platforms, Newen Studios Group recognized the need for both consolidation and customization to effectively target their home market, France, as well as maintain global reach. Not only would this mean displaying content in multiple languages, but also differentiating the publishing of content and data depending on the relevant target market. Therefore, the necessary consolidation of over 50,000 assets previously housed in separate production company archives of the Newen Studios Group was a complex project that mediafellows proved more than capable of delivering. 
           </p>
           <p>
-The new sales and marketing website  <a href="https://www.newenconnect.com/" target="blank">newenconnect.com</a> automatically switches to French or English based on the user's region or language preferences and shows particular geolocated content catalogs and marketing assets – with all this data being constantly synchronized automatically between Newen Studios Group’s on-premise storage systems and MediaStore. There’s no need for them to manage multiple websites in different languages or for separate markets – mediafellows’ fully integrated solution means that the entire process, from content upload to publishing and marketing, can be completed within one platform.
+The new sales and marketing website  <a href="https://www.newenconnect.com/" target="blank">newenconnect.com</a> automatically switches to French or English based on the user's region or language preferences and shows particular geolocated content catalogs and marketing assets – with all this data being constantly synchronized automatically between Newen Studios Group’s on-premise storage systems and MediaStore. There’s no need for them to manage multiple websites in different languages or for separate markets – mediafellows’ fully integrated solution means that the entire process, from content upload to publishing and marketing, can be completed within one platform. 
           </p>
+                  <p>
+          <a target="blank" href="https://mediafellows.com/features/09_microsites#content">Find out more about MediaStore's multi-language websites.</a>
+      </p>
           <p>
 Content ‘collections’ can be compiled easily within the admin UI, adding another level of flexibility to regional and market-specific output. Newen Studios Group’s clients and team members alike will be able to view screeners, detailed metadata, as well as the production status for each of the 15,000 hours of TV Programs and films – making the website a central source of invaluable shared information from multiple branches of the Newen Studios Group. User information in the form of analytics data is reported back to their CRM platform allowing their sales team to gain valuable insights, e.g., into actual interests and demands for content.
           </p>
           <p>
-In fact, MediaStore integrates so seamlessly with third-party platforms that sales agents can approve registrations within the CRM, get insights into comprehensive usage data, and even reach out to prospects by recommending shows and films of potential interest without leaving their primary sales tool. Additional tools and features such as an iOS-based mobile application allow offline content screening, making offline sales presentations easier than ever. 
+In fact, MediaStore integrates so seamlessly with third-party platforms that sales agents can approve registrations within the CRM, get insights into comprehensive usage data, and even reach out to prospects by recommending shows and films of potential interest without leaving their primary sales tool. Additional tools and features such as an <a href="https://mediafellows.com/features/02_mobile#content" target="blank">iOS-based mobile application</a> allow offline content screening, making offline sales presentations easier than ever. 
           </p>
           <p>
 Newen Connect CEO <strong>Rodolphe Buet</strong> commented: <i>"I am so glad that we launched the website. Our project manager <strong>Hannah Horner</strong> as well as mediafellows did a fantastic job managing the project and worked relentlessly for the successful launch. Thank you for the great collaboration."</i>

@@ -6,6 +6,8 @@ description: Our API-based infrastructure integrates with your systems to enable
 icon: /assets/img/icons/plug-solid.svg
 image: /assets/img/features/api.jpg
 header_image: "/assets/img/bg/features.jpg"
+redirect_from:
+  - /features/11_api
 
 text: "Our platform doesn't merely offer an API as an afterthought - the entire system is API-based, meaning that any available interactions can also be performed by external systems. MediaStore can save hours of data collation for your sales team by interfacing directly with CRMs including <strong>SalesForce</strong>, third-party analytics tools, SAP databases, and any external system. Whether you'd like to push titles or assets into the system, synchronize user data with your own CRM system, or even manage your own interface for all of the system's processes - our platform can accommodate you. Once we've identified your potential needs, a documentation of our API is available to get you started. But we can also make things work the other way round: If you'd like us to speak to your system's interface in its own language, building a custom process is also no problem for us. We will assist you in finding the best way to integrate with your existing infrastructure."
 

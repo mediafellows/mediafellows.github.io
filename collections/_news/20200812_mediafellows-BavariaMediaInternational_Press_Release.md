@@ -3,6 +3,7 @@ layout: news
 header_image: "/assets/img/bg/news.jpg"
 title: Successful launch of Bavaria Media International‘s new sales and distribution website
 release_date: 12.08.2020
+date: 2020-08-12
 image: /assets/img/news/20200812_mediafellows-Bavaria_Media_International_Press_Release.jpg
 image_border: true
 image_credits: Bavaria Media International‘s new website
