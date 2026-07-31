@@ -115,5 +115,4 @@ jekyll-archives:
 feed:
   collections:
     posts:
-      path: "/index.xml"\
-      
+      path: "/index.xml"

@@ -17,7 +17,7 @@
     {% if page.title %}<meta content="article" property="og:type">{% else %}<meta content="website" property="og:type">{% endif %}
     {% if page.description %}<meta content="{{ page.description }}" property="og:description">{% else %}<meta content="{{ site.description }}" property="og:description">{% endif %}
     {% if page.url %}<meta content="{{ site.url }}{{ page.url }}" property="og:url">{% endif %}
-    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+    <link rel="canonical" href="{{ site.url }}{{ page.url}}">
     {% if page.post_image %}<meta content="{{ page.post_image }}" property="og:image">{% else %}<meta content="{{ page.header_image }}" property="og:image">{% endif %}
     {% if page.tag %}{% for tag in page.tag %}<meta content="{{ tag }}" property="article:tag">{% endfor %}{% endif %}
     {% if page.categories %}{% for category in page.categories limit:1 %}<meta content="{{ category }}" property="article:section">{% endfor %}{% endif %}
