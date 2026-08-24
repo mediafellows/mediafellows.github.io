@@ -10,7 +10,7 @@ keywords: Contact mediafellows, mediafellows support, business inquiries, contac
 <section class="contact-area pb-70 pt-100">
     <div class="container">
         <div class="row">
-            <div class="col-xl-4 col-md-4 text-center text-md-left mb-30">
+            <div class="col-xl-3 col-md-6 text-center text-md-left mb-30">
                 <div class="contact-person">
                     <h4>Visit our office</h4>
                     <p>Feel free to drop by for a coffee or tea. We are open Monday to Friday to explain our offerings and discuss how they fit your needs in a face-to-face chat.</p>
@@ -20,18 +20,25 @@ keywords: Contact mediafellows, mediafellows support, business inquiries, contac
                     </a>
                 </div>
             </div>
-            <div class="col-xl-4 col-md-4 text-center text-md-left mb-30">
+            <div class="col-xl-3 col-md-6 text-center text-md-left mb-30">
                 <div class="contact-person">
                     <h4>Give us a call</h4>
                     <p>We are more than happy to jump on the phone and discuss which mediafellows offerings meet your requirements.</p>
                     <a href="tel:{{ site.phone | remove: ' ' }}"><i class="fas fa-phone"></i>{{ site.phone }}</a>
                 </div>
             </div>
-            <div class="col-xl-4 col-md-4 text-center text-md-left mb-30">
+            <div class="col-xl-3 col-md-6 text-center text-md-left mb-30">
                 <div class="contact-person">
                     <h4>Drop us a line</h4>
                     <p>Limited time to talk? Drop us a line and we will get back to you as soon as we can via email. Just let us know your availabilities and we can schedule an online presentation.</p>
                     <a href="mailto:{{ site.email }}"><i class="far fa-envelope"></i>{{ site.email }}</a>
+                </div>
+            </div>
+            <div class="col-xl-3 col-md-6 text-center text-md-left mb-30">
+                <div class="contact-person">
+                    <h4>Report a bug</h4>
+                    <p>Found something that's not working right? Let us know the details and we'll take a look as soon as possible.</p>
+                    <a href="{{ site.bug_report_url }}" target="_blank" rel="noopener"><i class="fas fa-bug"></i>Submit a report</a>
                 </div>
             </div>
         </div>

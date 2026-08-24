@@ -2,36 +2,45 @@
 <footer class="footer-section">
     <div class="container">
         <div class="footer-cta pt-80 pb-20">
-            <div class="row">
-                <div class="col-xl-4 col-md-4 mb-30">
-                    <div class="single-cta">
-                        <i class="fas fa-map-marker-alt"></i>
-                        <div class="cta-text">
-                            <h4>Visit us</h4>
-                            <span><a class="footer-link" href="{{ site.location }}" target="blank">{{ site.address }}</a></span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-md-4 mb-30">
-                    <div class="single-cta">
-                        <i class="fas fa-phone"></i>
-                        <div class="cta-text">
-                            <h4>Call us</h4>
-                            <span><a class="footer-link" href="tel:{{ site.phone | remove: ' ' }}">{{ site.phone }}</a></span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-md-4 mb-30">
-                    <div class="single-cta">
-                        <i class="far fa-envelope-open"></i>
-                        <div class="cta-text">
-                            <h4>Email us</h4>
-                            <span><a class="footer-link" href="mailto:{{ site.email }}">{{ site.email }}</a></span>
-                        </div>
-                    </div>
+    <div class="row">
+        <div class="col-xl-3 col-md-6 mb-30">
+            <div class="single-cta">
+                <i class="fas fa-map-marker-alt"></i>
+                <div class="cta-text">
+                    <h4>Visit us</h4>
+                    <span><a class="footer-link" href="{{ site.location }}" target="blank">{{ site.address }}</a></span>
                 </div>
             </div>
         </div>
+        <div class="col-xl-3 col-md-6 mb-30">
+            <div class="single-cta">
+                <i class="fas fa-phone"></i>
+                <div class="cta-text">
+                    <h4>Call us</h4>
+                    <span><a class="footer-link" href="tel:{{ site.phone | remove: ' ' }}">{{ site.phone }}</a></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-xl-3 col-md-6 mb-30">
+            <div class="single-cta">
+                <i class="far fa-envelope-open"></i>
+                <div class="cta-text">
+                    <h4>Email us</h4>
+                    <span><a class="footer-link" href="mailto:{{ site.email }}">{{ site.email }}</a></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-xl-3 col-md-6 mb-30">
+            <div class="single-cta">
+                <i class="fas fa-bug"></i>
+                <div class="cta-text">
+                    <h4>Report a bug</h4>
+                    <span><a class="footer-link" href="{{ site.bug_report_url }}" target="_blank" rel="noopener">Submit a report</a></span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
         <div class="footer-content pt-50 pb-30">
             <div class="footer-pattern">
                 <img src="{{site.baseurl}}/assets/img/footer/footer_map.png" alt="">
